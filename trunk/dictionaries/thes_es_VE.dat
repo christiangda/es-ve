@@ -12184,6 +12184,8 @@ camino|4
 -|andadura|caminata|recorrido|singladura|trayecto
 -|cañada|senda|sendero|trocha|vereda|vericueto
 -|dirección|itinerario|línea|recorrido|ruta|trayecto|vía
+camión|1
+(?)|vehículo|volquete
 camioneta|1
 -|autobús|autocar|ómnibus|bus|colectivo|guagua|pullman
 camisa|1
@@ -37646,6 +37648,8 @@ náutica|1
 -|navegación|singladura
 náutico|1
 -|marítimo|marino|naval|oceánico|transatlántico
+navegación|1
+(?)|navegar|cabotaje
 náyade|1
 -|dríada|nereida|ninfa|ondina|sílfide|sirena
 nazareno|2
