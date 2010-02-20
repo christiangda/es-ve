@@ -1,0 +1,7 @@
+Esta extensión está compuesta por:
+   1. Corrector Ortográfico (Spell Checker)
+   2. Tesauro (Thesaurus)
+   3. Separación Silábica (Hyphenation)
+
+Reemsamblado por: Christian Gonzalez <christiangda@gmail.com>
+Fecha (dd/mm/aaaa): 19/02/2010
