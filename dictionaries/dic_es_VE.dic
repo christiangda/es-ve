@@ -1,4 +1,4 @@
-71936
+71937
 a/sStpocf po:prep is:fem di:*
 aarónico/SG di:*
 aba/t di:*
@@ -13396,7 +13396,7 @@ caminero/GS di:*
 camino/S di:*
 caminó/ih di:*
 camio/S di:*
-camión/C di:*
+camión/C is:mas di:*
 camionero/SG di:*
 camioneta/S di:*
 camisa/hSi di:*
@@ -49577,6 +49577,7 @@ navarroaragonés/SG di:*
 nave/NGS di:*
 navegable/JS di:*
 navegables/k di:*
+navegación is:fem di:*
 navegador/GS di:*
 navegante/S di:*
 navegar/RDEA di:*
