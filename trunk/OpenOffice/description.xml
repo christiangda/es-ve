@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
-	<!-- Si quiere modificar este archivo, por favor leer la documentacion en: http://wiki.services.openoffice.org/wiki/Extension_Dictionaries -->
 	<version value="${PKG_oOo_VERSION}" />
 	<platform value="all" />
     <dependencies>
@@ -14,9 +13,9 @@
         <src xlink:href="http://es-ve.sourceforge.net" />
     </update-information>
     <registration>
-        <simple-license accept-by="admin" suppress-on-update="true" >
-            <license-text xlink:href="license/LICENSE" lang="en" />
-             <!--<license-text xlink:href="license/LICENSE-es" lang="es" />-->
+        <simple-license accept-by="admin" suppress-on-update="false" >
+            <license-text xlink:href="license/LICENSE-en" lang="en" />
+            <license-text xlink:href="license/LICENSE-es" lang="es" />
         </simple-license>
     </registration>
     <identifier value="org.openoffice.dictionaries.es.ve" />
@@ -35,6 +34,7 @@
 		<high-contrast xlink:href="images/icon_venezuela_flag.png" />
 	</icon>
 	<extension-description>
-		<src xlink:href="description/description-es_ve.txt" lang="es" />
+		<src xlink:href="description/description-en.txt" lang="en" />
+		<src xlink:href="description/description-es.txt" lang="es" />
 	</extension-description>
 </description>
