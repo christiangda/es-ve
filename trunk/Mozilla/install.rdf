@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#" xmlns:NC="http://home.netscape.com/NC-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>christiangda@users.sourceforge.net</em:id>
+    <em:id>es-ve@dictionaries.addons.mozilla.org</em:id>
 	<em:name>Diccionario español Venezuela</em:name>
     <em:version>1.0.2</em:version>
 	<em:creator>Christian Gonzalez </em:creator>
