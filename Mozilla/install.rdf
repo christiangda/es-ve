@@ -2,14 +2,24 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#" xmlns:NC="http://home.netscape.com/NC-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>christiangda@users.sourceforge.net</em:id>
-	<em:name>Corrector Ortográfico en español para Venezuela</em:name>
-    <em:version>1.0.1</em:version>
+	<em:name>Diccionario español Venezuela</em:name>
+    <em:version>1.0.2</em:version>
 	<em:creator>Christian Gonzalez </em:creator>
 	<em:developer>Christian Gonzalez</em:developer>
 	<em:description>Habilita la revisión ortográfica en español para Venezuela</em:description>
 	<em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
 	<em:type>2</em:type>
-
+	<!-- Spanish -->
+	<em:localized>
+		<Description>
+			<em:locale>es</em:locale>
+			<em:name>Diccionario español Venezuela </em:name>
+			<em:description>Corrector ortográfico en español Venezuela</em:description>
+			<em:creator>Christian Gonzalez</em:creator>
+			<em:developer>Christian Gonzalez</em:developer>
+			<em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
+		</Description>
+	</em:localized>
 	<!-- English -->
 	<em:localized>
 		<Description>
@@ -26,19 +36,17 @@
 		<Description>
 			<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
 			<em:minVersion>3.0a1</em:minVersion>
-			<em:maxVersion>3.6b1pre</em:maxVersion>
+			<em:maxVersion>3.7a3pre</em:maxVersion>
 		</Description>
     </em:targetApplication>
-    
     <!-- Mozilla Thunderbird -->
 	<em:targetApplication>
 		<Description>
 			<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
 			<em:minVersion>2.0a1</em:minVersion>
-			<em:maxVersion>3.1a1pre</em:maxVersion>
+			<em:maxVersion>3.2a1pre</em:maxVersion>
 		</Description>
 	</em:targetApplication>
-
 	<!-- Mozilla Sunbird -->
 	<em:targetApplication>
 		<Description>
@@ -47,67 +55,12 @@
 			<em:maxVersion>1.0pre</em:maxVersion>
 		</Description>
 	</em:targetApplication>
-
-	<!-- Mozilla Application Suite -->
-	<em:targetApplication>
-		<Description>
-			<em:id>{86c18b42-e466-45a9-ae7a-9b95ba6f5640}</em:id>
-			<em:minVersion>1.8a</em:minVersion>
-			<em:maxVersion>1.8+</em:maxVersion>
-		</Description>
-	</em:targetApplication>
-
 	<!-- SeaMonkey -->
 	<em:targetApplication>
 		<Description>
 			<em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
 			<em:minVersion>1.0a</em:minVersion>
 			<em:maxVersion>2.1a1pre</em:maxVersion>
-		</Description>
-	</em:targetApplication>
-
-	<!-- Mozilla Prism -->
-	<em:targetApplication>
-		<Description>
-			<em:id>prism@developer.mozilla.org</em:id>
-			<em:minVersion>0.8</em:minVersion>
-			<em:maxVersion>1.0.0.*</em:maxVersion>
-		</Description>
-	</em:targetApplication>
-
-	<!-- Flock -->
-	<em:targetApplication>
-		<Description>
-			<em:id>{a463f10c-3994-11da-9945-000d60ca027b}</em:id>
-			<em:minVersion>1.2.0</em:minVersion>
-			<em:maxVersion>2.0.*</em:maxVersion>
-		</Description>
-	</em:targetApplication>
-
-	<!-- Songbird -->
-	<em:targetApplication>
-		<Description>
-			<em:id>songbird@songbirdnest.com</em:id>
-			<em:minVersion>0.2.5</em:minVersion>
-			<em:maxVersion>1.0.*</em:maxVersion>
-		</Description>
-	</em:targetApplication>
-
-	<!-- Spicebird -->
-	<em:targetApplication>
-		<Description>
-			<em:id>{ee53ece0-255c-4cc6-8a7e-81a8b6e5ba2c}</em:id>
-			<em:minVersion>0.4</em:minVersion>
-			<em:maxVersion>0.7</em:maxVersion>
-		</Description>
-	</em:targetApplication>
-
-	<!-- Mozilla Toolkit -->
-	<em:targetApplication>
-		<Description>
-			<em:id>toolkit@mozilla.org</em:id>
-			<em:minVersion>1.8.*</em:minVersion>
-			<em:maxVersion>1.9.*</em:maxVersion>
 		</Description>
 	</em:targetApplication>
   </Description>
