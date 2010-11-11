@@ -1,10 +1,134 @@
 SET UTF-8
 
+TRY aeroinsctldumpbgfvhzóíjáqéñxyúükwAEROINSCTLDUMPBGFVHZÓÍJÁQÉÑXYÚÜKW
 
+REP 20
+REP ás az
+REP az ás
+REP cc x
+REP és ez
+REP ez és
+REP güe hue
+REP güi hui
+REP hue güe
+REP hui güi
+REP ís iz
+REP ío ido
+REP ke que
+REP ki qui
+REP ll y
+REP mb nv
+REP nv mb
+REP seci cesi
+REP x cc
+REP y ll
+REP vámonos vayámonos
+
+MAP 5
+MAP aáAÁ
+MAP eéEÉ
+MAP iíIÍ
+MAP oóOÓ
+MAP uúüUÚÜ
+
+WORDCHARS 0123456789
+NOSUGGEST --
 
 PFX a Y 2
 PFX a 0 a [^aeiou]
 PFX a 0 an [aeiou]
+
+PFX b Y 1
+PFX b 0 ante .
+
+PFX c Y 2
+PFX c 0 anti [^r]
+PFX c 0 antir r
+
+PFX d Y 2
+PFX d 0 auto [^r]
+PFX d 0 autor r
+
+PFX e Y 2
+PFX e 0 bi [^r]
+PFX e 0 bir r
+
+PFX f Y 6
+PFX f 0 con [^abehilopru]
+PFX f 0 con ll
+PFX f 0 com pb
+PFX f 0 co [aehiou]
+PFX f 0 co l[^l]
+PFX f 0 cor r
+
+PFX g Y 3
+PFX g 0 de [^er]
+PFX g 0 d e
+PFX g 0 der r
+
+PFX h Y 2
+PFX h 0 des [^s]
+PFX h 0 de s
+
+PFX i Y 2
+PFX i 0 em [bp]
+PFX i 0 en [^bp]
+
+PFX j Y 2
+PFX j 0 entre [^r]
+PFX j 0 entrer r
+
+PFX k Y 4
+PFX k 0 i l
+PFX k 0 im [bp]
+PFX k 0 in [^blpr]
+PFX k 0 ir r
+
+PFX l Y 1
+PFX l 0 inter .
+
+PFX m Y 2
+PFX m 0 micro [^r]
+PFX m 0 micror r
+
+PFX n Y 3
+PFX n 0 pr e
+PFX n 0 pre [^er]
+PFX n 0 prer r
+
+PFX o Y 2
+PFX o 0 pro [^r]
+PFX o 0 pror r
+
+PFX p Y 2
+PFX p 0 r e
+PFX p 0 re .
+
+PFX q Y 3
+PFX q 0 sem i
+PFX q 0 semi [^ir]
+PFX q 0 semir r
+
+PFX r Y 3
+PFX r 0 sobr e
+PFX r 0 sobre [^r]
+PFX r 0 sobrer r
+
+PFX s Y 1
+PFX s 0 sub .
+
+PFX t Y 1
+PFX t 0 super .
+
+PFX u Y 8
+PFX u e tran es
+PFX u 0 tran s
+PFX u 0 trans [^es]
+PFX u e trans e[^s]
+PFX u e tra es
+PFX u 0 tra s
+PFX u 0 tras [^es]
+PFX u e tras e[^s]
 
 SFX A Y 18
 SFX A r ción ar
@@ -500,9 +624,6 @@ SFX Æ er yéndoles [aeo]er
 SFX Æ r éndole ir
 SFX Æ r éndoles ir
 
-PFX b Y 1
-PFX b 0 ante .
-
 SFX B Y 6
 SFX B r dura [aií]r
 SFX B r duras [aií]r
@@ -510,10 +631,6 @@ SFX B r dura [^s]er
 SFX B r duras [^s]er
 SFX B er idura ser
 SFX B er iduras ser
-
-PFX c Y 2
-PFX c 0 anti [^r]
-PFX c 0 antir r
 
 SFX C Y 14
 SFX C r je ar
@@ -593,10 +710,6 @@ SFX Ç r éndooslo ir
 SFX Ç r éndooslas ir
 SFX Ç r éndooslos ir
 
-PFX d Y 2
-PFX d 0 auto [^r]
-PFX d 0 autor r
-
 SFX D Y 12
 SFX D r do [aií]r
 SFX D r dos [aií]r
@@ -668,10 +781,6 @@ SFX Ð ostrar uéstrala ostrar
 SFX Ð ostrar uéstralas ostrar
 SFX Ð ostrar uéstralo ostrar
 SFX Ð ostrar uéstralos ostrar
-
-PFX e Y 2
-PFX e 0 bi [^r]
-PFX e 0 bir r
 
 SFX E Y 73
 SFX E ar o ar
@@ -1070,14 +1179,6 @@ SFX Ë ír yéndooslo oír
 SFX Ë ír yéndooslas oír
 SFX Ë ír yéndooslos oír
 
-PFX f Y 6
-PFX f 0 con [^abehilopru]
-PFX f 0 con ll
-PFX f 0 com pb
-PFX f 0 co [aehiou]
-PFX f 0 co l[^l]
-PFX f 0 cor r
-
 SFX F Y 6
 SFX F te cia ante
 SFX F te cias ante
@@ -1085,11 +1186,6 @@ SFX F te cia [^i]ente
 SFX F te cias [^i]ente
 SFX F iente encia iente
 SFX F iente encias iente
-
-PFX g Y 3
-PFX g 0 de [^er]
-PFX g 0 d e
-PFX g 0 der r
 
 SFX G Y 18
 SFX G e a [^u]e
@@ -1111,10 +1207,6 @@ SFX G ón onas ón
 SFX G és esas és
 SFX G ós osas ós
 
-PFX h Y 2
-PFX h 0 des [^s]
-PFX h 0 de s
-
 SFX H Y 14
 SFX H 0 zo a
 SFX H 0 zos a
@@ -1130,10 +1222,6 @@ SFX H ín inazo ín
 SFX H ín inazos ín
 SFX H ón onazo ón
 SFX H ón onazos ón
-
-PFX i Y 2
-PFX i 0 em [bp]
-PFX i 0 en [^bp]
 
 SFX I Y 738
 SFX I ertar ierto ertar
@@ -2773,19 +2861,9 @@ SFX Ï urar úrasela urar
 SFX Ï urar úraselos urar
 SFX Ï urar úraselo urar
 
-PFX j Y 2
-PFX j 0 entre [^r]
-PFX j 0 entrer r
-
 SFX J Y 2
 SFX J le ilidad ble
 SFX J le ilidades ble
-
-PFX k Y 4
-PFX k 0 i l
-PFX k 0 im [bp]
-PFX k 0 in [^blpr]
-PFX k 0 ir r
 
 SFX K Y 26
 SFX K o idad [bdmnruvx]o
@@ -2814,9 +2892,6 @@ SFX K o idad [^l]so
 SFX K o idades [^l]so
 SFX K co quedad co
 SFX K co quedades co
-
-PFX l Y 1
-PFX l 0 inter .
 
 SFX L Y 34
 SFX L o ía ero
@@ -2853,10 +2928,6 @@ SFX L co quería co
 SFX L co querías co
 SFX L a uería ga
 SFX L a uerías ga
-
-PFX m Y 2
-PFX m 0 micro [^r]
-PFX m 0 micror r
 
 SFX M Y 40
 SFX M zo cez zo
@@ -2899,11 +2970,6 @@ SFX M o ez usto
 SFX M o eces usto
 SFX M o uez go
 SFX M o ueces go
-
-PFX n Y 3
-PFX n 0 pr e
-PFX n 0 pre [^er]
-PFX n 0 prer r
 
 SFX N Y 36
 SFX N a illa [bdfhjlmnprstv]a
@@ -2974,10 +3040,6 @@ SFX Ñ order uérdeme order
 SFX Ñ order uérdenos order
 SFX Ñ ostrar uéstrame ostrar
 SFX Ñ ostrar uéstranos ostrar
-
-PFX o Y 2
-PFX o 0 pro [^r]
-PFX o 0 pror r
 
 SFX O Y 18
 SFX O ta mo ta
@@ -3818,20 +3880,11 @@ SFX Ø oner ónselas oner
 SFX Ø oner ónselo oner
 SFX Ø oner ónselos oner
 
-PFX p Y 2
-PFX p 0 r e
-PFX p 0 re .
-
 SFX P Y 4
 SFX P r miento [ai]r
 SFX P r mientos [ai]r
 SFX P er imiento er
 SFX P er imientos er
-
-PFX q Y 3
-PFX q 0 sem i
-PFX q 0 semi [^ir]
-PFX q 0 semir r
 
 SFX Q Y 40
 SFX Q ar ión [lnsx]ar
@@ -3874,11 +3927,6 @@ SFX Q car xión car
 SFX Q car xiones car
 SFX Q jar xión ejar
 SFX Q jar xiones ejar
-
-PFX r Y 3
-PFX r 0 sobr e
-PFX r 0 sobre [^r]
-PFX r 0 sobrer r
 
 SFX R Y 235
 SFX R r mos [aei]r
@@ -4117,9 +4165,6 @@ SFX R r éndose [gq]uir
 SFX R ir yendo [^gq]uir
 SFX R ir yéndose [^gq]uir
 
-PFX s Y 1
-PFX s 0 sub .
-
 SFX S Y 32
 SFX S 0 s [aceéfgiíkoóptuúw]
 SFX S 0 es [bdhíjlmrúy]
@@ -4179,19 +4224,6 @@ SFX ß ostrar uéstrele ostrar
 SFX ß ostrar uéstreles ostrar
 SFX ß ostrar uéstrenle ostrar
 SFX ß ostrar uéstrenles ostrar
-
-PFX t Y 1
-PFX t 0 super .
-
-PFX u Y 8
-PFX u e tran es
-PFX u 0 tran s
-PFX u 0 trans [^es]
-PFX u e trans e[^s]
-PFX u e tra es
-PFX u 0 tra s
-PFX u 0 tras [^es]
-PFX u e tras e[^s]
 
 SFX ú Y 66
 SFX ú cer gámonos acer
