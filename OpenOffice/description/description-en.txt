@@ -1,7 +1,9 @@
-Esta extensión está compuesta por:
-   1. Corrector Ortográfico (Spell Checker)
-   2. Tesauro (Thesaurus)
-   3. Separación Silábica (Hyphenation)
+Spanish (Venezuela) spell check dictionary
 
-Reemsamblado por: Christian Gonzalez <christiangda@gmail.com>
-Fecha (dd/mm/aaaa): 19/02/2010
+This extension consists of:
+   1. Spell Checker (Corrector Ortográfico)
+   2. Thesaurus (Tesauro)
+   3. Hyphenation (Separación Silábica)
+
+Reassembling by: Christian Gonzalez <christiangda@gmail.com>
+Date (dd/mm/aaaa): 19/02/2010
