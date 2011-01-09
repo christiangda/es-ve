@@ -1,6 +1,6 @@
 const APP_DESCRIPTION	= "Diccionario español Venezuela";
 const APP_AUTHOR		= "christiangda@gmail.com";
-const APP_VERSION		= "1.0.2";
+const APP_VERSION		= "1.0.3";
 
 var err = initInstall(APP_DESCRIPTION, APP_AUTHOR, APP_VERSION);
 if (err != SUCCESS)

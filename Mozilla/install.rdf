@@ -3,12 +3,12 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>es-ve@dictionaries.addons.mozilla.org</em:id>
 	<em:name>Diccionario español Venezuela</em:name>
-    <em:version>1.0.2</em:version>
-	<em:creator>Christian Gonzalez </em:creator>
+    <em:version>1.0.3</em:version>
+	<em:type>2</em:type>
+	<em:creator>Christian Gonzalez</em:creator>
 	<em:developer>Christian Gonzalez</em:developer>
 	<em:description>Habilita la revisión ortográfica en español para Venezuela</em:description>
 	<em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
-	<em:type>2</em:type>
 	<!-- Spanish -->
 	<em:localized>
 		<Description>
@@ -17,6 +17,7 @@
 			<em:description>Corrector ortográfico en español Venezuela</em:description>
 			<em:creator>Christian Gonzalez</em:creator>
 			<em:developer>Christian Gonzalez</em:developer>
+			<em:translator>Christian Gonzalez</em:translator>
 			<em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
 		</Description>
 	</em:localized>
@@ -28,6 +29,7 @@
 			<em:description>Spanish (Venezuela) spell check dictionary</em:description>
 			<em:creator>Christian Gonzalez</em:creator>
 			<em:developer>Christian Gonzalez</em:developer>
+			<em:translator>Christian Gonzalez</em:translator>
 			<em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
 		</Description>
 	</em:localized>
@@ -35,16 +37,16 @@
     <em:targetApplication>
 		<Description>
 			<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-			<em:minVersion>3.0a1</em:minVersion>
-			<em:maxVersion>3.7a3pre</em:maxVersion>
+			<em:minVersion>3.0</em:minVersion>
+			<em:maxVersion>4.0.*</em:maxVersion>
 		</Description>
     </em:targetApplication>
     <!-- Mozilla Thunderbird -->
 	<em:targetApplication>
 		<Description>
 			<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
-			<em:minVersion>2.0a1</em:minVersion>
-			<em:maxVersion>3.2a1pre</em:maxVersion>
+			<em:minVersion>3.0</em:minVersion>
+			<em:maxVersion>3.3a2pre</em:maxVersion>
 		</Description>
 	</em:targetApplication>
 	<!-- Mozilla Sunbird -->
@@ -59,8 +61,8 @@
 	<em:targetApplication>
 		<Description>
 			<em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
-			<em:minVersion>1.0a</em:minVersion>
-			<em:maxVersion>2.1a1pre</em:maxVersion>
+			<em:minVersion>2.0</em:minVersion>
+			<em:maxVersion>2.1b2</em:maxVersion>
 		</Description>
 	</em:targetApplication>
   </Description>
