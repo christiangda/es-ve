@@ -1,3 +1,5 @@
+Diccionario de correción ortográfica en español para Venezuela
+
 Esta extensión está compuesta por:
    1. Corrector Ortográfico (Spell Checker)
    2. Tesauro (Thesaurus)
