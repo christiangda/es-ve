@@ -3,7 +3,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>es-ve@dictionaries.addons.mozilla.org</em:id>
 	<em:name>Diccionario español Venezuela</em:name>
-    <em:version>1.0.3</em:version>
+    <em:version>1.0.4</em:version>
 	<em:type>2</em:type>
 	<em:creator>Christian Gonzalez</em:creator>
 	<em:developer>Christian Gonzalez</em:developer>
