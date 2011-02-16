@@ -5,6 +5,7 @@
 	<em:name>Diccionario español Venezuela</em:name>
     <em:version>1.0.4</em:version>
 	<em:type>2</em:type>
+	<em:unpack>true<</em:unpack>
 	<em:creator>Christian Gonzalez</em:creator>
 	<em:developer>Christian Gonzalez</em:developer>
 	<em:description>Habilita la revisión ortográfica en español para Venezuela</em:description>
