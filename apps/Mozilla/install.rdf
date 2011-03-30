@@ -3,9 +3,9 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>es-ve@dictionaries.addons.mozilla.org</em:id>
 	<em:name>Diccionario español Venezuela</em:name>
-    <em:version>1.0.4</em:version>
+    <em:version>PKG_MOZ_VERSION</em:version>
 	<em:type>2</em:type>
-	<em:unpack>true<</em:unpack>
+	<em:unpack>true</em:unpack>
 	<em:creator>Christian Gonzalez</em:creator>
 	<em:developer>Christian Gonzalez</em:developer>
 	<em:description>Habilita la revisión ortográfica en español para Venezuela</em:description>
@@ -34,36 +34,36 @@
 			<em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
 		</Description>
 	</em:localized>
-    <!-- Firefox -->
-    <em:targetApplication>
+    <!-- Mozilla Firefox -->
+	<em:targetApplication>
 		<Description>
 			<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-			<em:minVersion>3.0</em:minVersion>
-			<em:maxVersion>4.2a1pre</em:maxVersion>
+			<em:minVersion>PKG_MOZ_FF_MIN_VER</em:minVersion>
+			<em:maxVersion>PKG_MOZ_FF_MAX_VER</em:maxVersion>
 		</Description>
     </em:targetApplication>
     <!-- Mozilla Thunderbird -->
 	<em:targetApplication>
 		<Description>
 			<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
-			<em:minVersion>3.0</em:minVersion>
-			<em:maxVersion>3.3a4pre</em:maxVersion>
+			<em:minVersion>PKG_MOZ_TB_MIN_VER</em:minVersion>
+			<em:maxVersion>PKG_MOZ_TB_MAX_VER</em:maxVersion>
 		</Description>
 	</em:targetApplication>
 	<!-- Mozilla Sunbird -->
 	<em:targetApplication>
 		<Description>
 			<em:id>{718e30fb-e89b-41dd-9da7-e25a45638b28}</em:id>
-			<em:minVersion>0.4a1</em:minVersion>
-			<em:maxVersion>1.0pre</em:maxVersion>
+			<em:minVersion>PKG_MOZ_SB_MIN_VER</em:minVersion>
+			<em:maxVersion>PKG_MOZ_SB_MAX_VER</em:maxVersion>
 		</Description>
 	</em:targetApplication>
-	<!-- SeaMonkey -->
+	<!-- Mozilla SeaMonkey -->
 	<em:targetApplication>
 		<Description>
 			<em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
-			<em:minVersion>2.0</em:minVersion>
-			<em:maxVersion>2.2a1pre</em:maxVersion>
+			<em:minVersion>PKG_MOZ_SM_MIN_VER</em:minVersion>
+			<em:maxVersion>PKG_MOZ_SM_MAX_VER</em:maxVersion>
 		</Description>
 	</em:targetApplication>
   </Description>
