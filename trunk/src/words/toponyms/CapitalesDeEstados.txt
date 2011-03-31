@@ -1,0 +1,27 @@
+################################################################################
+# Capitales de Estado
+################################################################################
+Caracas
+Ciudad Bolívar
+Coro
+Cumaná
+Barinas
+Barcelona
+Barquisimeto
+Guanare
+La Asunción
+La Guaira
+Los Teques
+Maracaibo
+Maracay
+Maturín
+Mérida
+Puerto Ayacucho
+San Carlos
+San Cristóbal
+San Felípe
+San Fernando
+San Juan de los Morros
+Tucupita
+Trujillo
+Valencia
