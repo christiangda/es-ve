@@ -1,0 +1,1654 @@
+#
+# División Político Territorial de Venezuela (Estados, Municipios y Parroquias)
+#
+
+################################################################################
+# Estados de Venezuela
+################################################################################
+Amazonas
+Anzoátegui
+Apure
+Aragua
+Barinas
+Bolívar
+Carabobo
+Cojedes
+Delta Amacuro
+Distrito Capital
+Falcón
+Guárico
+Lara
+Mérida
+Miranda
+Monagas
+Nueva Esparta
+Portuguesa
+Sucre
+Táchira
+Trujillo
+Vargas
+Yaracuy
+Zulia
+Guayana Esequiba
+
+################################################################################
+# Municipios de Venezuela
+################################################################################
+
+##################################
+# Distrito Capital
+##################################
+Libertador
+
+##################################
+# Estado Amazonas
+##################################
+Alto Orinoco
+Atabapo
+Atures
+Autana
+Manapiare
+Maroa
+Río Negro
+
+##################################
+# Anzoátegui
+##################################
+Anaco
+Aragua
+Diego Bautista Urbaneja
+Fernando de Peñalver
+Francisco de Carmen Carvajal
+Francisco de Miranda
+Guanta
+Independencia
+José Gregorio Monagas
+Juan Antonio Sotillo
+Juan Manuel Cajigal
+Libertad
+Manuel Ezequiel Bruzual
+Pedro María Freites
+Píritu
+San José de Guanipa
+San Juan de Capistrano
+Santa Ana
+Simón Bolívar
+Simón Rodríguez
+Sir Artur McGregor
+
+##################################
+# Apure
+##################################
+Achaguas
+Biruaca
+Muñoz
+Páez
+Pedro Camejo
+Rómulo Gallegos
+San Fernando
+
+##################################
+# Aragua
+##################################
+Bolívar
+Camatagua
+Francisco Linares Alcántara
+Girardot
+José Ángel Lamas
+José Félix Ribas
+José Rafael Revenga
+Libertador
+Mario Briceño Iragorry
+Ocumare de la Costa de Oro
+San Casimiro
+San Sebastián
+Santiago Mariño
+Santos Michelena
+Sucre
+Tovar
+Urdaneta
+Zamora
+
+##################################
+# Barinas
+##################################
+Alberto Arvelo Torrealba
+Andrés Eloy Blanco
+Antonio José de Sucre
+Arismendi
+Barinas
+Bolívar
+Cruz Paredes
+Ezequiel Zamora
+Obispos
+Pedraza
+Rojas
+Sosa
+
+##################################
+# Bolívar
+##################################
+Caroní
+Cedeño
+El Callao
+Gran Sabana
+Heres
+Padre Pedro Chien
+Piar
+Raúl Leoni
+Roscio
+Sifontes
+Sucre
+
+##################################
+# Carabobo
+##################################
+Bejuma
+Carlos Arvelo
+Diego Ibarra
+Guacara
+Juan José Mora
+Libertador
+Los Guayos
+Miranda
+Montalbán
+Naguanagua
+Puerto Cabello
+San Diego
+San Joaquín
+Valencia
+
+##################################
+# Cojedes
+##################################
+Anzoátegui
+El Pao de San Juan Bautista
+Falcón
+Girardot
+Lima Blanco
+Ricaurte
+Rómulo Gallegos
+San Carlos de Austria
+Tinaco
+
+##################################
+# Delta Amacuro
+##################################
+Antonio Díaz
+Casacoima
+Pedernales
+Tucupita
+
+##################################
+# Falcón
+##################################
+Acosta
+Bolívar
+Buchivacoa
+Cacique Manaure
+Carirubana
+Colina
+Dabajuro
+Democracia
+Falcón
+Federación
+Jacura
+Los Taques
+Mauroa
+Miranda
+Monseñor Iturriza
+Palmasola
+Petit
+Píritu
+San Francisco
+Silva
+Sucre
+Tocópero
+Unión
+Urumaco
+Zamora
+
+##################################
+# Guárico
+##################################
+Camaguán
+Chaguaramas
+El Socorro
+Francisco de Miranda
+José Félix Ribas
+José Tadeo Monagas
+Juan Germán Roscio
+Julián Mellado
+Las Mercedes
+Leonardo Infante
+Ortiz
+Pedro Zaraza
+San Gerónimo de Guayabal
+San José de Guaribe
+Santa María de Ipire
+
+##################################
+# Lara
+##################################
+Andrés Eloy Blanco
+Crespo
+Iribarren
+Jiménez
+Morán
+Palavecino
+Simón Planas
+Torres
+Urdaneta
+
+##################################
+# Mérida
+##################################
+Alberto Adriani
+Andrés Bello
+Antonio Pinto Salinas
+Aricagua
+Arzobispo Chacón
+Campo Elías
+Caracciolo Parra Olmedo
+Cardenal Quintero
+Guaraque
+Julio César Salas
+Justo Briceño
+Libertador
+Miranda
+Obispo Ramos de Lora
+Padre Noguera
+Pueblo Llano
+Rangel
+Rivas Dávila
+Santos Marquina
+Sucre
+Tovar
+Tulio Febres Cordero
+Zea
+
+##################################
+# Miranda
+##################################
+Acevedo
+Andrés Bello
+Baruta
+Brión
+Buroz
+Carrizal
+Chacao
+Cristóbal Rojas
+El Hatillo
+Guaicaipuro
+Independencia
+Lander
+Los Salias
+Páez
+Paz Castillo
+Pedro Gual
+Plaza
+Simón Bolívar
+Sucre
+Urdaneta
+Zamora
+
+##################################
+# Monagas
+##################################
+Acosta
+Aguasay
+Bolívar
+Caripe
+Cedeño
+Ezequiel Zamora
+Libertador
+Maturín
+Piar
+Punceres
+Santa Bárbara
+Sotillo
+Uracoa
+
+##################################
+# Nueva Esparta
+##################################
+Antolín del Campo
+Arismendi
+Díaz
+García
+Gómez
+Maneiro
+Marcano
+Mariño
+Península de Macanao
+Tubores
+Villalba
+
+##################################
+# Portuguesa
+##################################
+Agua Blanca
+Araure
+Esteller
+Guanare
+Guanarito
+Monseñor José Vicente de Unda
+Ospino
+Páez
+Papelón
+San Genaro de Boconoito
+San Rafael de Onoto
+Santa Rosalía
+Sucre
+Turén
+
+##################################
+# Sucre
+##################################
+Andrés Eloy Blanco
+Andrés Mata
+Arismendi
+Benítez
+Bermúdez
+Bolívar
+Cajigal
+Cruz Salmerón Acosta
+Libertador
+Mariño
+Mejía
+Montes
+Ribero
+Sucre
+Valdez
+
+##################################
+# Táchira
+##################################
+Andrés Bello
+Antonio Rómulo Costa
+Ayacucho
+Bolívar
+Cárdenas
+Córdoba
+Fernández Feo
+Francisco de Miranda
+García de Hevia
+Guasimos
+Independencia
+Jáuregui
+Jose María Vargas
+Junín
+Libertad
+Libertador
+Lobatera
+Michelena
+Panamericano
+Pedro María Ureña
+Rafael Urdaneta
+Samuel Darío Maldonado
+San Cristóbal
+San Judas Tadeo
+Seboruco
+Simón Rodríguez
+Sucre
+Torbes
+Uribante
+
+##################################
+# Trujillo
+##################################
+Andrés Bello
+Boconó
+Bolívar
+Candelaria
+Carache
+Escuque
+José Felipe Márquez Cañizales
+José Vicente Campo Elías
+La Ceiba
+Miranda
+Monte Carmelo
+Motatán
+Pampán
+Pampanito
+Rafael Rangel
+San Rafael de Carvajal
+Sucre
+Trujillo
+Urdaneta
+Valera
+
+##################################
+# Vargas
+##################################
+Vargas
+
+##################################
+# Yaracuy
+##################################
+Arístides Bastidas
+Bolívar
+Bruzual
+Cocorote
+Independencia
+Jose Antonio Páez
+La Trinidad
+Manuel Monge
+Nirgua
+Peña
+San Felipe
+Sucre
+Urachiche
+Veroes
+
+##################################
+# Zulia
+##################################
+Almirante Padilla
+Baralt
+Cabimas
+Catatumbo
+Colón
+Francisco Javier Pulgar
+Jesús Enrique Losada
+Jesús María Semprún
+La Cañada de Urdaneta
+Lagunillas
+Machiques de Perijá
+Mara
+Maracaibo
+Miranda
+Páez
+Rosario de Perijá
+San Francisco
+Santa Rita
+Simón Bolívar
+Sucre
+Valmore Rodríguez
+
+################################################################################
+# Parroquias de Venezuela
+################################################################################
+
+##################################
+# Distrito Capital
+##################################
+Altagracia
+Antímano
+Candelaria
+Caricuao
+Catedral
+Coche 
+El Junquito 
+EL Paraíso
+El Recreo
+El Valle
+La Pastora
+La Vega
+Macarao
+San Agustín
+San Bernardino
+San José
+San Juan
+San Pedro
+Santa Rosalía
+Santa Teresa
+Sucre
+23 de Enero
+
+##################################
+# Amazonas
+##################################
+Huachamacare
+Marawaka 
+Mavaca
+Sierra Parima 
+Ucata 
+Yapacana 
+Caname 
+Fernando Girón Tovar 
+Luis Alberto Gómez 
+Parhueña 
+Platanillal 
+Samariapo 
+Sipapo
+Munduapo
+Guayapo 
+Victorino
+Comunidad 
+Alto Ventuari 
+Medio Ventuari
+Bajo Ventuari 
+Solano 
+Casiquiare 
+Cocuy
+
+##################################
+# Anzoátegui
+##################################
+Capital Anaco
+San Joaquín
+Capital Aragua
+Cachipo
+Capital Fernando de Peñalver
+San Miguel
+Sucre
+Capital Francisco del Carmen Carvajal
+Santa Bárbara 
+Capital Francisco de Miranda
+Atapirire
+Boca del Pao
+El Pao
+Múcura
+Capital Guanta
+Chorrerón 
+Capital Independencia
+Mamo
+Capital Puerto La Cruz
+Pozuelos
+Capital Juan Manuel Cajiga
+San Pablo
+Capital José Gregorio Monagas
+Piar
+San Diego de Cabrutica
+Santa Clara
+Uverito
+Zuata
+Capital Libertad
+El Carito
+Santa Inés
+Capital Manuel Ezequiel Bruzua
+Guanape
+Sabana de Uchire
+Capital Pedro María Freites
+Libertador
+Santa Rosa
+Urica
+Capital Píritu 
+San Francisco 
+Capital San Juan de Capistrano
+Boca de Chávez 
+Capital Santa Ana 
+Pueblo Nuevo
+El Carmen
+San Cristóbal
+Bergantín
+Caigua
+El Pilar
+Naricual
+Edmundo Barrios
+Miguel Otero Silva
+Capital Sir Arthur Mc Gregor 
+Tomás Alfaro Calatrava  
+Capital Diego Bautista Urbaneja
+El Morro
+
+##################################
+# Apure
+##################################
+Urbana Achaguas
+Apurito
+El Yagual
+Guachara
+Mucuritas
+Queseras del Medio
+Urbana Biruaca
+Urbana Bruzual
+Mantecal
+Quintero
+Rincón Hondo
+San Vicente
+Urbana Guasdualito
+Aramendi
+El Amparo
+San Camilo
+Urdaneta
+Urbana San Juan de Payara
+Codazzi
+Cunaviche
+Urbana Elorza
+La Trinidad
+Urbana San Fernando
+El Recreo
+Peñalver
+San Rafael de Atamaica
+
+##################################
+# Aragua
+##################################
+Camatagua 
+No Urbana Carmen de Cura
+No Urbana Choroní 
+Urbana Las Delicias 
+Urbana Madre María de San José 
+Urbana Joaquín Crespo 
+Urbana Pedro José Ovalles
+Urbana José Casanova Godoy
+Urbana Andrés Eloy Blanco
+Urbana Los Tacariguas 
+José Félix Ribas 
+Castor Nieves Ríos 
+No Urbana Las Guacamayas
+No Urbana Pao de Zárate
+No Urbana Zuata
+Libertador 
+No Urbana San Martín de Porres 
+Mario Briceño Iragorry 
+Caña de Azúcar
+San Casimiro 
+No Urbana Güiripa
+No Urbana Ollas de Caramacate
+No Urbana Valle Morín
+Santiago Mariño 
+No Urbana Arévalo Aponte
+No Urbana Chuao
+No Urbana Samán de Güere
+No Urbana Alfredo Pacheco Miranda
+Santos Michelena 
+No Urbana Tiara
+Sucre 
+No Urbana Bella Vista
+Urdaneta 
+No Urbana Las Peñitas
+No Urbana San Francisco de Cara
+No Urbana Taguay
+Zamora 
+No Urbana Magdaleno
+No Urbana San Francisco de Asís
+No Urbana Valles de Tucutunemo
+No Urbana Augusto Mijares
+Francisco Linares Alcántara 
+No Urbana Francisco de Miranda 
+No Urbana Monseñor Feliciano González 
+
+##################################
+# Barinas
+##################################
+Sabaneta
+Rodríguez Domínguez
+Ticoporo
+Andrés Bello 
+Nicolás Pulido
+Arismendi
+Guadarrama
+La Unión
+San Antonio
+Barinas
+Alfredo Arvelo Larriva
+San Silvestre
+Santa Inés
+Santa Lucía
+Torunos
+El Carmen 
+Rómulo Betancourt 
+Corazón de Jesús 
+Ramón Ignacio Méndez 
+Alto Barinas 
+Manuel Palacio Fajardo
+Juan Antonio Rodríguez Domínguez 
+Dominga Ortiz de Páez 
+Barinitas
+Altamira
+Calderas
+Barrancas
+El Socorro
+Masparrito 
+Santa Bárbara
+José Ignacio Del Pumar
+Pedro Briceño Méndez
+Ramón Ignacio Méndez
+Obispos
+El Real
+La Luz
+Los Guasimitos 
+Ciudad Bolivia
+Ignacio Briceño
+José Félix Ribas 
+Paez
+Libertad
+Dolores
+Palacios Fajardo
+Santa Rosa
+Simón Rodríguez
+Ciudad de Nutrias
+El Regalo
+Puerto de Nutrias
+Santa Catalina
+Simón Bolívar
+El Cantón 
+Santa Cruz de Guacas 
+Puerto Vivas
+
+##################################
+# Bolivar
+##################################
+Cachamay 
+Chirica 
+Dalla Costa 
+Once de Abril 
+Simón Bolívar
+Unare 
+Universidad 
+Vista al Sol 
+Pozo Verde 
+Yocoima 
+Capital Cedeño
+Altagracia 
+Ascensión Farreras
+Guaniamo 
+La Urbana
+Pijiguaos
+Capital Gran Sabana
+Ikabarú 
+Agua Salada 
+Catedral
+José Antonio Páez 
+La Sabanita 
+Marhuanta 
+Vista Hermosa
+Orinoco
+Panapana
+Zea 
+Capital Piar
+Andrés Eloy Blanco
+Pedro Cova
+Capital Raúl Leoni
+Barceloneta
+San Francisco
+Santa Bárbara 
+Capital Roscio
+Salom
+Capital Sifontes
+Dalla Costa
+San Isidro
+Capital Sucre
+Aripao
+Guarataro
+Las Majadas
+Moitaco
+
+##################################
+# Carabobo
+##################################
+Urbana Bejuma
+No Urbana Canoabo
+No Urbana Simón Bolívar
+Urbana Güigüe
+No Urbana Belén
+No Urbana Tacarigua
+Urbana Aguas Calientes
+Urbana Mariara
+Urbana Ciudad Alianza
+Urbana Guacara
+No Urbana Yagua
+Urbana Morón
+No Urbana Urama
+Urbana Tocuyito
+Urbana Independencia
+Urbana Los Guayos
+Urbana Miranda
+Urbana Montalbán
+Urbana Naguanagua
+Urbana Bartolomé Salom
+Urbana Democracia
+Urbana Fraternidad
+Urbana Goaigoaza
+Urbana Juan José Flores
+Urbana Unión
+No Urbana Borburata
+No Urbana Patanemo
+Urbana San Diego
+Urbana San Joaquín
+Urbana Candelaria
+Urbana Catedral
+Urbana El Socorro
+Urbana Miguel Peña
+Urbana Rafael Urdaneta
+Urbana San Blas
+Urbana San José
+Urbana Santa Rosa
+No Urbana Negro Primero
+
+##################################
+# Cojedes
+##################################
+Cojedes
+Juan de Mata Suárez
+Tinaquillo
+El Baúl
+Sucre
+Macapo 
+La Aguadita 
+El Pao
+Libertad de Cojedes
+El Amparo
+Rómulo Gallegos
+San Carlos de Austria
+Juan Angel Bravo
+Manuel Manrique
+General en Jefe José Laurencio Silva 
+
+##################################
+# Delta Amacuro
+##################################
+Curiapo
+Almirante Luis Brión
+Francisco Aniceto Lugo 
+Manuel Renaud 
+Padre Barral 
+Santos de Abelgas
+Imataca 
+Cinco de Julio 
+Juan Bautista Arismendi
+Manuel Piar
+Rómulo Gallegos 
+Pedernales
+Luis Beltrán Prieto Figueroa
+San José 
+José Vidal Marcano
+Juan Millán
+Leonardo Ruíz Pineda
+Mariscal Antonio José de Sucre
+Monseñor Argimiro García
+San Rafael 
+Virgen del Valle
+
+##################################
+# Falcón
+##################################
+San Juan de los Cayos
+Capadare
+La Pastora
+Libertador
+San Luis
+Aracua
+La Peña 
+Capatárida
+Bariro
+Borojó
+Guajiro
+Seque
+Zazárida
+Carirubana
+Norte
+Punta Cardón
+Santa Ana
+La Vela de Coro
+Acurigua
+Guaibacoa
+Las Calderas
+Macoruca
+Pedregal
+Agua Clara
+Avaria
+Piedra Grande
+Purureche
+Pueblo Nuevo
+Adícora
+Baraived
+Buena Vista
+Jadacaquiva
+Moruy
+Adaure
+El Hato
+El Vínculo
+Churuguara
+Agua Larga
+El Paují 
+Independencia
+Mapararí
+Jacura
+Agua Linda
+Araurima
+Los Taques
+Judibana
+Mene de Mauroa
+Casigua
+San Félix
+San Antonio
+San Gabriel
+Santa Ana
+Guzmán Guillermo
+Mitare
+Río Seco
+Sabaneta
+Chichiriviche
+Boca de Tocuyo
+Tocuyo de la Costa
+Cabure
+Colina
+Curimagua
+Píritu
+San José de la Costa
+Tucacas
+Boca de Aroa
+Sucre
+Pecaya
+Santa Cruz de Bucaral
+El Charal 
+Las Vegas del Tuy 
+Urumaco
+Bruzual
+Puerto Cumarebo
+La Ciénaga
+La Soledad
+Pueblo Cumarebo
+Zazárida
+
+##################################
+# Guárico
+##################################
+Capital Camaguán
+Puerto Miranda
+Uverito 
+Chaguaramas
+El Socorro
+Capital San Gerónimo de Guayabal
+Cazorla
+Capital Valle de La Pascua
+Espino
+Capital Las Mercedes
+Cabruta
+Santa Rita de Manapire
+Capital El Sombrero
+Sosa 
+Capital Calabozo
+El Calvario
+El Rastro
+Guardatinajas
+Capital Altagracia de Orituco
+Lezama
+Libertad de Orituco
+Paso Real de Macaira 
+San Francisco de Macaira
+San Rafael de Orituco
+Soublette
+Capital Ortiz
+San Francisco de Tiznado
+San José de Tiznado
+San Lorenzo de Tiznado 
+Capital Tucupido
+San Rafael de Laya
+Capital San Juan de Los Morros
+Cantagallo 
+Parapara
+San José de Guaribe
+Capital Santa María de Ipire
+Altamira 
+Capital Zaraza
+San José de Unare
+
+##################################
+# Lara
+##################################
+Pío Tamayo
+Quebrada Honda de Guache 
+Yacambú
+Fréitez
+José María Blanco
+Catedral
+Concepción
+El Cují
+Juan de Villegas
+Santa Rosa
+Tamaca
+Unión
+Aguedo Felipe Alvarado
+Buena Vista
+Juárez
+Juan Bautista Rodríguez
+Cuara
+Diego de Lozada
+Paraíso de San José
+San Miguel
+Tintorero 
+José Bernardo Dorante
+Coronel Mariano Peraza 
+Bolívar
+Anzoátegui
+Guarico
+Hilario Luna y Luna
+Humocaro Alto
+Humocaro Bajo
+La Candelaria
+Morán
+Cabudare
+José Gregorio Bastidas
+Agua Viva 
+Sarare
+Buría
+Gustavo Vegas León
+Trinidad Samuel
+Antonio Díaz
+Camacaro
+Castañeda
+Cecilio Zubillaga
+Chiquinquirá
+El Blanco
+Espinoza de los Monteros
+Lara
+Las Mercedes
+Manuel Morillo
+Montaña Verde
+Montes de Oca
+Torres
+Heriberto Arroyo
+Reyes Vargas
+Altagracia 
+Siquisique
+Moroturo
+San Miguel
+Xaguas
+
+##################################
+# Mérida
+##################################
+Presidente Betancourt 
+Presidente Páez  
+Presidente Rómulo Gallegos 
+Gabriel Picón González
+Héctor Amable Mora
+José Nucete Sardi 
+Pulido Méndez 
+Capital Antonio Pinto Salinas 
+Mesa Bolívar
+Mesa de Las Palmas
+Capital Aricagua
+San Antonio 
+Capital Arzobispo Chacón
+Capurí 
+Chacantá 
+El Molino 
+Guaimaral 
+Mucutuy
+Mucuchachí
+Fernández Peña 
+Matriz
+Montalbán
+Acequias
+Jají
+La Mesa
+San José del Sur
+Capital Caracciolo Parra Olmedo
+Florencio Ramírez 
+Capital Cardenal Quintero
+Las Piedras
+Capital Guaraque
+Mesa de Quintero 
+Río Negro 
+Capital Julio César Salas
+Palmira 
+Capital Justo Briceño
+San Cristóbal de Torondoy
+Antonio Spinetti Dini 
+Arias
+Caracciolo Parra Pérez 
+Domingo Peña 
+El Llano
+Gonzalo Picón Febres 
+Jacinto Plaza 
+Juan Rodríguez Suárez
+Lasso de la Vega 
+Mariano Picón Salas 
+Milla
+Osuna Rodríguez 
+Sagrario
+El Morro
+Los Nevados 
+Capital Miranda
+Andrés Eloy Blanco
+La Venta
+Piñango 
+Capital Obispo Ramos de Lora
+Eloy Paredes
+San Rafael de Alcázar 
+Capital Rangel
+Cacute 
+La Toma
+Mucurubá
+San Rafael
+Capital Rivas Dávila
+Gerónimo Maldonado
+Capital Sucre
+Chiguará
+Estánquez
+La Trampa
+Pueblo Nuevo del Sur 
+San Juan
+El Amparo
+El Llano
+San Francisco
+Tovar
+Capital Tulio Febres Cordero
+Independencia
+María de la Concepción Palacios Blanco
+Santa Apolonia
+Capital Zea
+Caño El Tigre 
+
+
+##################################
+# Miranda
+##################################
+Caucagua
+Aragüita
+Arévalo González
+Capaya
+El Café
+Marizapa
+Panaquire
+Ribas
+San José de Barlovento
+Cumbo
+Baruta
+El Cafetal
+Las Minas de Baruta
+Higuerote
+Curiepe
+Tacarigua
+Mamporal
+Carrizal
+Chacao
+Charallave
+Las Brisas 
+El Hatillo
+Los Teques
+Altagracia de La Montaña 
+Cecilio Acosta
+El Jarillo 
+Paracotos
+San Pedro
+Tácata
+Santa Teresa del Tuy
+El Cartanal
+Ocumare del Tuy
+La Democracia
+Santa Bárbara
+San Antonio de Los Altos
+Río Chico
+El Guapo
+Tacarigua de La Laguna
+Paparo 
+San Fernando del Guapo
+Santa Lucía
+Cúpira
+Machurucuto
+Guarenas
+San Francisco de Yare
+San Antonio de Yare
+Petare
+Caucagüita
+Fila de Mariches
+La Dolorita
+Leoncio Martínez
+Cúa
+Nueva Cúa 
+Guatire
+Bolívar
+
+##################################
+# Monagas
+##################################
+Capital Acosta 
+San Francisco
+Capital Caripe
+El Guácharo
+La Guanota
+Sabana de Piedra
+San Agustín
+Teresén
+Capital Cedeño
+Areo
+San Félix
+Viento Fresco
+Capital Ezequiel Zamora
+El Tejero
+Capital Libertador
+Chaguaramas
+Las Alhuacas
+Tabasca
+Capital Maturín
+Alto de los Godos
+Boquerón
+Las Cocuizas
+San Simón
+Santa Cruz
+El Corozo
+El Furrial
+Jusepín
+La Pica
+San Vicente
+Capital Piar
+Aparicio
+Chaguaramal
+El Pinto
+Guanaguana
+La Toscana
+Taguaya
+Capital Punceres
+Cachipo
+Capital Sotillo
+Los Barrancos de Fajardo
+
+##################################
+# Nueva Esparta
+##################################
+Capital Díaz
+Zabala
+Capital García
+Francisco Fajardo
+Capital Gómez
+Bolívar
+Guevara
+Matasiete
+Sucre
+Capital Maneiro
+Aguirre
+Capital Marcano
+Adrián
+Capital Península de Macanao
+San Francisco
+Capital Tubores
+Los Barales
+Capital Villalba
+Vicente Fuentes
+
+##################################
+# Portuguesa
+##################################
+Capital Araure
+Río Acarigua
+Capital Esteller
+Uveral
+Capital Guanare
+Córdoba
+San José de la Montaña
+San Juan de Guanaguanare
+Virgen de la Coromoto
+Capital Guanarito
+Trinidad de la Capilla
+Divina Pastora
+Capital Mons.José Vicente de Unda
+Peña Blanca 
+Capital Ospino
+Aparición
+La Estación
+Capital Páez
+Payara
+Pimpinela
+Ramón Peraza 
+Capital Papelón
+Caño Delgadito
+Capital San Genaro de Boconoito
+Antolín Tovar
+Capital San Rafael de Onoto
+Santa Fe 
+Thermo Morles 
+Capital Santa Rosalía
+Florida
+Capital Sucre
+Concepción
+San Rafael de Palo Alzado
+Uvencio Antonio Velásquez
+San José de Saguaz 
+Villa Rosa
+Capital Turén
+Canelones
+Santa Cruz
+San Isidro Labrador
+
+##################################
+# Sucre
+##################################
+Mariño
+Rómulo Gallegos
+San José de Aerocuar
+Tavera Acosta
+Río Caribe
+Antonio José de Sucre
+El Morro de Puerto Santo
+Puerto Santo
+San Juan de Las Galdonas
+El Pilar
+El Rincón
+General Francisco Antonio Vásquez
+Guaraúnos
+Tunapuicito
+Unión
+Bolívar 
+Macarapana
+Santa Catalina
+Santa Rosa
+Santa Teresa
+Yaguaraparo
+El Paujil
+Libertad
+Araya
+Chacopata
+Manicuare
+Tunapuy
+Campo Elías
+Irapa
+Campo Claro
+Marabal
+San Antonio de Irapa
+Soro
+Cumanacoa
+Arenas
+Aricagua
+Cocollar
+San Fernando
+San Lorenzo
+Villa Frontado
+Catuaro
+Rendón
+Santa Cruz
+Santa María
+Altagracia
+Ayacucho
+Santa Inés
+Valentín Valiente
+San Juan
+Raúl Leoni
+Gran Mariscal
+Güiria
+Bideau
+Cristóbal Colón
+Punta de Piedras
+
+##################################
+# Táchira
+##################################
+Ayacucho 
+Rivas Berti
+San Pedro del Río
+Bolívar 
+Palotal
+Juan Vicente Gómez 
+Isaías Medina Angarita
+Cárdenas 
+Amenodoro Rangel Lamús
+La Florida
+Fernández Feo 
+Alberto Adriani
+Santo Domingo
+García de Hevia 
+Boca de Grita
+José Antonio Páez
+Independencia 
+Juan Germán Roscio
+Román Cárdenas
+Jáuregui 
+Emilio Constantino Guerrero
+Monseñor Miguel Antonio Salas 
+Junín 
+La Petrólea
+Quinimarí 
+Bramón
+Libertad 
+Cipriano Castro
+Manuel Felipe Rugeles 
+Libertador 
+Don Emeterio Ochoa 
+Doradas
+San Joaquín de Navay
+Lobatera 
+Constitución
+Panamericano 
+La Palmita
+Pedro María Ureña 
+Nueva Arcadia
+Samuel Darío Maldonado 
+Boconó
+Hernández
+La Concordia
+Pedro María Morantes
+San Juan Bautista
+San Sebastián
+Dr. Francisco Romero Lobo
+Sucre
+Eleazar López Contreras
+San Pablo
+ Uribante 
+Cárdenas
+Juan Pablo Peñaloza 
+Potosí
+
+##################################
+# Trujilllo
+##################################
+Santa Isabel 
+Araguaney 
+El Jagüito
+La Esperanza 
+Boconó
+El Carmen
+Mosquey
+Ayacucho
+Burbusay
+General Rivas
+Guaramacal
+Vega de Guaramacal 
+Monseñor Jáuregui
+Rafael Rangel
+San Miguel
+San José
+Sabana Grande
+Cheregüé 
+Granados
+Chejendé
+Arnoldo Gabaldón
+Bolivia
+Carrillo
+Cegarra
+Manuel Salvador Ulloa
+San José
+Carache
+Cuicas
+La Concepción
+Panamericana 
+Santa Cruz
+Escuque
+La Unión
+Sabana Libre
+Santa Rita
+El Socorro 
+Antonio José de Sucre 
+Los Caprichos
+Campo Elías 
+Arnoldo Gabaldón
+Santa Apolonia 
+El Progreso  
+La Ceiba  
+Tres de Febrero  
+El Dividive
+Agua Santa
+Agua Caliente
+El Cenizo
+Valerita 
+Monte Carmelo
+Buena Vista
+Santa María del Horcón 
+Motatán
+El Baño
+Jalisco
+Pampán
+Flor de Patria
+La Paz
+Santa Ana
+Pampanito
+La Concepción 
+Pampanito II 
+Betijoque
+La Pueblita
+Los Cedros 
+José Gregorio Hernández
+Carvajal
+Antonio Nicolás Briceño
+Campo Alegre 
+José Leonardo Suárez
+Sabana de Mendoza
+El Paraíso
+Junín
+Valmore Rodríguez
+Andrés Linares
+Chiquinquirá
+Cristóbal Mendoza
+Cruz Carrillo
+Matriz
+Monseñor Carrillo
+Tres Esquinas
+La Quebrada
+Cabimbú
+Jajó
+La Mesa
+Santiago
+Tuñame
+Juan Ignacio Montilla
+La Beatriz
+Mercedes Díaz
+San Luis
+La Puerta
+Mendoza
+
+##################################
+# Yaracuy
+##################################
+Capital Bruzual
+Campo Elías
+Capital Nirgua
+Salom
+Temerla
+Capital Peña
+San Andrés
+Capital San Felipe
+Albarico
+San Javier
+Capital Veroes
+El Guayabo
+
+##################################
+# Vargas
+##################################
+Caraballeda
+Carayaca
+Caruao
+Catia La Mar
+El Junko
+La Guaira
+Macuto
+Maiquetía
+Naiguatá
+Urimare
+Carlos Soublette 
+
+##################################
+# Zulia
+##################################
+Isla de Toas
+Monagas
+San Timoteo
+General Urdaneta
+Libertador
+Manuel Guanipa Matos
+Marcelino Briceño
+Pueblo Nuevo 
+Ambrosio
+Carmen Herrera
+Germán Ríos Linares
+La Rosa
+Jorge Hernández
+Rómulo Betancourt 
+San Benito 
+Arístides Calvani 
+Punta Gorda
+Encontrados
+Udón Pérez
+San Carlos del Zulia
+Moralito
+Santa Bárbara
+Santa Cruz del Zulia
+Urribarri
+Simón Rodríguez
+Carlos Quevedo
+Francisco Javier Pulgar 
+La Concepción
+José Ramón Yepes
+Mariano Parra León 
+San José 
+Jesús María Semprún 
+Barí 
+Concepción
+Andrés Bello
+Chiquinquirá
+El Carmelo
+Potreritos
+Alonso de Ojeda
+Libertad
+Campo Lara
+Eleazar López Contreras
+Venezuela
+Libertad
+Bartolomé de las Casas
+Río Negro 
+San José de Perijá
+San Rafael
+La Sierrita
+Las Parcelas 
+Luis de Vicente
+Monseñor Marcos Sergio Godoy
+Ricaurte
+Tamare 
+Antonio Borjas Romero
+Bolívar
+Cacique Mara
+Caracciolo Parra Pérez
+Cecilio Acosta
+Cristo de Aranza
+Coquivacoa
+Chiquinquirá
+Francisco Eugenio Bustamante
+Idelfonso Vásquez
+Juana de Avila
+Luis Hurtado Higuera
+Manuel Dagnino
+Olegario Villalobos
+Raúl Leoni
+Santa Lucía
+Venancio Pulgar
+San Isidro
+Altagracia
+Ana María Campos
+Faría
+San Antonio
+San José
+Sinamaica
+Alta Guajira 
+Elías Sánchez Rubio
+Guajira
+El Rosario
+Donaldo García
+Sixto Zambrano
+San Francisco
+El Bajo
+Domitila Flores
+Francisco Ochoa
+Los Cortijos 
+Marcial Hernández
+Jose Domingo Rus
+Santa Rita
+El Mene
+José Cenovio Urribarri 
+Pedro Lucas Urribarri
+Manuel Manrique 
+Rafael María Baralt 
+Rafael Urdaneta
+Bobures
+El Batey 
+Gibraltar
+Heras
+Monseñor Arturo Celestino Alvarez
+Rómulo Gallegos
+La Victoria
+Rafael Urdaneta 
+Raúl Cuenca
