@@ -1,0 +1,69 @@
+################################################################################
+# Hidrografia: Rios, Caños, Lagos, Embalses, Represas, etc.
+################################################################################
+
+################################################################################
+#Rios
+################################################################################
+Aponwao
+Apure
+Asa
+Atabapo
+Autana
+Cabriales
+Capanaparo
+Casupo
+Cataniapo
+Caura
+Caroní
+Chaviripa
+Chiguao
+Chirgua
+Cinaruco
+Cojedes
+Cuchivero
+Cunavichito
+Cuyuní
+Guaire
+Guaniamito
+Guárico
+Igués
+Mapirito
+Morichal Largo
+Neverí
+Orinoco
+Pao
+Paragua
+Pavoni
+Portuguesa
+Samariapo
+Tamanaco
+Trincheras
+Uracoa
+Tinaco
+Tiznados
+Verde
+
+################################################################################
+# Caños
+################################################################################
+Caño Pasa
+Caño La Guardia
+Caño La Pica
+
+################################################################################
+# Lagos
+################################################################################
+Valencia
+Maracaibo
+
+################################################################################
+# Embalses
+################################################################################
+Cachinche
+Guárico
+Guataparo
+Pao
+Playa de Piedra
+Tiznados
+Zuata
