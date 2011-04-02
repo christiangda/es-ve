@@ -1,0 +1,114 @@
+# Lista de lemas: ParticipiosIrregulares.txt
+# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+
+# Este listado es software libre: usted puede redistribuirlo y/o modificarlo
+# conforme a los términos de la Licencia Pública General de GNU, publicada
+# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
+# o una versión posterior (a su elección).
+
+# Este listado se distribuye con el deseo que le resulte útil, pero
+# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
+# información consulte el texto de la licencia respectiva seleccionada.
+
+# Debe haber recibido una copia de la Licencia Pública General de GNU junto
+# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+
+abierto/GS
+adscrito/GS
+arroto/GS
+bendito/GS
+bienquisto/GS
+circunscrito/GS
+compuesto/GS
+condicho/GS
+contradicho/GS
+contrahecho/GS
+contrapuesto/GS
+cubierto/GS
+depuesto/GS
+descompuesto/GS
+descrito/GS
+descubierto/GS
+desdicho/GS
+desenvuelto/GS
+desfecho/GS
+deshecho/GS
+desimpuesto/GS
+desprovisto/GS
+desvuelto/GS
+devuelto/GS
+dicho/GS
+dispuesto/GS
+disuelto/GS
+electo/GS
+encubierto/GS
+entreabierto/GS
+entredicho/GS
+entrevisto/GS
+envuelto/GS
+escrito/GS
+expuesto/GS
+frito/GS
+hecho/GS
+impreso/GS
+impuesto/GS
+indispuesto/GS
+inhiesto/GS
+inscrito/GS
+interdicho/GS
+interpuesto/GS
+maldicho/GS
+malquisto/GS
+manumiso/GS
+manuscrito/GS
+muerto/GS
+opuesto/GS
+pago/GS
+podrido/GS
+poseso/GS
+pospuesto/GS
+predicho/GS
+predispuesto/GS
+premuerto/GS
+prepuesto/GS
+prescrito/GS
+presupuesto/GS
+previsto/GS
+propuesto/GS
+proscrito/GS
+provisto/GS
+puesto/GS
+reabierto/GS
+recompuesto/GS
+recubierto/GS
+redicho/GS
+reelecto/GS
+reescrito/GS
+refrito/GS
+rehecho/GS
+reimpreso/GS
+repodrido/GS
+repuesto/GS
+resuelto/GS
+revisto/GS
+revuelto/GS
+roto/GS
+satisfecho/GS
+sepulto/GS
+sobreimpreso/GS
+sobrepuesto/GS
+sobrescrito/GS
+sofrito/GS
+subscrito/GS
+superpuesto/GS
+supuesto/GS
+suscrito/GS
+transcrito/GS
+transpuesto/GS
+trascrito/GS
+traspuesto/GS
+trasvisto/GS
+visto/GS
+vuelto/GS
+yuxtapuesto/GS
