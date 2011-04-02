@@ -113,6 +113,7 @@ Camburito-Caparo
 Caruachi
 Chavellinos
 Cruz Verde
+Cumaripa
 Dos Cerritos
 Durute
 El Andino
@@ -154,4 +155,17 @@ Tule
 Uribante
 Vista Alegre
 Zuata
+
+################################################################################
+# Represas
+################################################################################
+Caruachi
+El Cigarrón
+Guárico
+Guri
+Macagua
+La Becerra
+Tocoma
+Uribante Caparo
+Vista Alegre
 
