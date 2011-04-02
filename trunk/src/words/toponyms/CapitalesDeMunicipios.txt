@@ -1,0 +1,337 @@
+################################################################################
+# Capitales de Municipio
+################################################################################
+La Esmeralda
+San Fernando de Atabapo
+Puerto Ayacucho
+Isla Ratón
+San Juan de Manapiare
+Maroa
+San Carlos de Río Negro 
+Anaco
+Aragua de Barcelona
+Lechería
+Puerto Píritu
+Valle de Guanape
+Pariaguán
+Guanta
+Soledad
+Mapire
+Puerto la Cruz
+Onoto
+San Mateo
+Clarines
+Cantaura
+Píritu
+San José de Guanipa / El Tigrito
+Boca de Uchire
+Santa Ana
+Barcelona
+El Tigre
+El Chaparro 
+Achaguas
+Biruaca
+Bruzual
+Guasdualito
+San Juan de Payara
+Elorza
+San Fernando de Apure 
+San Mateo
+Camatagua
+Santa Rita
+Maracay
+Santa Cruz
+La Victoria
+El Consejo
+Palo Negro
+El Limón
+Ocumare de la Costa
+San Casimiro
+San Sebastián
+Turmero
+Las Tejerías
+Cagua
+Colonia Tovar
+Barbacoas
+Villa de Cura 
+Sabaneta
+El Cantón
+Socopo
+Arismendi
+Barinas
+Barinitas
+Barrancas
+Santa Bárbara
+Obispos
+Ciudad Bolivia
+Libertad
+Ciudad de Nutrias 
+Ciudad Guayana
+Caicara del Orinoco
+El Callao
+Santa Elena de Uairén
+Ciudad Bolívar
+El Palmar
+Upata
+Ciudad Piar
+Guasipati
+Tumeremo
+Maripa 
+Bejuma
+Güigüe
+Mariara
+Guacara
+Morón
+Tocuyito
+Los Guayos
+Miranda
+Montalbán
+Naguanagua
+Puerto Cabello
+San Diego
+San Joaquín
+Valencia 
+Cojedes
+El Pao
+Tinaquillo
+El Baúl
+Macapo
+Libertad
+Las Vegas
+San Carlos
+Tinaco 
+Curiapo
+Sierra Imataca
+Pedernales
+Tucupita 
+San Juan de los Cayos
+San Luis
+Capatárida
+Yaracal
+Punto Fijo
+La Vela de Coro
+Dabajuro
+Pedregal
+Pueblo Nuevo
+Churuguara
+Jacura
+Santa Cruz de Los Taques
+Mene de Mauroa
+Santa Ana de Coro
+Chichiriviche
+Palmasola
+Cabure
+Píritu
+Mirimire
+Tucacas
+La Cruz de Taratara
+Tocópero
+Santa Cruz de Bucaral
+Urumaco
+Puerto Cumarebo 
+Camaguán
+Chaguaramas
+El Socorro
+Calabozo
+Tucupido
+Altagracia de Orituco
+San Juan de los Morros
+El Sombrero
+Las Mercedes
+Valle de la Pascua
+Ortiz
+Zaraza
+Guayabal
+San José de Guaribe
+Santa María de Ipire 
+Sanare
+Duaca
+Barquisimeto
+Quíbor
+El Tocuyo
+Cabudare
+Sarare
+Carora
+Siquisique 
+El Vigía
+La Azulita
+Santa Cruz de Mora
+Aricagua
+Canagua
+Ejido
+Tucani
+Santo Domingo
+Guaraque
+Arapuey
+Torondoy
+Mérida
+Timotes
+Santa Elena de Arenales
+Santa María de Caparo
+Pueblo Llano
+Mucuchíes
+Bailadores
+Tabay
+Lagunillas
+Tovar
+Nueva Bolivia
+Zea 
+Caucagua
+San José de Barlovento
+Nuestra Señora del Rosario de Baruta
+Higuerote
+Mamporal
+Carrizal
+Chacao
+Charallave
+El Hatillo
+Los Teques
+Santa Teresa del Tuy
+Ocumare del Tuy
+San Antonio de los Altos
+Río Chico
+Santa Lucía
+Cúpira
+Guarenas
+San Francisco de Yare
+Petare
+Cúa
+Guatire 
+San Antonio
+Aguasay
+Caripito
+Caripe
+Caicara
+Punta de Mata
+Temblador
+Maturín
+Aragua de Maturín
+Quiriquire
+Santa Bárbara
+Barrancas
+Uracoa 
+Plaza Paraguachi
+La Asunción
+San Juan Bautista
+El Valle del Espíritu Santo
+Santa Ana
+Pampatar
+Juan Griego
+Porlamar
+Boca del Río
+Punta de Piedras
+San Pedro de Coche 
+Agua Blanca
+Araure
+Píritu
+Guanare
+Guanarito
+Paraíso de Chabasquén
+Ospino
+Acarigua
+Papelón
+Boconoito
+San Rafael de Onoto
+El Playón
+Biscucuy
+Villa Bruzual 
+Casanay
+San José de Aerocuar
+Río Caribe
+El Pilar
+Carúpano
+Marigüitar
+Yaguaraparo
+Araya
+Tunapuy
+Irapa
+San Antonio del Golfo
+Cumanacoa
+Cariaco
+Cumaná
+Güiria 
+Cordero
+Las Mesas
+Colón
+San Antonio del Táchira
+Táriba
+Santa Ana del Táchira
+San Rafael del Piñal
+San Jose de Bolívar
+La Fría
+Palmira
+Capacho Nuevo
+La Grita
+El Cobre
+Rubio
+Capacho Viejo
+Abejales
+Lobatera
+Michelena
+Coloncito
+Ureña
+Delicias
+La Tendida
+San Cristóbal
+Umuquena
+Seboruco
+San Simón
+Queniquea
+San Josecito
+Pregonero 
+Santa Isabel
+Boconó
+Sabana Grande
+Chejendé
+Carache
+Escuque
+El Paradero
+Campo Elías
+Santa Apolonia
+El Dividive
+Monte Carmelo
+Motatán
+Pampán
+Pampanito
+Betijoque
+Carvajal
+Sabana de Mendoza
+Trujillo
+La Quebrada
+Valera 
+La Guaira 
+San Pablo
+Aroa
+Chivacoa
+Cocorote
+Independencia
+Sabana de Parra
+Boraure
+Yumare
+Nirgua
+Yaritagua
+San Felipe
+Guama
+Urachiche
+Farriar. 
+El Toro
+San Timoteo
+Cabimas
+Encontrados
+San Carlos del Zulia
+Pueblo Nuevo / El Chivo
+La Concepción
+Casigua el Cubo
+Concepción
+Ciudad Ojeda
+Machiques
+San Rafael del Moján
+Maracaibo
+Los Puertos de Altagracia
+Sinamaica
+La Villa del Rosario
+San Francisco
+Santa Rita
+Tía Juana
+Bobures
+Bachaquero 
