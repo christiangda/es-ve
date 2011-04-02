@@ -1,16 +1,14 @@
-Copyright (C) 2010, Christian Gonzalez <christiangda@gmail.com> (http://es-ve.sourceforge.net)
+Copyright (C) 2009-2011, Christian Gonzalez <christiangda@gmail.com> (http://es-ve.sourceforge.net)
 
-Este programa es software libre: usted puede redistribuirlo y/o modificarlo 
-bajo los términos de la Licencia Pública General GNU publicada 
-por la Fundación para el Software Libre, ya sea la versión 3 
-de la Licencia, o (a su elección) cualquier versión posterior.
+Este listado es software libre: usted puede redistribuirlo y/o modificarlo
+conforme a los términos de la Licencia Pública General de GNU, publicada
+por la Free Software Foundation, ya sea la versión 3 de la Licencia,
+o una versión posterior (a su elección).
 
-Este programa se distribuye con la esperanza de que sea útil, pero 
-SIN GARANTÍA ALGUNA; ni siquiera la garantía implícita 
-MERCANTIL o de APTITUD PARA UN PROPÓSITO DETERMINADO. 
-Consulte los detalles de la Licencia Pública General GNU para obtener 
-una información más detallada. 
+Este listado se distribuye con el deseo que le resulte útil, pero
+SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
+de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
+información consulte el texto de la licencia respectiva seleccionada.
 
-Debería haber recibido una copia de la Licencia Pública General GNU 
-junto a este programa. 
-En caso contrario, consulte <http://www.gnu.org/licenses/>.
+Debe haber recibido una copia de la Licencia Pública General de GNU junto
+con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
