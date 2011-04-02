@@ -1,0 +1,71 @@
+# Lista de lemas: Adjetivos.txt
+# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+
+# Este listado es software libre: usted puede redistribuirlo y/o modificarlo
+# conforme a los términos de la Licencia Pública General de GNU, publicada
+# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
+# o una versión posterior (a su elección).
+
+# Este listado se distribuye con el deseo que le resulte útil, pero
+# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
+# información consulte el texto de la licencia respectiva seleccionada.
+
+# Debe haber recibido una copia de la Licencia Pública General de GNU junto
+# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+
+acoplable/S			# Contribuida por Ricardo Goldberger
+actitudinal/S
+acultural/S
+advertible/S
+almacenable/S
+anatomoclínico/GS
+anatomopatológico/GS
+antiautoritario/GS
+anticomercial/S
+antihorario/GS
+antimonopólico/GS
+autocorrectivo/GS
+autodenominado/GS
+autodeterminado/GS
+autolubricante/S
+autosustentable/S
+bidireccional/S
+colaborativo/GS
+combinacional/S			# Contribuida por César Romé
+completísimo/GS
+contextualizado/GS
+desplazable/S
+diédrico/GS
+fenólico/GS
+finísimo/GS
+franquiciado/GS
+globalizado/GS
+hidrotérmico/GS
+inefectivo/GS
+interoperable/S			# Contribuida por Gonzalo Higuera Díaz
+larguísimo/GS
+maremotriz/S
+mareomotriz/S
+melamínico/GS
+microinformático/GS
+monopólico/GS
+multidisciplinario/GS
+oligopólico/GS
+omnidireccional/S
+organizacional/S
+participativo/GS
+patrocinante/S
+pequeñísimo/GS
+periodontal/S
+poblacional/S
+policéntrico/GS
+postraumático/GS
+predictivo/GS
+prescriptor/GS
+ranurado/GS
+semiconsciente/S
+semielaborado/GS
+texturado/GS
+torsor/S
+unipolar/S
