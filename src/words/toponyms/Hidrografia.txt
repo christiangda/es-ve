@@ -5,51 +5,94 @@
 ################################################################################
 #Rios
 ################################################################################
+Albarregas
+Anauco
+Apón
 Aponwao
 Apure
+Aragua
+Arauca
 Asa
 Atabapo
 Autana
+Barima
+Botanamo
 Cabriales
 Capanaparo
+Caroní
+Cascada del Vino
+Casiquiare
 Casupo
 Cataniapo
+Catatumbo
+Caucagua
 Caura
-Caroní
+Chama
 Chaviripa
 Chiguao
 Chirgua
 Cinaruco
 Cojedes
+Copey
 Cuchivero
 Cunavichito
 Cuyuní
 Guaire
+Guamal
+Guanape
 Guaniamito
+Guanipa
 Guárico
+Guatire
+Güey
 Igués
+Ipire
+Manzanares
 Mapirito
+Mavaca
+Meta
+Mocotíes
 Morichal Largo
+Negro
 Neverí
+Norte
+Ocamo
 Orinoco
+Pacairigua
 Pao
 Paragua
 Pavoni
 Portuguesa
+Quebrada Honda
+Quinimarí
 Samariapo
+San Juan
+Socuy
+Táchira
 Tamanaco
-Trincheras
-Uracoa
 Tinaco
 Tiznados
+Tocuyo
+Torbes
+Trincheras
+Turbio
+Tuy
+Unare
+Upata
+Uracoa
+Ventuari
 Verde
+Yocoima
+Yuruari
+Zuata
+Zulia
 
 ################################################################################
 # Caños
 ################################################################################
-Caño Pasa
-Caño La Guardia
-Caño La Pica
+Pasa
+La Guardia
+La Pica
 
 ################################################################################
 # Lagos
@@ -60,10 +103,55 @@ Maracaibo
 ################################################################################
 # Embalses
 ################################################################################
+Agua Viva
+Atarigua
+Bocono-Tucupido
+Cabuv
 Cachinche
+Camaripa
+Camburito-Caparo
+Caruachi
+Chavellinos
+Cruz Verde
+Dos Cerritos
+Durute
+El Andino
+El Cigarron
+El Cují
+El Ermitaño
+El Gaical
+El Guamo
+El Medano
+El Pueblito
+Guanapito
+Guaremal
 Guárico
 Guataparo
+Guri
+La becerra
+La Estancia
+Las Doradas
+Las Majaguas
+Los Quediches
+Macagua
+Machango
+Masparro
+Maticora
+Onia
 Pao
 Playa de Piedra
+Santo Domingo
+Socuy
+Taiguaiguai
+Tamanaco
+Taparito
+Tierra Blanca
+Tiznado
 Tiznados
+Tocoma
+Tocuyo de la Costa
+Tule
+Uribante
+Vista Alegre
 Zuata
+
