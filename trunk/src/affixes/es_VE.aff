@@ -10,8 +10,8 @@
 # publicada por la Free Software Foundation.
 #
 #
-# Utilizamos la codificación ISO-8859-1
-SET ISO8859-1
+# Utilizamos la codificación UTF-8
+SET UTF-8
 
 # Orden de reemplazo
 TRY aeroinsctldumpbgfvhzóíjáqéñxyúükwAEROINSCTLDUMPBGFVHZÓÍJÁQÉÑXYÚÜKW
