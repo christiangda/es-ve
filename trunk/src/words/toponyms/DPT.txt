@@ -632,8 +632,8 @@ San Rafael de Atamaica
 # Aragua
 ##################################
 Camatagua 
-No Urbana Carmen de Cura
-No Urbana Choroní 
+Carmen de Cura
+Choroní 
 Urbana Las Delicias 
 Urbana Madre María de San José 
 Urbana Joaquín Crespo 
@@ -643,38 +643,38 @@ Urbana Andrés Eloy Blanco
 Urbana Los Tacariguas 
 José Félix Ribas 
 Castor Nieves Ríos 
-No Urbana Las Guacamayas
-No Urbana Pao de Zárate
-No Urbana Zuata
+Las Guacamayas
+Pao de Zárate
+Zuata
 Libertador 
-No Urbana San Martín de Porres 
+San Martín de Porres 
 Mario Briceño Iragorry 
 Caña de Azúcar
 San Casimiro 
-No Urbana Güiripa
-No Urbana Ollas de Caramacate
-No Urbana Valle Morín
+Güiripa
+Ollas de Caramacate
+Valle Morín
 Santiago Mariño 
-No Urbana Arévalo Aponte
-No Urbana Chuao
-No Urbana Samán de Güere
-No Urbana Alfredo Pacheco Miranda
+Arévalo Aponte
+Chuao
+Samán de Güere
+Alfredo Pacheco Miranda
 Santos Michelena 
-No Urbana Tiara
+Tiara
 Sucre 
-No Urbana Bella Vista
+Bella Vista
 Urdaneta 
-No Urbana Las Peñitas
-No Urbana San Francisco de Cara
-No Urbana Taguay
+Las Peñitas
+San Francisco de Cara
+Taguay
 Zamora 
-No Urbana Magdaleno
-No Urbana San Francisco de Asís
-No Urbana Valles de Tucutunemo
-No Urbana Augusto Mijares
+Magdaleno
+San Francisco de Asís
+Valles de Tucutunemo
+Augusto Mijares
 Francisco Linares Alcántara 
-No Urbana Francisco de Miranda 
-No Urbana Monseñor Feliciano González 
+Francisco de Miranda 
+Monseñor Feliciano González 
 
 ##################################
 # Barinas
@@ -786,18 +786,18 @@ Moitaco
 # Carabobo
 ##################################
 Urbana Bejuma
-No Urbana Canoabo
-No Urbana Simón Bolívar
+Canoabo
+Simón Bolívar
 Urbana Güigüe
-No Urbana Belén
-No Urbana Tacarigua
+Belén
+Tacarigua
 Urbana Aguas Calientes
 Urbana Mariara
 Urbana Ciudad Alianza
 Urbana Guacara
-No Urbana Yagua
+Yagua
 Urbana Morón
-No Urbana Urama
+Urama
 Urbana Tocuyito
 Urbana Independencia
 Urbana Los Guayos
@@ -810,8 +810,8 @@ Urbana Fraternidad
 Urbana Goaigoaza
 Urbana Juan José Flores
 Urbana Unión
-No Urbana Borburata
-No Urbana Patanemo
+Borburata
+Patanemo
 Urbana San Diego
 Urbana San Joaquín
 Urbana Candelaria
@@ -822,7 +822,7 @@ Urbana Rafael Urdaneta
 Urbana San Blas
 Urbana San José
 Urbana Santa Rosa
-No Urbana Negro Primero
+Negro Primero
 
 ##################################
 # Cojedes
