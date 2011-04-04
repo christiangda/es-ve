@@ -1,7 +1,24 @@
+##############################################################################
+# Copyright (C) 2009-2011, Christian Gonzalez <christiangda@gmail.com> (http://es-ve.sourceforge.net)
+#
+# Este listado es software libre: usted puede redistribuirlo y/o modificarlo
+# conforme a los términos de la Licencia Pública General de GNU, publicada
+# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
+# o una versión posterior (a su elección).
+#
+# Este listado se distribuye con el deseo que le resulte útil, pero
+# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
+# información consulte el texto de la licencia respectiva seleccionada.
+#
+# Debe haber recibido una copia de la Licencia Pública General de GNU junto
+# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+################################################################################
 
 LOCALIZACION="es_VE"
 ENCODING="utf8"
 
+#Nombre de los Diccionarios
 DICTIONARY_FILE_NAME="es_VE.dic"
 AFFIXES_FILE_NAME="es_VE.aff"
 HYPHNATION_FILE_NAME="hyph_es_VE.dic"
@@ -15,14 +32,29 @@ THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
 # ¿Crear este diccionario?, 1 si se quiere crear, 0 si no
 PKG_MOZ_CREATE=1
 
+#Datos del autor del paquete
+PKG_MOZ_AUTHOR_NAME="Christian González"
+PKG_MOZ_AUTHOR_EMAIL="christiangda@gmail.com"
+
 #Identificador único del la extensión para Mozilla
 PKG_MOZ_ID="es-ve@dictionaries.addons.mozilla.org"
 
 #Nombre que tendrá el archivo del paquete del diccionario para Mozilla
+PKG_MOZ_NAME="Diccionario en Español para Venezuela"
+
+#Descripción que tendrá el paquete
+PKG_MOZ_DESCRIPTION="Habilita la revisión ortográfica en español para Venezuela, la separación silábica y los sinónimos"
+
+#Nombre que tendrá el archivo del paquete del diccionario para Mozilla
 PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.0.4-fx+tb+sb+sm.xpi"
+#PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.0.4-fx+tb+sb+sm.zip"
+
+#Nombre de los Diccionarios
+PKG_MOZ_DICTIONARY_FILE_NAME="es_VE.dic"
+PKG_MOZ_AFFIXES_FILE_NAME="es_VE.aff"
 
 # Version
-PKG_MOZ_VERSION="1.0.4"
+PKG_MOZ_VERSION="1.0.5"
 
 # Mozilla Firefox
 PKG_MOZ_FF_MIN_VER="3.0"
@@ -50,7 +82,15 @@ PKG_oOo_CREATE=1
 
 #Nombre que tendrá el paquete del diccionario para OpenOffice
 PKG_oOo_NAME_FILE="dict-es_VE.oxt"
+#PKG_oOo_NAME_FILE="dict-es_VE.zip"
 
 # Version
-PKG_oOo_VERSION="1.0.4"
+PKG_oOo_VERSION="1.0.5"
+
+#Nombre de los Diccionarios
+PKG_oOo_DICTIONARY_FILE_NAME="es_VE.dic"
+PKG_oOo_AFFIXES_FILE_NAME="es_VE.aff"
+PKG_oOo_HYPHNATION_FILE_NAME="hyph_es_VE.dic"
+PKG_oOo_THESAURUS_DAT_FILE_NAME="th_es_VE.dat"
+PKG_oOo_THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
 

@@ -137,18 +137,18 @@ fi
 #Reemplazo las Variables definidas en config.sh en los respectivos
 #archivos dentro de las aplicaciones
 
+#Diccionarios de Mozilla
 if [ "$PKG_MOZ_CREATE" == "1" ]; then
 	echo "Creando diccionario para Mozilla ..."
 
-	for PKG_VAR in `grep -e 'PKG_MOZ_*' $ROOT_DIR/config.sh`
+	for PKG_VAR in `grep -e '^PKG_MOZ_.*' config.sh | sed 's/\ /\@@/g' | sed 's/\"//g'`
 	do
 		KEY=`echo ${PKG_VAR} | gawk -F= '{ print $1 }'`
-		VALUE=`echo ${PKG_VAR} | gawk -F= '{ print $2 }' | sed -e 's/\"//g'`
-
+		VALUE=`echo ${PKG_VAR} | gawk -F= '{ print $2 }' | sed -e 's/\@@/\\\ /g'`
 
 		for APPS_FILE in `grep -R $KEY $BUILD_DIR/apps/Mozilla/ | gawk -F: '{ print $1 }' | sort | uniq`
 		do
-			sed -i.bkup s/${KEY}/${VALUE}/g $APPS_FILE
+			sed -i.bkup s/$KEY/"${VALUE}"/g $APPS_FILE
 			rm -rf $APPS_FILE'.bkup'
 		done
 	done
@@ -166,7 +166,7 @@ if [ "$PKG_MOZ_CREATE" == "1" ]; then
 	if [ ! -d $OUT_DIR ]; then
 		mkdir $OUT_DIR
 	else
-		echo '¡Alerta!'
+		echo -n '¡Alerta! '
 		echo "Será reemplazado el archivo $OUT_DIR/$PKG_MOZ_NAME_FILE"
 	fi
 	
@@ -174,22 +174,22 @@ if [ "$PKG_MOZ_CREATE" == "1" ]; then
 	cd $ROOT_DIR
 fi
 
+#Diccionario de OpenOffice
 if [ "$PKG_oOo_CREATE" == "1" ]; then
 	echo "Creando diccionario para OpenOffice ..."
 
-	for PKG_VAR in `grep -e 'PKG_oOo_*' $ROOT_DIR/config.sh`
+	for PKG_VAR in `grep -e '^PKG_oOo_.*' config.sh | sed 's/\ /\@@/g' | sed 's/\"//g'`
 	do
-		KEY=`echo -n ${PKG_VAR} | gawk -F= '{ print $1 }'`
-		VALUE=`echo -n ${PKG_VAR} | gawk -F= '{ print $2 }' | sed -e 's/\"//g'`
+		KEY=`echo ${PKG_VAR} | gawk -F= '{ print $1 }'`
+		VALUE=`echo ${PKG_VAR} | gawk -F= '{ print $2 }' | sed -e 's/\@@/\\\ /g'`
 
 		for APPS_FILE in `grep -R $KEY $BUILD_DIR/apps/OpenOffice/ | gawk -F: '{ print $1 }' | sort | uniq`
 		do
-			sed -i.bkup s/${KEY}/${VALUE}/g $APPS_FILE
+			sed -i.bkup s/$KEY/"${VALUE}"/g $APPS_FILE
 			rm -rf $APPS_FILE'.bkup'
 		done
 	done
 	
-	#Coloco los diccionarios y demás cosas donde deben ir
 	#Coloco los diccionarios y demás cosas donde deben ir
 	cp $DICTIONARY_FILE $BUILD_DIR/apps/OpenOffice/dictionaries/
 	cp $AFFIXES_FILE $BUILD_DIR/apps/OpenOffice/dictionaries/
@@ -206,7 +206,7 @@ if [ "$PKG_oOo_CREATE" == "1" ]; then
 	if [ ! -d $OUT_DIR ]; then
 		mkdir $OUT_DIR
 	else
-		echo '¡Alerta!'
+		echo -n '¡Alerta! '
 		echo "Será reemplazado el archivo $OUT_DIR/$PKG_oOo_NAME_FILE"
 	fi
 	
