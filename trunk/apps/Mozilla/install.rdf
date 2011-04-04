@@ -14,8 +14,8 @@
 	<em:localized>
 		<Description>
 			<em:locale>es</em:locale>
-			<em:name>Diccionario español Venezuela </em:name>
-			<em:description>Corrector ortográfico en español Venezuela</em:description>
+			<em:name>Diccionario EN español Venezuela para Venezuela</em:name>
+			<em:description>Corrector ortográfico en español para Venezuela</em:description>
 			<em:creator>PKG_MOZ_AUTHOR_NAME</em:creator>
 			<em:developer>PKG_MOZ_AUTHOR_NAME</em:developer>
 			<em:translator>PKG_MOZ_AUTHOR_NAME</em:translator>
