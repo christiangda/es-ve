@@ -2,13 +2,13 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#" xmlns:NC="http://home.netscape.com/NC-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>PKG_MOZ_ID</em:id>
-	<em:name>Diccionario en Español para Venezuela</em:name>
+	<em:name>PKG_MOZ_NAME</em:name>
     <em:version>PKG_MOZ_VERSION</em:version>
 	<em:type>2</em:type>
 	<em:unpack>true</em:unpack>
-	<em:creator>Christian González</em:creator>
-	<em:developer>Christian González</em:developer>
-	<em:description>Habilita la revisión ortográfica en español para Venezuela</em:description>
+	<em:creator>PKG_MOZ_AUTHOR_NAME</em:creator>
+	<em:developer>PKG_MOZ_AUTHOR_NAME</em:developer>
+	<em:description>PKG_MOZ_DESCRIPTION</em:description>
 	<em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
 	<!-- Spanish -->
 	<em:localized>
@@ -16,9 +16,9 @@
 			<em:locale>es</em:locale>
 			<em:name>Diccionario español Venezuela </em:name>
 			<em:description>Corrector ortográfico en español Venezuela</em:description>
-			<em:creator>Christian González</em:creator>
-			<em:developer>Christian González</em:developer>
-			<em:translator>Christian González</em:translator>
+			<em:creator>PKG_MOZ_AUTHOR_NAME</em:creator>
+			<em:developer>PKG_MOZ_AUTHOR_NAME</em:developer>
+			<em:translator>PKG_MOZ_AUTHOR_NAME</em:translator>
 			<em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
 		</Description>
 	</em:localized>
@@ -28,9 +28,9 @@
 			<em:locale>en</em:locale>
 			<em:name>Spanish (Venezuela) spell check dictionary</em:name>
 			<em:description>Spanish (Venezuela) spell check dictionary</em:description>
-			<em:creator>Christian González</em:creator>
-			<em:developer>Christian González</em:developer>
-			<em:translator>Christian González</em:translator>
+			<em:creator>PKG_MOZ_AUTHOR_NAME</em:creator>
+			<em:developer>PKG_MOZ_AUTHOR_NAME</em:developer>
+			<em:translator>PKG_MOZ_AUTHOR_NAME</em:translator>
 			<em:homepageURL>http://es-ve.sourceforge.net</em:homepageURL>
 		</Description>
 	</em:localized>

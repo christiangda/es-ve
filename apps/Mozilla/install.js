@@ -1,5 +1,5 @@
-const APP_DESCRIPTION	= "Diccionario en Español para Venezuela";
-const APP_AUTHOR		= "Christian González <christiangda@gmail.com>";
+const APP_DESCRIPTION	= "PKG_MOZ_NAME";
+const APP_AUTHOR		= "PKG_MOZ_AUTHOR_NAME <PKG_MOZ_AUTHOR_EMAIL>";
 const APP_VERSION		= "PKG_MOZ_VERSION";
 
 var err = initInstall(APP_DESCRIPTION, APP_AUTHOR, APP_VERSION);
