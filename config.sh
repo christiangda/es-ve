@@ -32,6 +32,9 @@ THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
 # ¿Crear este diccionario?, 1 si se quiere crear, 0 si no
 PKG_MOZ_CREATE=1
 
+# Version
+PKG_MOZ_VERSION="1.1.0"
+
 #Datos del autor del paquete
 PKG_MOZ_AUTHOR_NAME="Christian González"
 PKG_MOZ_AUTHOR_EMAIL="christiangda@gmail.com"
@@ -52,9 +55,6 @@ PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.0.4-fx+tb+sb+sm.xpi"
 #Nombre de los Diccionarios
 PKG_MOZ_DICTIONARY_FILE_NAME="es_VE.dic"
 PKG_MOZ_AFFIXES_FILE_NAME="es_VE.aff"
-
-# Version
-PKG_MOZ_VERSION="1.0.5"
 
 # Mozilla Firefox
 PKG_MOZ_FF_MIN_VER="3.0"
@@ -80,12 +80,12 @@ PKG_MOZ_SM_MAX_VER="2.2a1pre"
 # ¿Crear este diccionario?, 1 si se quiere crear, 0 si no
 PKG_oOo_CREATE=1
 
+# Version del diccionario
+PKG_oOo_VERSION="1.1.0"
+
 #Nombre que tendrá el paquete del diccionario para OpenOffice
 PKG_oOo_NAME_FILE="dict-es_VE.oxt"
 #PKG_oOo_NAME_FILE="dict-es_VE.zip"
-
-# Version del diccionario
-PKG_oOo_VERSION="1.0.5"
 
 #Versión mínima de OpenOffice soportada
 PKG_oOo_APP_MIN_VERSION="3.2"
