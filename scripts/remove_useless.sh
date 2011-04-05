@@ -6,4 +6,4 @@
 #
 # USO:  cat fichero_entrada | remove_useless.sh > fichero_salida
 #
-sed '/^\#/d;/./!d;s/^[ \t]*//;s/[ \t]*$//'
+sed '/^\#/d;/./!d;s/^[ \t]*//;s/[ \t]*$//;/^$/d'
