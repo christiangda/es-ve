@@ -84,8 +84,11 @@ PKG_oOo_CREATE=1
 PKG_oOo_NAME_FILE="dict-es_VE.oxt"
 #PKG_oOo_NAME_FILE="dict-es_VE.zip"
 
-# Version
+# Version del diccionario
 PKG_oOo_VERSION="1.0.5"
+
+#Versión mínima de OpenOffice soportada
+PKG_oOo_APP_MIN_VERSION="3.2"
 
 #Nombre de los Diccionarios
 PKG_oOo_DICTIONARY_FILE_NAME="es_VE.dic"
