@@ -74,7 +74,6 @@ else
 	exit 1
 fi
 
-
 # Crear un directorio temporal de trabajo
 # Obtener el archivo de tesauro
 BUILD_DIR=$ROOT_DIR/$TMP_DIR
@@ -84,7 +83,6 @@ if [ -d $BUILD_DIR ]; then
 fi
 
 mkdir $ROOT_DIR/$TMP_DIR
-
 
 #Copio todos los archivos necesarios a esta nueva ruta y les remuevo los
 #comentarios y las lineas en blanco
@@ -100,11 +98,13 @@ HYPHNATION_FILE=$BUILD_DIR/${HYPHNATION_FILE_NAME}
 THESAURUS_DAT_FILE=$BUILD_DIR/${THESAURUS_DAT_FILE_NAME}
 THESAURUS_IDX_FILE=$BUILD_DIR/${THESAURUS_IDX_FILE_NAME}
 
-#Creo el diccionario de los toponimos
+#Creo el diccionario de los toponimos, PersonasGrupos y otros
 cat $ROOT_DIR/src/words/toponyms/*.txt \
+	$ROOT_DIR/src/words/PersonasGrupos/*.txt \
+	$ROOT_DIR/src/words/otros/*.txt \
 	| $ROOT_DIR/scripts/remove_useless.sh \
 	| $ROOT_DIR/scripts/order_remove_duplicates.sh \
-	> $BUILD_DIR/'TOPONYMS_'${DICTIONARY_FILE_NAME}'.txt'
+	> $BUILD_DIR/'OTHERS_'${DICTIONARY_FILE_NAME}'.txt'
 
 #Creo el archivo que contiene las palabras RAE y NoRAE
 cat $ROOT_DIR/src/words/NoRAE/*.txt \
@@ -116,12 +116,12 @@ cat $ROOT_DIR/src/words/NoRAE/*.txt \
 #Creo el archivo del diccionario
 touch $DICTIONARY_FILE
 
-cat $BUILD_DIR/'TOPONYMS_'${DICTIONARY_FILE_NAME}'.txt' \
+cat $BUILD_DIR/'OTHERS_'${DICTIONARY_FILE_NAME}'.txt' \
 	$BUILD_DIR/'NoRAE_AND_RAE_'${DICTIONARY_FILE_NAME}'.txt' \
 	| $ROOT_DIR/scripts/order_remove_duplicates.sh \
 	| wc -l >> $DICTIONARY_FILE
 	
-cat $BUILD_DIR/'TOPONYMS_'${DICTIONARY_FILE_NAME}'.txt' \
+cat $BUILD_DIR/'OTHERS_'${DICTIONARY_FILE_NAME}'.txt' \
 	$BUILD_DIR/'NoRAE_AND_RAE_'${DICTIONARY_FILE_NAME}'.txt' \
 	| $ROOT_DIR/scripts/order_remove_duplicates.sh \
 	>> $DICTIONARY_FILE
