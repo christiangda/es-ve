@@ -1509,6 +1509,7 @@ aventador/S
 aventajado/S
 aventajamiento/S
 aventamiento/S
+aventón/S
 averiguamiento/S
 averío/S
 averno/S
@@ -4091,6 +4092,7 @@ deponente/S
 deportivo/S
 deprecativo/S
 depresor/S
+dequeísmo
 derechuelo/S
 dermatoesqueleto/S
 dermesto/S
@@ -4434,6 +4436,7 @@ disparatorio/S
 disparo/S
 dispendio/S
 dispensario/S
+display
 dispondeo/S
 disponedor/S
 disquete/S
@@ -5157,6 +5160,7 @@ escandalar/S
 escandallo/S
 escándalo/S
 escandelar/S
+escáner
 escantillón/S
 escaño/S
 escaparate/S
@@ -5892,6 +5896,7 @@ forzamiento/pS
 fosado/S
 fosar/S
 fosfato/tS
+fosforito/S
 fósforo/S
 fósil/S
 foso/bS
@@ -6420,6 +6425,7 @@ hanzo/S
 hao/S
 harapo/S
 haraute/S
+hardware
 harem
 harén/S
 harinado/S
@@ -9749,6 +9755,7 @@ piujar/S
 piulido/S
 piune/S
 pivote/S
+píxel
 piyama/S
 pizarral/S
 pizarrero/S
@@ -10296,6 +10303,7 @@ quebrantaolas
 quebranto/S
 queche/S
 quehacer/S
+queísmo
 quejido/S
 quejigal/S
 quejigo/S
