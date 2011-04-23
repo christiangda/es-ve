@@ -33,7 +33,7 @@ THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
 PKG_MOZ_CREATE=1
 
 # Version
-PKG_MOZ_VERSION="1.1.0"
+PKG_MOZ_VERSION="1.1.1"
 
 #Datos del autor del paquete
 PKG_MOZ_AUTHOR_NAME="Christian González"
@@ -81,7 +81,7 @@ PKG_MOZ_SM_MAX_VER="2.2a1pre"
 PKG_oOo_CREATE=1
 
 # Version del diccionario
-PKG_oOo_VERSION="1.1.0"
+PKG_oOo_VERSION="1.1.1"
 
 #Nombre que tendrá el paquete del diccionario para OpenOffice
 PKG_oOo_NAME_FILE="dict-es_VE.oxt"
