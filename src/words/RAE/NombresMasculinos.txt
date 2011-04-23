@@ -1007,6 +1007,7 @@ antorchero/S
 antozoo/S
 ántrax
 antropocentrismo/S
+antropónimo
 antropomorfismo/S
 antropomorfo/S
 antro/S
@@ -5565,6 +5566,7 @@ eterismo/S
 eterno/S
 éter/S
 etesio/S
+étimo
 etilo/S
 etíope/S
 etmoides
@@ -13108,6 +13110,7 @@ yak/S
 yambo/S
 yang
 yate/S
+yeísmo
 yeguarizo/S
 yelmo/S
 yen/S

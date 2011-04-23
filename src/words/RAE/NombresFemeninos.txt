@@ -241,6 +241,7 @@ agorafobia/S
 ágora/S
 agrafia/S
 agramadera/S
+agramaticalidad
 agravación/S
 agravante/S
 agrazada/S
@@ -593,6 +594,7 @@ anadina/S
 anafalla/S
 anafilaxia/S
 anafilaxis
+anáfora
 analectas
 analgesia/S
 analítica/S
@@ -8530,6 +8532,7 @@ protección/S
 proteína/S
 protervia/S
 protervidad/S
+prótasis
 prótesis
 protohistoria/S
 protuberancia/S
@@ -10433,6 +10436,8 @@ ubre/S
 ufanía/S
 ulceración/S
 úlcera/S
+ultracorrección
+ultracorrecto/G
 ultratumba/S
 umbela/S
 umbelífera/S
@@ -10783,6 +10788,7 @@ vivienda/S
 vivijagua/S
 vizcondesa/S
 vocación/aokfSp
+vocalización
 voladura/S
 volanta/S
 volatería/S
