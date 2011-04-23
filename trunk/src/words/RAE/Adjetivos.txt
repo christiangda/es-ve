@@ -825,6 +825,7 @@ angélico/GS
 angelino/GS
 anginoso/GS
 angiospermo/GS
+anglicado/GS
 anglicano/GS
 angloamericano/SG
 anglohablante/S
@@ -896,6 +897,7 @@ anticongelante/S
 anticuado/GS
 antidepresivo/GS
 antidroga/S
+antietimológico/GS
 antiguo/SG
 antihistamínico/GS
 antihelmíntico/GS
@@ -990,6 +992,7 @@ apetitoso/GS
 apezonado/SG
 apiadador/GS
 apical/S
+apicoalveolar
 apilador/GS
 apiñado/GS
 apizarrado/GS
@@ -1016,6 +1019,7 @@ apologético/GS
 aporcador/SG
 aporreador/SG
 aposentador/GS
+apositivo/G
 apostante/S
 apostólico/GS
 apreciable/Sk
@@ -6436,6 +6440,7 @@ identificativo/GS
 ideológico/GS
 idílico/SG
 idiota/S
+idiomático/GS
 idólatra/S
 idóneo/GS
 ido/sGS
@@ -9431,6 +9436,7 @@ perforador/GS
 perfumador/GS
 pericial/S
 perieco/GS
+perifrástico/G
 periférico/GS
 periforme/S
 perilustre/S
