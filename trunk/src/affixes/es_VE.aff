@@ -17,7 +17,7 @@ SET UTF-8
 TRY aeroinsctldumpbgfvhzóíjáqéñxyúükwAEROINSCTLDUMPBGFVHZÓÍJÁQÉÑXYÚÜKW
 
 # Tabla de reemplazos
-REP 95
+REP 99
 REP ás         az
 REP az         ás
 REP cc         x
@@ -126,6 +126,12 @@ REP os         las
 REP os         les
 REP os         los
 REP os         se
+#
+# Algunos términos de la informática
+REP encriptar       cifrar
+REP indentar        sangrar
+REP performances    prestaciones
+REP requerimientos  requisitos
 
 # Mapeo de caracteres. Es útil en palabras acentuadas en la vocal incorrecta.
 # Por ej.: autómatico -> automático. Si bien estos casos son poco frecuentes,
@@ -291,7 +297,7 @@ PFX u e         tras      e[^s]
 #
 # Sufijo -ción (-ación, -ición): Indica 'acción y efecto', además denota
 # 'objeto', 'lugar' o 'conjunto'. Relaciona verbos con sustantivos femeninos.
-SFX A Y 9
+SFX A Y 10
 SFX A r         ción/S       ar
 SFX A er        ición/S      [^cn]er
 SFX A er        ición/S      [^e]cer
@@ -301,6 +307,7 @@ SFX A ner       sición/S     oner
 SFX A r         ción/S       [^c]ir
 SFX A r         ción/S       [^u]cir
 SFX A ir        ción/S       ucir
+SFX A tar       ción/S       tar         #Agregada por Christian González.  Extradición.
 
 # Sufijo -dura (-adura, -edura, -idura): Expresa 'acción y efecto', a veces
 # 'instrumento', 'medio', 'lugar' o 'conjunto'. Relaciona verbos con
