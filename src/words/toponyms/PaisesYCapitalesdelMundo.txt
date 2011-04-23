@@ -1,0 +1,800 @@
+# Copyright (C) 2009-2011, Christian Gonzalez <christiangda@gmail.com> (http://es-ve.sourceforge.net)
+#
+# Este listado es software libre: usted puede redistribuirlo y/o modificarlo
+# conforme a los términos de la Licencia Pública General de GNU, publicada
+# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
+# o una versión posterior (a su elección).
+#
+# Este listado se distribuye con el deseo que le resulte útil, pero
+# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
+# información consulte el texto de la licencia respectiva seleccionada.
+#
+# Debe haber recibido una copia de la Licencia Pública General de GNU junto
+# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+
+################################################################################
+# Paises y capitales
+################################################################################
+# El formato del archivo es:
+# Nombre del País
+# Abreviatura Internacional
+# Capital
+# Algún otro nombre
+# # (separador)
+#
+#
+Afganistán
+AF
+Kabul
+#
+Albania
+AL
+Tirana
+#
+Alemania
+DE
+Berlín
+#
+Andorra
+AD
+Andorra la Vella
+#
+Angola
+AO
+Luanda
+#
+Antigua y Barbuda
+AG
+Saint John's
+#
+Arabia Saudita
+SA
+Riad
+#
+Argelia
+DZ
+Argel
+#
+Argentina
+AR
+Buenos Aires
+#
+Armenia
+AM
+Ereván
+#
+Australia
+AU
+Canberra
+#
+Austria
+AT
+Viena
+#
+Azerbaiyán
+AZ
+Bakú
+#
+Bahamas
+BS
+Nassau
+#
+Bahrein
+BH
+Manama
+#
+Bangladesh
+BD
+Dhaka
+#
+Barbados
+BB
+Bridgetown
+#
+Belarús
+BY
+Minsk
+Bielorrusia
+#
+Bélgica
+BE
+Bruselas
+#
+Belice
+BZ
+Belmopan
+#
+Benin
+BJ
+Porto Novo
+#
+Bhután
+BT
+Timbu
+#
+Bolivia
+BO
+Sucre
+#
+Bosnia y Herzegovina
+BA
+Sarajevo
+#
+Botswana
+BW
+Gaborone
+#
+Brasil
+BR
+Brasilia
+#
+Brunei Darussalam
+BN
+Bandar Seri Begawan
+#
+Bulgaria
+BG
+Sofía
+#
+Burkina Faso
+BF
+Uagadugú
+#
+Burundi
+BI
+Bujumbura
+#
+Cabo Verde
+CV
+Praia
+#
+Camboya
+KH
+Phnom Penh
+#
+Camerún
+CM
+Yaundé
+#
+Canadá
+CA
+Ottawa
+#
+Chad
+TD
+Nyamena
+#
+Chile
+CL
+Santiago de Chile
+#
+China
+CN
+Beijing
+Pekín
+#
+Chipre
+CY
+Nicosia
+#
+Colombia
+CO
+Bogotá
+#
+Comoras
+KM
+Moroni
+#
+Congo
+CG
+Brazzaville
+#
+Costa de Marfil
+CI
+Yamusukro
+#
+Costa Rica
+CR
+San José
+#
+Croacia
+HR
+Zagreb
+#
+Cuba
+CU
+La Habana
+#
+Dinamarca
+DK
+Copenhague
+#
+Djibouti
+DJ
+Djibouti
+#
+Dominica
+DM
+Roseau
+#
+Ecuador
+EC
+Quito
+#
+Egipto
+EG
+El Cairo
+#
+El Salvador
+SV
+San Salvador
+#
+Emiratos Árabes Unidos
+AE
+Abu Dhabi
+#
+Eritrea
+ER
+Asmara
+#
+Eslovaquia
+SK
+Bratislava
+#
+Eslovenia
+SI
+Liubliana
+#
+España
+ES
+Madrid
+#
+Estados Unidos de América
+US
+Washington
+#
+Estonia
+EE
+Tallin
+#
+Etiopía
+ET
+Addis Abeba
+#
+Fiji
+FJ
+Suva
+#
+Filipinas
+PH
+Manila
+#
+Finlandia
+FI
+Helsinki
+#
+Francia
+FR
+París
+#
+Gabón
+GA
+Libreville
+#
+Gambia
+GM
+Banjul
+#
+Georgia
+GE
+Tiflis
+#
+Ghana
+GH
+Accra
+#
+Granada
+GD
+Saint George's
+#
+Grecia
+GR
+Atenas
+#
+Guatemala
+GT
+Ciudad de Guatemala
+#
+Guinea
+GN
+Conakry
+#
+Guinea Ecuatorial
+GQ
+Malabo
+#
+Guinea-Bissau
+GW
+Bissau
+#
+Guyana
+GY
+Georgetown
+#
+Haití
+HT
+Puerto Príncipe
+#
+Honduras
+HN
+Tegucigalpa
+#
+Hungría
+HU
+Budapest
+#
+India
+IN
+Nueva Delhi
+#
+Indonesia
+ID
+Yakarta
+#
+Irán
+IR
+Teherán
+#
+Iraq
+IQ
+Bagdad
+#
+Irlanda
+IE
+Dublín
+#
+Islandia
+IS
+Reykjavik
+#
+Islas Marshall
+MH
+Majuro
+#
+Islas Salomón
+SB
+Honiara
+#
+Israel
+IL
+Tel Aviv
+#
+Italia
+IT
+Roma
+#
+Jamaica
+JM
+Kingston
+#
+Japón
+JP
+Tokio
+#
+Jordania
+JO
+Ammán
+#
+Kazajstán
+KZ
+Astana
+#
+Kenia
+KE
+Nairobi
+#
+Kirguistán
+KG
+Bishkek
+#
+Kiribati
+KI
+Bairiki
+#
+Kuwait
+KW
+Kuwait
+#
+Laos
+LA
+Vientiane
+#
+Lesotho
+LS
+Maseru
+#
+Letonia
+LV
+Riga
+#
+Líbano
+LB
+Beirut
+#
+Liberia
+LR
+Monrovia
+#
+Libia
+LY
+Trípoli
+#
+Liechtenstein
+LI
+Vaduz
+#
+Lituania
+LT
+Vilnius
+#
+Luxemburgo
+LU
+Luxemburgo
+#
+Macedonia,
+MK
+Skopie
+#
+Madagascar
+MG
+Antananarivo
+#
+Malasia
+MY
+Kuala Lumpur
+#
+Malawi
+MW
+Lilongwe
+#
+Maldivas
+MV
+Malé
+#
+Mali
+ML
+Bamako
+#
+Malta
+MT
+La Valetta
+#
+Marruecos
+MA
+Rabat
+#
+Mauricio
+MU
+Port Louis
+#
+Mauritania
+MR
+Nuakchot
+#
+México
+MX
+Distrito Federal de México
+#
+Micronesia
+FM
+Palikir
+#
+Moldavia
+MD
+Chisinau
+#
+Mónaco
+MC
+Mónaco
+#
+Mongolia
+MN
+Ulaanbaatar
+#
+Montenegro
+MNE
+Podgorica
+#
+Mozambique
+MZ
+Maputo
+#
+Myanmar
+MM
+Rangún
+Birmania
+#
+Namibia
+NA
+Windhoek
+#
+Nauru
+NR
+Yaren
+#
+Nepal
+NP
+Katmandú
+#
+Nicaragua
+NI
+Managua
+#
+Níger
+NE
+Niamey
+#
+Nigeria
+NG
+Abuja
+#
+Noruega
+NO
+Oslo
+#
+Nueva Zelanda
+NZ
+Wellington
+#
+Omán
+OM
+Mascate
+#
+Países Bajos
+NL
+Amsterdam
+#
+Pakistán
+PK
+Islamabad
+#
+Palaos
+PW
+Koror
+#
+Panamá
+PA
+Panamá
+#
+Papúa Nueva Guinea
+PG
+Port Moresby
+#
+Paraguay
+PY
+Asunción
+#
+Perú
+PE
+Lima
+#
+Polonia
+PL
+Varsovia
+#
+Portugal
+PT
+Lisboa
+#
+Qatar
+QA
+Doha
+#
+Reino Unido de Gran Bretaña e Irlanda
+GB
+Londres
+#
+República Centroafricana
+CF
+Bangui
+#
+República Checa
+CZ
+Praga
+#
+República de Corea
+KR
+Seúl
+#
+República Democrática del Congo
+CD
+Kinshasa
+#
+República Dominicana
+DO
+Santo Domingo
+#
+República Popular Democrática de Corea
+KP
+Pyongyang
+#
+Rumanía
+RO
+Bucarest
+#
+Rusia
+RU
+Moscú
+#
+Rwanda
+RW
+Kigali
+#
+Samoa
+WS
+Apia
+#
+San Cristóbal y Nieves
+KN
+Basseterre
+#
+San Marino
+SM
+San Marino
+#
+San Vicente y las Granadinas
+VC
+Kingstown
+#
+Santa Lucía
+LC
+Castries
+#
+Santa Sede
+VA
+Ciudad del Vaticano
+#
+Santo Tomé y Principe
+ST
+Santo Tomé
+#
+Senegal
+SN
+Dakar
+#
+Serbia
+CS
+Belgrado
+#
+Seychelles
+SC
+Victoria
+#
+Sierra Leona
+SL
+Freetown
+#
+Singapur
+SG
+Singapur
+#
+Siria
+SY
+Damasco
+#
+Somalia
+SO
+Mogadiscio
+#
+Sri Lanka
+LK
+Colombo
+#
+Sudáfrica
+ZA
+Pretoria
+#
+Sudán
+SD
+Jartum
+#
+Suecia
+SE
+Estocolmo
+#
+Suiza
+CH
+Berna
+#
+Surinam
+SR
+Paramaribo
+#
+Swazilandia
+SZ
+Mbabane
+#
+Tailandia
+TH
+Bangkok
+#
+Tanzania
+TZ
+Dodoma
+#
+Tayikistán
+TJ
+Dushanbé
+#
+Timor Oriental
+TL
+Dili
+#
+Togo
+TG
+Lomé
+#
+Tonga
+TO
+Nuku'alofa
+#
+Trinidad y Tobago
+TT
+Puerto España
+#
+Túnez
+TN
+Túnez
+#
+Turkmenistán
+TM
+Ashgabat
+#
+Turquía
+TR
+Ankara
+#
+Tuvalu
+TV
+Fongafale
+#
+Ucrania
+UA
+Kiev
+#
+Uganda
+UG
+Kampala
+#
+Uruguay
+UY
+Montevideo
+#
+Uzbekistán
+UZ
+Tashkent
+#
+Vanuatu
+VU
+Port Vila
+#
+Venezuela
+VE
+Caracas
+#
+Vietnam
+VN
+Hanoi
+#
+Yemen
+YE
+Sana
+#
+Zambia
+ZM
+Lusaka
+#
+Zimbabwe
+ZW
+Harare
