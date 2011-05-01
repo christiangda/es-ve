@@ -37,6 +37,7 @@ ajedrecista/S
 alauí/S
 albacea/S
 alborotapueblos
+alergista/S
 alcista/S
 alférez/S
 algebrista/S
@@ -60,11 +61,13 @@ anestesista/S
 anormal/S
 antagonista/S
 anticresista/S
+antologista/S
 aparcacoches
 apátrida/S
 apologista/S
 apóstata/S
 aprovechante/S
+arabista/S
 araucanista/S
 arbitrista/S
 arbolista/S
@@ -348,6 +351,7 @@ folclorista/S
 folletista/S
 fondista/S
 fonetista/S
+foniatra/S
 forense/S
 fratricida/S
 frescales
@@ -361,8 +365,11 @@ gallina/S
 gatera/S
 genealogista/S
 general/S
+genetista/S
 gentil/S
+geomántico/GS
 geómetra/S
+geriatra/S
 germanista/S
 gimnasta/S
 gomista/S
@@ -608,6 +615,7 @@ protagonista/S
 provenzalista/S
 proverbista/S
 proxeneta/S
+psicoterapeuta/S
 psicópata/S
 psiquiatra/S
 publicista/S
@@ -622,11 +630,12 @@ quitapelillos
 rabinista/S
 racionista/S
 racista/S
+radio/S
 radioescucha/S
 radiofonista/S
-radio/S
 radiotelefonista/S
 radiotelegrafista/S
+radioterapeuta/S
 radioyente/S
 rapsoda/S
 rascatripas
@@ -677,6 +686,7 @@ secante/S
 segregacionista/S
 selenita/S
 semitista/S
+sexólogo/GS
 simbolista/S
 simplista/S
 sindicalista/S
@@ -686,6 +696,7 @@ sinsustancia/S
 sinvergüenza/S
 siquiatra/S
 sirviente/S
+sismólogo/GS
 sobresaliente/S
 socorrista/S
 soldado/S
