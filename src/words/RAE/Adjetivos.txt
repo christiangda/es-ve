@@ -10246,6 +10246,7 @@ quirógrafo/GS
 quiróptero/S
 quirúrgico/GS
 quisquilloso/GS
+quístico/GS
 quitador/GS
 quitinoso/GS
 quito/GS

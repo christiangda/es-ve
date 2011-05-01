@@ -570,6 +570,7 @@ amígdala/S
 amigdalina/S
 amigdalitis
 amistad/S
+amilosa/S
 amnesia/S
 amniocentesis
 amodita/S
@@ -4445,6 +4446,7 @@ fiambrera/S
 fianza/Sf
 fibra/S
 fibrina/S
+fibrosis
 ficción/S
 ficha/Sm
 fidelidad/kS
@@ -7538,6 +7540,7 @@ oscuridad/S
 osera/S
 ósmosis
 ostaga/S
+osteítis
 ostentación/S
 osteomalacia/S
 osteomielitis
