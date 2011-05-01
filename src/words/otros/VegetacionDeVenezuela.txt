@@ -16,35 +16,35 @@
 ################################################################################
 # Arboles, Arbustos, Flores, etc.
 ################################################################################
-Apamate
-Araguaney
+Apamate/S
+Araguaney/S
 Bucare Anauco
-Anauco
+Anauco/S
 Bucare Ceibo
-Ceibo
-Camoruco
-Caoba
-Caucho
-Cedro
-Cereipo
-Chaguaramo
-Cocotero
-Cují
+Ceibo/G
+Camoruco/S
+Caoba/GS
+Caucho/S
+Cedro/S
+Cereipo/S
+Chaguaramo/S
+Cocotero/S
+Cují/S
 Cují Yaque
-Frailejón
-Guatamare
-Guayacán
+Frailejón/S
+Guatamare/S
+Guayacán/S
 Mangle rojo
-Merecure
-Moriche
+Merecure/S
+Moriche/S
 Palma de Moriche
 Palma Llanera
 Pino criollo
 Pino laso
-Reinoso
-Roble
+Reinoso/S
+Roble/S
 Roso Blanco
-Samán
-Sarrapia
-Semeruco
+Samán/S
+Sarrapia/S
+Semeruco/S
 Uva de playa
