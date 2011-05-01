@@ -369,6 +369,7 @@ agraz/S
 agridulce/S
 agrietamiento/S
 agrifolio/S
+Agrónomo/GS
 agrupamiento/pS
 aguacatal/S
 aguacate/NS
@@ -592,6 +593,7 @@ alerce/S
 alérgeno/S
 alerón/S
 alero/S
+alergólogo/GS
 aletargamiento/S
 aleto/HS
 alezo/S
@@ -929,6 +931,7 @@ anejo/S
 anélido/S
 anemómetro/S
 anemoscopio/S
+anestesiólogo/GS
 aneroide/S
 anexionismo/S
 anfibio/S
@@ -1010,6 +1013,7 @@ antropocentrismo/S
 antropónimo
 antropomorfismo/S
 antropomorfo/S
+Antropólogo/GS
 antro/S
 antruejo/S
 antuzano/S
@@ -1383,6 +1387,7 @@ astil/S
 astracán/S
 astrágalo/S
 astrógrafo/S
+astrofísico/GS
 astrolabio/S
 astrolito/S
 astro/S
@@ -1608,6 +1613,7 @@ bacinete/S
 bacín/S
 bacisco/S
 bacteriófago/S
+bacteriólogo/GS
 báculo/S
 badajo/SH
 badal/S
@@ -1924,6 +1930,7 @@ bezaar/S
 bezar/S
 bezoar/S
 biberón/S
+bibliógrafo/GS
 bicentenario/S
 bichero/S
 bicho/S
@@ -1954,6 +1961,7 @@ bimestre/S
 bimetalismo/S
 bingo/S
 binomio/S
+biofísico/GS
 biombo/S
 biopolímero/S
 biotopo/S
@@ -2528,6 +2536,7 @@ cancelariato/S
 cancelario/S
 cancel/S
 cancerígeno/S
+cancerólogo/GS
 cáncer/S
 cancionero/S
 candado/S
@@ -2677,6 +2686,7 @@ cardias
 cardillar/S
 cardiógrafo/S
 cardiograma/S
+cardiólogo/GS
 cardizal/S
 cardo/NS
 cardón/S
@@ -2801,7 +2811,7 @@ casting
 castoreño/S
 castóreo/S
 castor/NS
-castrador/S
+castrador/GS
 castrapuercas
 castro/S
 casualismo/S
@@ -3250,6 +3260,7 @@ cisco/S
 cisne/S
 cisquero/S
 cisticerco/S
+citólogo/GS
 citoplasma/S
 citrato/S
 cítrico/S
@@ -3285,6 +3296,7 @@ cliché/S
 clic/S
 clima/S
 climaterio/S
+climatólogo/GS
 clinopodio/S
 clip/S
 clisé/S
@@ -3405,6 +3417,7 @@ columelar/S
 columpio/S
 coluro/S
 comadrazgo/S
+comadrón/GS
 comanche/S
 comando/S
 coma/S
@@ -3755,6 +3768,8 @@ coscorrón/S
 coselete/S
 coseno/S
 cosido/hS
+cosmógrafo/GS
+cosmólogo/GS
 cosmopolitismo/S
 cosmorama/S
 cosmos/m
@@ -4074,6 +4089,7 @@ delito/S
 demiurgo/S
 demonche/S
 demonio/S
+demógrafo/GS
 demóstenes
 demostrativo/S
 demudamiento/S
@@ -4096,6 +4112,7 @@ depresor/S
 dequeísmo
 derechuelo/S
 dermatoesqueleto/S
+Dermatólogo/GS
 dermesto/S
 derramamiento/S
 derrame/S
@@ -4602,6 +4619,7 @@ eclipse/S
 ecologismo/S
 economato/S
 ecónomo/S
+ecólogo/GS
 eco/S
 ecosistema/S
 ecosonda/S
@@ -4624,6 +4642,7 @@ efluvio/S
 efod/S
 efugio/S
 egipcio/S
+egiptólogo/GS
 egocentrismo/S
 egoísmo/S
 ego/S
@@ -4672,6 +4691,12 @@ elogio/S
 elote/S
 elucidario/S
 elzevirio/S
+enólogo/GS
+entomólogo/GS
+Etimólogo/GS
+etnógrafo/GS
+etnólogo/GS
+etólogo/GS
 emanantismo/S
 embabiamiento/S
 embaimiento/S
@@ -5070,6 +5095,7 @@ epiceno/S
 epicentro/S
 epiceyo/S
 epiciclo/S
+epidemiólogo/GS
 epidiascopio/S
 epigastrio/S
 epígrafe/S
@@ -5337,6 +5363,7 @@ espectroscopio/S
 espejismo/S
 espejo/Sg
 espejuelo/S
+espeleólogo/GS
 espeluznamiento/S
 espeque/S
 esperanto/S
@@ -5700,6 +5727,7 @@ fardo/CS
 fario/S
 fariseo/S
 fármaco/S
+farmacólogo/GS
 farolero/S
 farol/NSH
 faro/S
@@ -5873,6 +5901,7 @@ fonendoscopio/S
 fonio/S
 fonocaptor/S
 fonograma/S
+fonólogo/GS
 fontanal/S
 fontanar/S
 foque/iS
@@ -6117,9 +6146,16 @@ gazapatón/S
 gazapo/S
 gaznate/HS
 gazpacho/S
+geobotánico/GS
+geodesta/S
+geofísico/GS
+geógrafo/GS
+geólogo/GS
+geoquímico/GS
 gel/S
 gemelo/SG
 gemido/S
+gemólogo/GS
 gen
 gendarme/S
 generador/S
@@ -6147,6 +6183,7 @@ germano/S
 germen
 germicida/S
 germinal/S
+gerontólogo/GS
 gerundio/S
 gerundivo/S
 gesto/S
@@ -6239,6 +6276,7 @@ graduador/S
 gradual/S
 grafito/S
 grafo/S
+grafólogo/GS
 grajo/S
 gramaje/S
 gramil/S
@@ -6499,6 +6537,7 @@ henil/S
 heno/S
 henrio/S
 henry
+hepatólogo/GS
 heptacordo/S
 heraldo/S
 herbajero/S
@@ -6564,6 +6603,9 @@ hidroclorato/S
 hidrocloruro/S
 hidrofilacio/S
 hidrógeno/S
+hidrogeólogo/GS
+hidrógrafo/GS
+hidrólogo/GS
 hidromasaje/S
 hidromel/S
 hidrometeoro/S
@@ -6888,6 +6930,7 @@ iniciado/S
 inicio/S
 injerto/S
 inmueble
+inmunólogo/GS
 innatismo/S
 innominado/S
 inquinamento/S
@@ -7356,6 +7399,7 @@ levítico/S
 lexema/S
 lexiarca/S
 léxico/S
+lexicólogo/GS
 lezdero/S
 libamen/S
 libamiento/S
@@ -8125,6 +8169,7 @@ michelín/S
 michino/S
 micho/S
 mico/S
+micólogo/GS
 microbio/S
 microchip/S
 microcosmo
@@ -8164,6 +8209,7 @@ mimbreral/S
 mimeógrafo/S
 mimetismo/S
 mimo/S
+mimógrafo/GS
 minador/S
 mineraje/S
 mineral/S
@@ -8541,6 +8587,7 @@ museo/S
 musgo/S
 musical/S
 musicastro/S
+musicólogo/GS
 musiquero/S
 muslo/S
 mus/S
@@ -8617,6 +8664,7 @@ néctar/S
 neerlandés/S
 nefelismo/S
 nefrítico/S
+nefrólogo/GS
 negamiento/Sa
 negociado/S
 negocio/S
@@ -8658,6 +8706,9 @@ nestorianismo/S
 neto/aS
 neuma/S
 neumococo/S
+neumólogo/GS
+neurobiólogo/GS
+neuroembriólogo/GS
 neuroepitelio/S
 neuroesqueleto/S
 neuroma/S
@@ -8799,6 +8850,7 @@ occipital/S
 occipucio/S
 occitano/S
 océano/S
+oceanógrafo/GS
 ocelo/S
 ocelote/S
 ochenta/S
@@ -8821,6 +8873,7 @@ ocular/S
 ocultismo/S
 odeón/S
 odio/Si
+odontólogo/GS
 odre/S
 oeste
 ofertorio/S
@@ -8830,6 +8883,7 @@ oficio/S
 ofidio/S
 ofrecimiento/S
 oftalmoscopio/S
+oftalmólogo/GS
 ofuscamiento/S
 ogro/S
 ohm
@@ -8882,6 +8936,7 @@ onagro/S
 onanismo/S
 oncejo/S
 once/S
+oncólogo/GS
 ondeado/S
 ontologismo/S
 ópalo/S
@@ -8948,6 +9003,7 @@ orive/S
 ormino/S
 ornamento/S
 ornato/S
+ornitólogo/GS
 ornitorrinco/S
 orobias
 orónimo/S
@@ -8977,6 +9033,7 @@ osmazomo/S
 osmio
 oso/S
 osteoma/S
+osteólogo/GS
 ostiario/S
 ostracismo/S
 ostrón/S
@@ -8985,6 +9042,7 @@ ostugo/S
 otero/S
 otoño/S
 otorgamiento/S
+otorrinolaringólogo/GS
 oto/S
 otoscopio/S
 óvalo/S
@@ -9064,6 +9122,9 @@ palatinado/S
 palco/bS
 palenque/S
 paleoterio/S
+paleólogo/GS
+paleógrafo/GS
+paleontólogo/GS
 palero/S
 palé/S
 paleta/H
@@ -9329,6 +9390,7 @@ patín/HS
 patinillo/S
 patio/S
 pato/SC
+patólogo/GS
 patriarcado/S
 patriarca/S
 patriciado/S
@@ -9863,6 +9925,7 @@ podenquero/S
 poderío/S
 poder/S
 podio/S
+Podólogo/GS
 podómetro/S
 podón/S
 podrecimiento/S
@@ -10145,6 +10208,7 @@ proceso/S
 procinto
 procónsul/S
 procordado/S
+proctólogo/GS
 prodigio/S
 producto/sS
 proemio/S
@@ -10215,6 +10279,7 @@ pruno/S
 prurigo/S
 prurito/S
 prusiato/S
+psicopedagogo/GS
 psiquiátrico/S
 psiquismo/S
 psitacismo/S
@@ -10413,12 +10478,14 @@ radar/S
 radiador/S
 radicalismo/S
 radical/SO
+radio/S
 radiocasete/S
 radiograma/S
 radiolario/S
+radiólogo/GS
 radiorreceptor/S
-radio/S
 radiotelegrama/S
+radiotécnico/GS
 radiotransmisor/S
 radón
 rafe/S
@@ -12396,6 +12463,7 @@ totemismo/S
 totonaco/S
 tour
 tours
+toxicólogo/GS
 tozo/pS
 tozuelo/S
 trabadero/S
@@ -12504,6 +12572,7 @@ tratamiento/S
 trato/pSf
 trauma/S
 traumatismo/S
+traumatólogo/GS
 travesaño/S
 travesero/S
 través/S
@@ -12745,6 +12814,7 @@ urinario/S
 uro/aS
 urodelo/S
 urogallo/S
+urólogo/GS
 usagre/S
 usier/S
 uso/CS
@@ -12974,6 +13044,8 @@ viático/S
 vibrador/S
 viburno/S
 viceconsulado/S
+vicedirector/GS
+vicedecano/GS
 viceprovincial/S
 viceversa/S
 vicio/S
@@ -13022,6 +13094,7 @@ viraje/S
 virginia/S
 viril/S
 virote/S
+virólogo/GS
 virreinato/S
 virreino/S
 virrey/S
@@ -13090,6 +13163,7 @@ vudú/S
 vuelco/S
 vuelo/S
 vulcanismo/S
+vulcanólogo/GS
 vulgarismo/S
 vulgo/S
 vulturno/S
@@ -13103,6 +13177,7 @@ whiskys
 wolframio
 xenón
 xilófono/S
+xilógrafo/GS
 yacedor/S
 yacente/S
 yacimiento/S
@@ -13192,6 +13267,7 @@ zodiaco/S
 zoizo/S
 zonote/S
 zooftirio/S
+zoólogo/GS
 zooplancton
 zoo/S
 zopetero/S

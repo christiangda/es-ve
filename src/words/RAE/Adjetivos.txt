@@ -2686,6 +2686,7 @@ codiciador/GS
 codicioso/SG
 codificable/S
 codificador/GSgh
+codirector/GS
 coercible/kS
 coercitivo/GS
 coetáneo/SG
@@ -3290,6 +3291,7 @@ cribado/SG
 criboso/GS
 cricoides
 criminal/S
+criminalista/S
 criminoso/GS
 criollo/GS
 criptógamo/GS
@@ -8092,6 +8094,7 @@ mezquino/GS
 mi
 microbiano/SG
 microbicida/S
+microbiológico/GS
 microcéfalo/GS
 microfilmador/GS
 micronesio/SG
@@ -8983,6 +8986,7 @@ ostensivo/GS
 ostentador/GS
 ostentativo/GS
 ostentoso/GS
+osteópata/S
 ostra/S
 osudo/GS
 osuno/SG
@@ -10066,6 +10070,7 @@ protestante/S
 protestativo/GS
 protestón/GS
 protético/GS
+protésico/GS
 protocolario/GS
 protocolar/S
 protozoario/SG
@@ -10097,6 +10102,7 @@ pruriginoso/GS
 prusiano/GS
 psicoanalista/S
 psicoanalítico/SG
+psicofísico/GS
 psicológico/SG
 psicótico/GS
 psiquiátrico/GS
@@ -12116,6 +12122,7 @@ transaccional/S
 transbordador/GS
 transcendental/S
 transcontinental/S
+transcriptor/GS
 transeúnte/S
 transferible/Sk
 transferidor/GS
@@ -12926,6 +12933,7 @@ zonzo/GS
 zoófago/SG
 zoológico/GS
 zoomorfo/GS
+zootécnico/GS
 zopenco/GS
 zopo/GS
 zoquete/GS

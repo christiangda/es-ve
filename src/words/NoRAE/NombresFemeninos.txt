@@ -33,6 +33,7 @@ fundamentación/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
 meritocracia/S
 microinformática/S
+Naturópata/S
 personalización/S
 plaquita/S
 posproducción/S			# Contribuida por Sergio Medina
