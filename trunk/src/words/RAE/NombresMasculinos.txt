@@ -4454,6 +4454,7 @@ ditirambo/S
 dítono/Sq
 diurno/S
 diván/S
+divertículo/S
 divertimento/S
 divertimiento/S
 dividendo/S
@@ -7424,6 +7425,7 @@ lineamento/Sg
 lineamiento/Sga
 linfatismo/S
 linfocito/S
+linfoma/S
 lingote/HS
 lingue/S
 linguete/S
