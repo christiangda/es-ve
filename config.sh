@@ -33,7 +33,7 @@ THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
 PKG_MOZ_CREATE=1
 
 # Version
-PKG_MOZ_VERSION="1.1.1"
+PKG_MOZ_VERSION="1.1.2"
 
 #Datos del autor del paquete
 PKG_MOZ_AUTHOR_NAME="Christian González"
@@ -49,7 +49,7 @@ PKG_MOZ_NAME="Diccionario en Español para Venezuela"
 PKG_MOZ_DESCRIPTION="Habilita la revisión ortográfica en español para Venezuela, la separación silábica y los sinónimos"
 
 #Nombre que tendrá el archivo del paquete del diccionario para Mozilla
-PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.0.4-fx+tb+sb+sm.xpi"
+PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.1.2-fx+tb+sb+sm.xpi"
 #PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.0.4-fx+tb+sb+sm.zip"
 
 #Nombre de los Diccionarios
@@ -81,7 +81,7 @@ PKG_MOZ_SM_MAX_VER="2.2a1pre"
 PKG_oOo_CREATE=1
 
 # Version del diccionario
-PKG_oOo_VERSION="1.1.1"
+PKG_oOo_VERSION="1.1.2"
 
 #Nombre que tendrá el paquete del diccionario para OpenOffice
 PKG_oOo_NAME_FILE="dict-es_VE.oxt"
