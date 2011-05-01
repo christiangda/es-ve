@@ -394,6 +394,7 @@ aleja/S
 alemanda/S
 alentada/S
 alergia/S
+alergología/S
 alerta/S
 aletada/S
 aleta/S
@@ -641,6 +642,7 @@ anécdota/S
 anemia/S
 anémona/S
 anestesia/S
+anestesiología/S
 anexión/S
 anexitis
 anfesibena/S
@@ -655,6 +657,7 @@ angaripola/S
 angélica/S
 angelota/S
 angina/S
+angiología/S
 angiosperma/S
 anglesita/S
 angora/S
@@ -1849,6 +1852,7 @@ cardamina/S
 carda/S
 cardelina/S
 cardialgia/S
+cardiología/S
 carditis
 carenadura/S
 carena/S
@@ -3191,6 +3195,7 @@ derivación/S
 deriva/S
 dermalgia/S
 dermatitis
+dermatología/S
 dermatosis
 dermis
 dermitis
@@ -3724,10 +3729,13 @@ endereza/S
 endibia/S
 endivia/S
 endocarditis
+endocrinología/S
+endodoncia/S
 endogamia/S
 endogénesis
 endolinfa/S
 endoscopia/S
+endoscopía/S
 endrina/S
 endulzadura/S
 ene
@@ -4544,6 +4552,7 @@ foja/S
 fonación/S
 fonda/S
 fonética/S
+foniatría/S
 fonolita/S
 fonología/S
 fontana/S
@@ -4793,6 +4802,7 @@ gasolinera/S
 gastralgia/S
 gastritis
 gastroenteritis
+gastroenterología/S
 gastronomía/S
 gatada/S
 gata/pS
@@ -4843,6 +4853,7 @@ geriatría/S
 germanía/S
 germanización/S
 germanofilia/S
+gerontología/S
 ges
 gestación/S
 gesta/S
@@ -5118,6 +5129,7 @@ helioterapia/S
 helmintiasis
 hematemesis
 hematites
+hematología/S
 hematosis
 hematoxilina/S
 hematuria/S
@@ -5139,6 +5151,7 @@ hendidura/S
 hendija/Sp
 hepática/S
 hepatitis
+hepatología/S
 heráldica/S
 herbera/S
 herbología/S
@@ -5554,6 +5567,7 @@ inmobiliaria/S
 inmolación/S
 inmunidad/S
 inmunodeficiencia/S
+inmunología/S
 inmunoterapia/S
 innovación/S
 innumerabilidad/S
@@ -7202,6 +7216,7 @@ necroscopia/S
 necrosis
 nectarina/S
 nefritis
+nefrología/S
 negación/gS
 negativa/S
 negligencia/S
@@ -7217,6 +7232,7 @@ nema/S
 nemotecnia/S
 nenia/S
 neomenia/S
+neonatología/S
 neoplasia/S
 nequicia/S
 nereida/S
@@ -7228,6 +7244,7 @@ nervura/S
 nesciencia/S
 neumoconiosis
 neumonitis
+neumología/S
 neuralgia/S
 neurastenia/S
 neurisma/S
@@ -7236,6 +7253,7 @@ neuritis
 neuroanatomía/S
 neurociencia/S
 neurocirugía/S
+neurofisiología/S
 neuroglia/S
 neurología/S
 neurona/S
@@ -7382,6 +7400,7 @@ ocasión/S
 oceanografía/S
 ocena/S
 ociosidad/S
+oncología/S
 oclocracia/S
 oclusión/S
 octavilla/S
@@ -7404,6 +7423,7 @@ ofimática/S
 ofita/S
 ofrenda/S
 oftalmia/S
+oftalmología/S
 oftalmoscopia/S
 ofuscación/S
 oída/S
@@ -7528,6 +7548,7 @@ otitis
 otoba/S
 otomana/S
 otorrea/S
+otorrinolaringología/S
 otoscopia/S
 ovación/S
 oveja/S
@@ -8468,6 +8489,7 @@ proclamación/S
 proclama/S
 proclividad/S
 procura/S
+proctología/S
 prodigalidad/S
 prodigiosidad/S
 producción/tpS
@@ -9004,6 +9026,7 @@ retribución/S
 retroactividad/S
 retroguardia/S
 retroventa/S
+reumatología/S
 revancha/S
 revelación/S
 revendedera/S
@@ -10287,6 +10310,7 @@ trastejadura/S
 trastienda/S
 trastornadura/S
 trata/fS
+traumatología/S
 traversa/S
 travesura/S
 trayectoria/S
@@ -10475,6 +10499,7 @@ uretra/S
 uretritis
 urgencia/S
 urna/S
+urología/S
 uromancia/S
 uroscopia/S
 urraca/S
