@@ -228,6 +228,7 @@ acrobatismo/S
 acromion
 acrómiones
 actinio/OS
+acrónimo/S
 actinismo/S
 actinomices
 activismo/S
@@ -420,6 +421,7 @@ ahuecado/S
 ahuecamiento/S
 ahuehuete/S
 ailanto/S
+airbag
 aire/hS
 airón/S
 aislacionismo/S
@@ -2141,6 +2143,7 @@ boto/NS
 botón/S
 bóvido/S
 bovino/S
+box
 boxeador/S
 boxeo/S
 bóxer/S
@@ -3149,6 +3152,7 @@ chubasco/S
 chubasquero/S
 chucero/S
 chucho/S
+chucrut
 chupacirios
 chupadero/S
 chupador/S
@@ -6460,6 +6464,7 @@ hallullo/S
 haloque/S
 halo/S
 hampo/GS
+hámster
 hándicap		# Contribuida por Gonzalo Higuera Díaz
 hangar/S
 hanzo/S
@@ -6582,6 +6587,7 @@ hervido/S
 hervor/S
 hesperidio/S
 heterodino/S
+heterónimo/S
 hexacoralario/S
 hexacordo/S
 hexaedro/S
@@ -7230,6 +7236,7 @@ lagunajo/S
 lagunar/S
 lagunazo/S
 laicismo/S
+laísmo/S
 lama/S
 lambel/S
 lambeo/S
@@ -7537,6 +7544,7 @@ logar/S
 logogrifo/S
 logotipo/S
 logro/S
+loísmo/S
 lombardero/S
 lombo/fS
 lomo/SN
@@ -9070,6 +9078,7 @@ pábulo/S
 pachón/S
 pacifismo/S
 pacto/S
+paddle
 padecimiento/S
 padrastro/S
 padre/HS
@@ -10114,6 +10123,7 @@ predicador/S
 predicado/S
 predicamento/S
 predio
+predorso
 preescolar/S
 prefacio/S
 prefecto/sS
@@ -10834,6 +10844,7 @@ reportaje/S
 reportamiento/S
 reporterismo/S
 reposadero/S
+reposapiés
 repositorio/S
 reproche/S
 reptil/S
@@ -12895,6 +12906,7 @@ vascongado/S
 vasco/S
 vascuence/S
 vaso/NS
+vasquismo
 vástago/S
 váter/S
 vate/S

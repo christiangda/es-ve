@@ -61,6 +61,7 @@ margen/S
 mar/S
 mesana/S
 mimbre/S
+mousse
 neuma/S
 orden
 órdenes

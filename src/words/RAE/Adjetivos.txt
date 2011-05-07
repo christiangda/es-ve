@@ -1681,6 +1681,7 @@ bigotudo/GS
 bilbilitano/GS
 biliario/GS
 biliar/S
+bilingüe/S
 bimano/GS
 bimembre/S
 bimestral/S
@@ -2651,6 +2652,7 @@ clerical/cS
 climatérico/GS
 climático/GS
 clínico/SG
+clítico/GS
 clorhídrico/GS
 clórico/GS
 clorofilo/GS
@@ -3670,6 +3672,7 @@ derrotista/S
 desaborido/SG
 desabrido/GS
 desacatador/SG
+desaconsejable/S
 desacreditador/GS
 desafiador/GS
 desafiante/S
@@ -3889,6 +3892,7 @@ dezmero/GS
 diablesco/GS
 diabólico/SG
 diaconal/S
+diacrítico/GS
 diadelfos
 diademado/GS
 diáfano/SG
@@ -4707,6 +4711,7 @@ epitelial/S
 epizoótico/GS
 equidistante/S
 equilibrada/h
+equilibradamente
 equilibrado/GhS
 equilibrista/S
 equinoccial/S
@@ -4837,6 +4842,7 @@ escurridizo/GS
 escurrido/GS
 escusado/GS
 escutiforme/S
+esdrújulo/GS
 ese/GS
 esencial/Sn
 esenio/GS
@@ -5834,6 +5840,7 @@ geoestacionario/GS
 geográfico/GS
 geológico/GS
 geométrico/GS
+geopolítica/GS
 georgiano/SG
 geraniáceo/GS
 geriátrico/GS
@@ -6314,6 +6321,7 @@ homérico/SG
 homicida/S
 hominal/S
 homocerca/S
+homófono/GS
 homogéneo/GS
 homólogo/SG
 homónimo/SG
@@ -8913,6 +8921,7 @@ oprobioso/GS
 optativo/GS
 óptico/GS
 optimista/S
+óptimamente
 óptimo/SG
 opuesto/SG
 opulento/GS
@@ -8968,6 +8977,7 @@ orquídeo/SG
 ortodoxo/GS
 ortogonal/S
 ortográfico/GS
+ortológico/GS
 ortopédico/GS
 ortóptero/S
 osado/GS
@@ -9715,6 +9725,7 @@ poligonal/S
 polígono/GS
 polimorfo/SG
 polinesio/GS
+polisémico/GS
 politécnico/SG
 política/a
 político/GaS
@@ -10364,6 +10375,7 @@ recental/S
 recentísimo/SG
 receptivo/GS
 receptor/SG
+rechazable/S
 rechazador/GS
 rechinador/GS
 rechoncho/GS
@@ -11407,6 +11419,7 @@ sobrancero/S
 sobrante/S
 sobrentendido/GS
 sobrero/GS
+sobresdrújulo/GS
 sobrestante/S
 sobrio/GS
 socairero/S
@@ -12029,6 +12042,7 @@ tópico/GS
 topino/GS
 topográfico/GS
 topo/GS
+toponímico/GS
 torácico/GS
 toral/S
 torcedero/GS
@@ -12536,6 +12550,7 @@ valiente/S
 valioso/GS
 vallar/S
 vallisoletano/SG
+valorativo/GS
 valvar/S
 valvular/S
 vanaglorioso/GS
