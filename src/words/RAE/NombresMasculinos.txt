@@ -6275,7 +6275,7 @@ gozque/S
 grabado/S
 gracejo/Sa
 gradiente/S
-grado/aS
+grado/aSn
 graduador/S
 gradual/S
 grafito/S
@@ -9752,6 +9752,7 @@ pinchazo/S
 pingajo/S
 pinganello/S
 pingorote/S
+pingüino/SG
 pinito/S
 pinnípedo/S
 pinocho/S
