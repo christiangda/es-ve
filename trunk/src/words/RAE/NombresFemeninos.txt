@@ -761,6 +761,7 @@ aplicación/S
 apnea/S
 apocinácea/S
 apócope/S
+apódosis
 apófisis
 apologética/S
 apología/S
@@ -1300,6 +1301,7 @@ billa/S
 bimba/S
 binadura/S
 binza/S
+biodiversidad/S
 biografía/dS
 biología/S
 biopsia/S
@@ -2684,6 +2686,7 @@ construcción/pS
 consubstancialidad/S
 consulesa/S
 consulta/S
+consultoría/S
 consumación/S
 consunción/S
 consustancialidad/S
@@ -3625,6 +3628,7 @@ eliminación/S
 eliminatoria/S
 elipse/S
 elipsis
+elisión
 élite/S
 elle/S
 elocución/S
@@ -5184,6 +5188,7 @@ hetera/fS
 heterodoxia/S
 heterogeneidad/S
 heteromancia/S
+heteronimia/S
 heterosexualidad/S
 hética/S
 hetiquez/S
@@ -5271,6 +5276,7 @@ hirundinaria/S
 hisca/S
 hisopadura/S
 hispanidad/S
+hispanización
 histeria/S
 histología/S
 historia/nS
@@ -5299,6 +5305,7 @@ hombrera/S
 hombría/S
 homeopatía/S
 homilía/S
+homofonía/S
 homogeneidad/S
 homología/S
 homonimia/S
@@ -5629,6 +5636,7 @@ interioridad/S
 interjección/S
 intermitencia/S
 internacional/S
+interpolación/S
 interpretación/S
 interrogación/S
 interrupción/S
@@ -5788,7 +5796,7 @@ joya/SL
 joyosa/S
 juarda/S
 juba/S
-jubilación/S
+jubilación/Sn
 judaica/S
 judaización/S
 judería/S
@@ -5986,6 +5994,7 @@ legumbre/S
 leguminosa/S
 leída/S
 leila/S
+leísmo/S
 lejanía/S
 lejía/S
 lemanita/S
@@ -6973,6 +6982,7 @@ monodia/S
 monogamia/S
 monomanía/S
 monomaquia/S
+monoptongación/S
 monorquidia/S
 monotipia/S
 monotonía/S
@@ -8016,6 +8026,7 @@ perturbación/S
 perversidad/S
 perversión/S
 pervinca/S
+pervivencia/S
 pes
 pesada/SMN
 pesadumbre/S
@@ -10285,6 +10296,7 @@ transgresión/S
 transición/S
 transigencia/Sk
 transitoriedad/S
+transliteración/S
 translucidez/S
 transmigración/S
 transmisión/pS
@@ -10729,6 +10741,7 @@ videocinta/S
 videoconferencia/S
 videoconsola/S
 videofrecuencia/S
+videoteca/S
 vid/GS
 vidorra/S
 vidriera/LS

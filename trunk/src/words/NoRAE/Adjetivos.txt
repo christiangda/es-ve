@@ -44,7 +44,9 @@ globalizado/GS
 hidrotérmico/GS
 inefectivo/GS
 interoperable/S			# Contribuida por Gonzalo Higuera Díaz
+intensificador/S
 larguísimo/GS
+lexicosemántico/GS
 maremotriz/S
 mareomotriz/S
 melamínico/GS
@@ -66,6 +68,10 @@ prescriptor/GS
 ranurado/GS
 semiconsciente/S
 semielaborado/GS
+simpatiquísimo/GS
+sintácticamente
+socioculturalmente
 texturado/GS
+tipográficamente
 torsor/S
 unipolar/S
