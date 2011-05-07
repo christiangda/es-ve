@@ -22,5 +22,6 @@ reasignar/RED
 recapturar/RED
 recombinar/RED
 redirigir/RED
+redimensionar/REDÀ
 refrentar/RED
 reinventar/RED

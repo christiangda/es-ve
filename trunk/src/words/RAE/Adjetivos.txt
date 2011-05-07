@@ -2122,7 +2122,7 @@ captor/GS
 capuchino/GS
 caracense/S
 caracho/GS
-característico/SG
+característico/SGs
 caracterizado/GS
 caracterizador/GS
 caradriforme/S
