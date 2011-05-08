@@ -8,7 +8,7 @@ This extension consists of:
 Made for: PKG_oOo_AUTHOR_NAME <PKG_oOo_AUTHOR_EMAIL>
 
 Remember to rate this dictionary in: 
-<a href="http://extensions.services.openoffice.org/en/project/dict-es_VE"/>dict-es_VE</a>
+http://extensions.services.openoffice.org/en/project/dict-es_VE
 
 If you want to make a donation, please go to:
-<a href="http://es-ve.sourceforge.net/"/>proyecto es-ve</a>
+http://es-ve.sourceforge.net/

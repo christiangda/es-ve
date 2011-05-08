@@ -8,8 +8,8 @@ Esta extensión está compuesta por:
 Hecho por: PKG_oOo_AUTHOR_NAME <PKG_oOo_AUTHOR_EMAIL>
 
 Recuerda calificar éste diccionario en: 
-<a href="http://extensions.services.openoffice.org/en/project/dict-es_VE"/>dict-es_VE</a>
+http://extensions.services.openoffice.org/en/project/dict-es_VE
 
 Si quieres hacer una donación, por favor ve a:
-<a href="http://es-ve.sourceforge.net/"/>proyecto es-ve</a>
+http://es-ve.sourceforge.net/
 
