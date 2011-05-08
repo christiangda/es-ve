@@ -1693,6 +1693,7 @@ biográfica/d
 biográfico/GdS
 biológico/GS
 bioquímico/GS
+biótico/GSv
 bipartito/GS
 bípedo/SG
 bipontino/GS
@@ -2019,6 +2020,7 @@ cambalachero/GS
 cambiable/lS
 cambiador/GS
 cambiante/S
+cambiario/GS
 camboyano/GS
 cámbrica/n
 cámbrico/nGS
@@ -3640,6 +3642,7 @@ deportista/S
 deportiva/c
 deportivo/cSG
 depositador/SG
+depositante/S
 depositario/GS
 depravado/GS
 depravador/GS
@@ -4289,7 +4292,7 @@ eclipsable/S
 ecoico/GS
 ecológico/GS
 ecologista/S
-económico/GS
+económico/GSvm
 ecotado/GS
 ectodérmico/GS
 ecuable/S
@@ -10729,6 +10732,7 @@ rigoroso/GS
 riguroso/GS
 rijador/SG
 rijoso/GS
+riesgoso/GS
 rimador/GS
 rimbombante/S
 riojano/GS
@@ -12132,6 +12136,7 @@ tranquila/k
 tranquilizador/kGS
 tranquilizante/S
 tranquilo/GkS
+transa
 transaccional/S
 transbordador/GS
 transcendental/S

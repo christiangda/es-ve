@@ -1043,6 +1043,7 @@ apadrinamiento/S
 apagamiento/S
 apagavelas
 apagón/S
+apalancamiento/S
 apaleamiento/S
 aparato/S
 aparcamiento/S
@@ -4595,6 +4596,7 @@ dulero/S
 dulzor/S
 duodeno/S
 dúo/S
+duopolio/S
 duplicado/S
 duque/S
 duraluminio/S
@@ -4628,6 +4630,7 @@ eco/S
 ecosistema/S
 ecosonda/S
 ectodermo/S
+ecu/S
 ecuador/S
 ecuatorial/S
 ecuatorianismo/S
@@ -6939,6 +6942,7 @@ inmueble
 inmunólogo/GS
 innatismo/S
 innominado/S
+input
 inquinamento/S
 inquisidor/S
 inri/S
@@ -7015,6 +7019,7 @@ italorrománico/S
 iterbio/S
 itinerario/S
 itrio/S
+iva
 ivierno/S
 izote/S
 jabalí/S
@@ -8919,6 +8924,7 @@ olifante/S
 oligarca/S
 oligisto/S
 oligoelemento/S
+oligopolio/S
 olio/S
 olivar/S
 olivero/S
@@ -8932,6 +8938,7 @@ olmo/S
 oloroso/S
 olor/S
 olvido/S
+output
 omagua/S
 ombligo/S
 ombliguero/S
@@ -9441,6 +9448,7 @@ peciolo/S
 pecíolo/S
 pecio/S
 pectoral/S
+peculado
 peculio/S
 pedal/S
 pedáneo/S
@@ -11836,6 +11844,7 @@ suavizador/S
 suavizante/S
 subcolector/S
 subejecutor/S
+subempleo/S
 subfiador/S
 subidero/S
 subiente/S
