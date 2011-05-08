@@ -286,6 +286,11 @@ PFX u 0         tra       s
 PFX u 0         tras      [^es]
 PFX u e         tras      e[^s]
 
+# Prefijo macro-: Significa 'grande'.
+PFX v Y 2
+PFX v 0         macro     [^r]
+PFX v 0         macro     r
+
 #
 #
 ###############################################################################
