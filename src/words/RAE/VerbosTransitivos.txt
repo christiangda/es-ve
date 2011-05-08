@@ -1982,7 +1982,7 @@ epitimar/RED
 epitomar/RED
 equiparar/REDÀÁÄ
 erar/RED
-erogar/RED
+erogar/REDT
 erradicar/REDÀ
 esbozar/REDÀ
 esbrencar/RED

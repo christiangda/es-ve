@@ -985,6 +985,7 @@ aurora/S
 auscultación/S
 ausencia/S
 austeridad/S
+autarquía
 auténtica/S
 autenticidad/S
 autoafirmación/S
@@ -1390,6 +1391,7 @@ bombona/S
 bonanza/S
 bondad/S
 bonga/S
+bonificación/S
 bonina/S
 bonitera/S
 boñiga/S
@@ -3294,6 +3296,7 @@ detención/S
 determinación/kSnd
 detonación/S
 deuda/S
+devaluación/S
 devanadera/S
 devastación/S
 devisa/S
@@ -3358,6 +3361,7 @@ dilatación/S
 dilatoria/S
 dilección/Sn
 diligencia/Sk
+dilución
 dimensión/S
 dimisión/S
 dimisorias
@@ -4271,6 +4275,7 @@ exhibición/S
 exhortación/S
 exigencia/S
 existencia/kfS
+exoneración/S
 exorbitancia/S
 exornación/S
 exótica/S
@@ -4499,6 +4504,7 @@ finta/S
 finura/S
 firma/bS
 firmeza/S
+fiscalidad/S
 fiscalización/S
 fisga/S
 física/S
@@ -5479,6 +5485,7 @@ impulsividad/S
 impunidad/S
 imputabilidad/S
 imputación/S
+inadaptación/S
 inalienabilidad/S
 inanición/S
 inanidad/S
@@ -5508,6 +5515,7 @@ indagatoria/S
 indemnidad/S
 indemnización/S
 inderogabilidad/S
+indexación
 indiada/S
 indicación/S
 indigencia/S
@@ -6313,6 +6321,7 @@ macicez/S
 macis
 macona/S
 macrocefalia/S
+macroeconomía/S
 macsura/S
 macuba/S
 macuca/S
@@ -6356,7 +6365,7 @@ magneto/S
 magnetosfera/S
 magnetósfera/S
 magnificencia/S
-magnitud/S
+magnitud/Svm
 magnolia/S
 magra/MS
 magrura/S
@@ -6819,6 +6828,7 @@ michina/S
 micosis
 micra/S
 microcefalia/S
+microeconomía/s
 microelectrónica/S
 microfilmador/S
 microscopia/S
@@ -9044,6 +9054,7 @@ retroventa/S
 reumatología/S
 revancha/S
 revelación/S
+revaluación/S
 revendedera/S
 reverberación/S
 reverencia/S
@@ -9624,6 +9635,7 @@ sobrecopa/S
 sobrefrenada/S
 sobremano/S
 sobrepelliz/S
+sobreproducción/S
 sobrerronda/S
 sobrerropa/S
 sobreveste/G
