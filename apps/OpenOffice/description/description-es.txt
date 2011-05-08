@@ -7,7 +7,7 @@ Esta extensión está compuesta por:
 
 Hecho por: PKG_oOo_AUTHOR_NAME <PKG_oOo_AUTHOR_EMAIL>
 
-Recuerda calificar éste diccionario en: 
+Recuerda calificar este diccionario en: 
 http://extensions.services.openoffice.org/en/project/dict-es_VE
 
 Si quieres hacer una donación, por favor ve a:
