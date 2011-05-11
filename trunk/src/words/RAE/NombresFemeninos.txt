@@ -5317,6 +5317,7 @@ homeopatía/S
 homilía/S
 homofonía/S
 homogeneidad/S
+homologación/S
 homología/S
 homonimia/S
 homosexualidad/S
@@ -5643,6 +5644,7 @@ intensidad/S
 intensificación/S
 intentona/S
 intercalación/S
+interconexión/S
 interferencia/S
 interioridad/S
 interjección/S
@@ -9056,6 +9058,7 @@ retroactividad/S
 retroguardia/S
 retroventa/S
 reumatología/S
+reutilización/S
 revancha/S
 revelación/S
 revaluación/S
@@ -9612,6 +9615,7 @@ sinrazón/S
 sintaxis
 sinterización/S
 síntesis
+sintonización/S
 sinuosidad/S
 sinusitis
 sinusoide/S
