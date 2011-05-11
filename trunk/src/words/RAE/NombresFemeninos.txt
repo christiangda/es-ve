@@ -987,6 +987,7 @@ ausencia/S
 austeridad/S
 autarquía
 auténtica/S
+autenticación
 autenticidad/S
 autoafirmación/S
 autoclave/S
