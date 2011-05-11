@@ -12656,6 +12656,7 @@ triglifo/S
 trígono/S
 trigo/S
 trile/S
+trilero
 trilito/S
 trillo/S
 trilobites

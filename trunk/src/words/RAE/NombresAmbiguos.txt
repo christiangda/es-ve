@@ -50,6 +50,7 @@ frente/S
 fueraborda/S
 herpe/S
 hojaldre/S
+internet
 interrogante/S
 juvia/S
 lavaplatos
