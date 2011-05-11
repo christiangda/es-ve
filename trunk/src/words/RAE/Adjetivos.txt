@@ -7360,6 +7360,7 @@ leve/aS
 levítico/GS
 levógiro/GS
 léxico/SG
+lexicográfico/GS
 leyendario/SG
 lezne/GS
 liberador/GS
@@ -10441,6 +10442,7 @@ reelegible/S
 reembolsable/S
 reemplazable/kS
 reemplazante/S
+referencial/S
 referente/S
 referible/S
 refez/S
