@@ -445,7 +445,7 @@ alidona/S
 alienación/S
 aligación/S
 alimaña/S
-alimentación/S
+alimentación/Sw
 alineación/S
 aliseda/S
 alisma/S
@@ -7504,6 +7504,7 @@ oportunidad/kS
 oposición/S
 opoterapia/S
 opresión/S
+optimización/S
 opulencia/S
 opuncia/S
 oquedad/S
