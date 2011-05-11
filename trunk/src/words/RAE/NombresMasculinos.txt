@@ -10353,6 +10353,7 @@ puma/S
 pundonor/S
 pungimiento/S
 puntal/S
+puntaje/S
 puntapié/S
 puntillado/S
 puntillero/S
