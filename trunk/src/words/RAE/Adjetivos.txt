@@ -8441,6 +8441,7 @@ multicopista/S
 multifloro/GS
 multiforme/S
 multilateral/S
+multimedia
 multimillonario/GS
 multinacional/S
 múltipla/s

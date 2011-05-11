@@ -994,6 +994,7 @@ autocopista/S
 autocracia/S
 autodefensa/S
 autodefinición/S
+autoevaluación/S
 automática/S
 automatización/S
 autonomía/S
@@ -10480,6 +10481,7 @@ turronada/S
 tusa/S
 tutela/S
 tutía/S
+tutoría/S
 tuya/S
 u
 ubicación/S
