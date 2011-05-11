@@ -291,6 +291,10 @@ PFX v Y 2
 PFX v 0         macro     [^r]
 PFX v 0         macro     r
 
+# Prefijo tro-: Significa 'hacia atrás'.
+PFX w Y 1
+PFX w 0         retro     .
+
 #
 #
 ###############################################################################
