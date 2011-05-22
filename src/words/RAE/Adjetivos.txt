@@ -1381,6 +1381,7 @@ austríaco/GS
 auténtico/GS
 autista/S
 autóctono/SG
+autocrítico/GS
 autodestructivo/GS
 autodidacto/GS
 autoestopista/S
@@ -4717,6 +4718,7 @@ epiléptico/GS
 epilogal/S
 epirota/S
 episcopal/S
+epistémico/GS
 epistolar/S
 epitelial/S
 epizoótico/GS
@@ -5044,7 +5046,7 @@ estricto/GS
 estridente/S
 estrófico/GS
 estropajoso/GS
-estructural/S
+estructural/Svt
 estructuralista/S
 estruendoso/SG
 estrujador/GS
@@ -5077,6 +5079,7 @@ etrusco/GS
 eubeo/SG
 eucarístico/SG
 euclidiano/GS
+eufemístico/GS
 euforbiáceo/GS
 eufórico/GS
 eurasiático/SG
@@ -5479,6 +5482,7 @@ filtrante/S
 fina/fSptj
 finalista/S
 final/S
+financiador/GS
 financiero/GS
 finés/S
 fingido/GS
@@ -6315,6 +6319,7 @@ historiado/GS
 historial/S
 histórica/n
 historicista/S
+historiográfico/GS
 histórico/nSG
 hitita/S
 hitleriano/GS
@@ -6884,6 +6889,7 @@ intensivo/GS
 intento/GS
 interceptor/GS
 intercesor/GS
+interconectado/GS
 intercultural/S
 interesada/h
 interesado/hSG
@@ -7055,6 +7061,7 @@ jazarino/GS
 jebuseo/GS
 jemal/S
 jerárquico/GS
+jerárquicamente
 jerezano/GS
 jerifiano/GS
 jeroglífico/GS
