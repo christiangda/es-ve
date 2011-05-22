@@ -123,6 +123,7 @@ ansarero/GS
 antártico/GS
 antecesor/GS
 anticuario/GS
+antropólogo/GS
 apagador/GS
 aparador/GS
 aparcero/GS

@@ -836,6 +836,7 @@ arma/S
 armella/S
 armería/S
 armilla/S
+armonización/S
 armonía/S
 armónica/S
 arna/S
@@ -2330,6 +2331,7 @@ circe/S
 circona/S
 circulación/S
 circular/S
+circularidad/S
 circuncisión/S
 circunferencia/qS
 circunlocución/S
@@ -2585,6 +2587,7 @@ cóncava/S
 concentración/S
 concepción/S
 concernencia/S
+concertación/S
 concertina/S
 conchabanza/S
 concha/S
@@ -2757,6 +2760,7 @@ contraprueba/S
 contrapuerta/S
 contraquilla/S
 contrariedad/S
+contrarreforma/S
 contrarreguera/S
 contrarrevolución/S
 contrarroda/S
@@ -3335,6 +3339,7 @@ diatriba/S
 dicacidad/S
 dicción/Sn
 dicha/Sh
+dicotomía/S
 dictadura/S
 diéresis
 diestra/S
@@ -3403,6 +3408,7 @@ discordancia/S
 discordia/S
 discoteca/S
 discrasia/S
+discrecionalidad/S
 discreción/kS
 discrepancia/S
 discriminación/S
@@ -4497,6 +4503,7 @@ filtración/kS
 fimbria/S
 fimosis
 finalidad/S
+finalización/S
 financiación/S
 finanza/S
 finca/S
@@ -5366,6 +5373,7 @@ hortensia/S
 horticultura/S
 hospedería/S
 hospitalidad/kS
+hospitalización/S
 hosquedad/S
 hostelería/S
 hostería/S
@@ -5426,6 +5434,7 @@ idea/S
 identidad/S
 identificación/S
 ideología/S
+ideologización/S
 idiocia/S
 idiosincrasia/S
 idiotez/S
@@ -5623,6 +5632,7 @@ institución/S
 institutriz/S
 instrucción/S
 instrumentación/S
+insubordinación/S
 insubstancialidad/S
 ínsula/S
 insulina/S
@@ -6327,6 +6337,7 @@ macis
 macona/S
 macrocefalia/S
 macroeconomía/S
+macroestructura/S
 macsura/S
 macuba/S
 macuca/S
@@ -6793,6 +6804,7 @@ mesura/hS
 metafísica/S
 metáfora/S
 metagoge/S
+metalengua/S
 metalepsis
 metalografía/S
 metalla/S
@@ -6996,6 +7008,7 @@ monja/S
 monjita/S
 monodia/S
 monogamia/S
+monografía/S
 monomanía/S
 monomaquia/S
 monoptongación/S
@@ -7571,6 +7584,7 @@ osteítis
 ostentación/S
 osteomalacia/S
 osteomielitis
+osteoporosis
 ostia/S
 ostra/S
 ostricultura/S
@@ -7692,6 +7706,7 @@ papada/iS
 papagaya/S
 papalina/S
 paparrasolla/S
+parriza/S
 paparrucha/S
 papa/SN
 papaverácea/S
@@ -8797,6 +8812,7 @@ rajadura/S
 raja/S
 rajeta/S
 rajuela/S
+ralentización/S
 raleza/S
 ralladura/S
 rama/NS
@@ -8920,6 +8936,7 @@ redonda/NSM
 redova/S
 reducción/S
 redundancia/S
+reelaboración/S
 reelección/S
 reencarnación/S
 refección/S
@@ -9597,6 +9614,7 @@ sindicatura/S
 sinécdoque/S
 sinecura/S
 sinéresis
+sine qua non
 sinergia/S
 sinestesia/S
 sínfisis

@@ -957,6 +957,7 @@ damasquinar/RED
 damnificar/RED
 debatir/REDÀÂÅ
 debelar/RED
+debitar/RED
 decalvar/RED
 decapar/RED
 decapitar/REDÀÁÂ
@@ -3576,6 +3577,7 @@ tempanar/RED
 temporalizar/RED
 tenacear/RED
 tensar/REDÀÄ
+tensionar/RED
 tentalear/RED
 tergiversar/REDÀÄ
 terraplenar/RED
