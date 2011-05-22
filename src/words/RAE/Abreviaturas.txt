@@ -37,6 +37,7 @@ El Salv.      #El Salvador
 Esp.          #España
 eusk.         #euskera
 fem.          #femenino
+f.			  #Femenino
 Filol.        #Filología
 fr.           #francés
 gr.           #griego
@@ -53,6 +54,7 @@ Ling.         #Lingüística
 loc. lat.     #locución latina
 Lóg.          #Lógica
 masc.         #masculino
+m.			  #Masculino
 Mat.          #Matemáticas
 Méx.          #México
 Mús.          #Música

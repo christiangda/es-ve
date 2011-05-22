@@ -7373,6 +7373,7 @@ legendario/S
 legisperito/S
 leima/S
 lejos
+lemario/S
 lembario/S
 lembo/S
 leme/GS
@@ -13327,7 +13328,13 @@ zuncho/S
 zurcido/S
 zuro/S
 zurriago/SH
+zurracapote
+zurraco/S
 zurriburri/S
 zurrón/S
+zurujano/S
+zurubí
 zurullo/S
 zurupeto/S
+zuzo
+zuzón

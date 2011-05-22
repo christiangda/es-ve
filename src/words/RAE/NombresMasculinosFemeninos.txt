@@ -1604,6 +1604,7 @@ semidiós/GS
 semita/S
 senador/GS
 señor/GS
+señoritingo/GS
 señorito/GS
 seor/GS
 sepia/S
@@ -1879,4 +1880,5 @@ zoquetero/GS
 zorrero/GS
 zumbón/GS
 zurdo/GS
+zutanejo/GS
 zutano/GS

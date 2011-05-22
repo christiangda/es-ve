@@ -8598,6 +8598,7 @@ necesario/GkS
 necesitado/SG
 necio/GS
 necróforo/GS
+necrótico/GS
 necrológico/GS
 nectáreo/SG
 nectarino/GS
@@ -11237,6 +11238,7 @@ sensacional/S
 sensata/k
 sensato/kGS
 sensibilizado/GS
+sensibilizador/GS
 sensible/kS
 sensiblero/SG
 sensitivo/SG
@@ -11253,7 +11255,10 @@ sentido/fSG
 sentimental/S
 señalado/GS
 señorial/S
+señorilmente
+señoril/S
 señor/SG
+señorón/GS
 separable/kS
 separado/GS
 separador/GS
@@ -13013,4 +13018,7 @@ zuro/GS
 zurrador/GS
 zurrapiento/SG
 zurraposo/GS
+zurumbo/GS
 zurumbático/GS
+zutujil
+zutuhil
