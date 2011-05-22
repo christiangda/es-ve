@@ -1,0 +1,22 @@
+# Copyright (C) 2009-2011, Christian Gonzalez <christiangda@gmail.com> (http://es-ve.sourceforge.net)
+#
+# Este listado es software libre: usted puede redistribuirlo y/o modificarlo
+# conforme a los términos de la Licencia Pública General de GNU, publicada
+# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
+# o una versión posterior (a su elección).
+#
+# Este listado se distribuye con el deseo que le resulte útil, pero
+# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
+# información consulte el texto de la licencia respectiva seleccionada.
+#
+# Debe haber recibido una copia de la Licencia Pública General de GNU junto
+# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+
+################################################################################
+# Este archi contiene las palabras que son agregadas al diccionario es_VE
+# pero que no se les ha colocado ni el genero, plural y conjugación según
+# el archivo de afijos.  Este ttrabajo se debe hacer manualmente y poco a poco.
+#
+# Fuente: Este archivo es creado automáticamente por el script validate_words.sh
+################################################################################
