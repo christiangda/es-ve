@@ -156,6 +156,7 @@ acento/S
 acequiero/S
 acerado/S
 acercamiento/S
+ácere
 acerico/S
 acerolo/S
 acertamiento/S
@@ -1490,6 +1491,7 @@ austro/S
 autismo/S
 autobombo/S
 autobús
+autocontrol/S
 autoestop
 autoestopes
 autógrafo/S
@@ -6284,6 +6286,8 @@ grado/aSn
 graduador/S
 gradual/S
 grafito/S
+grafismo/S
+grafema/S
 grafo/S
 grafólogo/GS
 grajo/S

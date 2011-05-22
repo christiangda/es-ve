@@ -251,6 +251,7 @@ agresividad/S
 agricultura/S
 agrifada/S
 agrimensura/S
+agroindustria/S
 agrupación/S
 aguachirle/S
 aguada/S
@@ -3228,9 +3229,11 @@ descargadura/S
 descarriladura/S
 descarrilladura/S
 descendencia/fS
+descentralización/S
 descerrajadura/S
 descodificación/S
 desconcertadura/S
+desconcentración/S
 desconchadura/S
 descortezadura/S
 descripción/S
@@ -3616,6 +3619,7 @@ ejecución/S
 ejecutiva/S
 ejecutoria/S
 ejemplaridad/S
+ejemplificación/S
 elaboración/S
 elástica/S
 elasticidad/S
@@ -4525,6 +4529,7 @@ fisioterapia/S
 fisonomía/S
 fisostigmina/S
 fisura/S
+fitopatología/S
 flaccidez/S
 flacidez/S
 flacura/S
@@ -4587,6 +4592,7 @@ forja/S
 formación/kuSgf
 formaleta/S
 formalidad/kS
+formalización/S
 forma/pS
 formulación/S
 fórmula/S
@@ -5299,6 +5305,7 @@ histología/S
 historia/nS
 historicidad/S
 historieta/S
+historiografía/S
 histrionisa/S
 hogaza/S
 hoguera/S
@@ -5648,6 +5655,7 @@ intelectiva/S
 intelectualidad/S
 inteligencia/S
 inteligibilidad/Sk
+intencionalidad/S
 intención/S
 intendencia/stSr
 intensidad/S
@@ -5657,6 +5665,7 @@ intercalación/S
 interconexión/S
 interferencia/S
 interioridad/S
+interiorización/S
 interjección/S
 intermitencia/S
 internacional/S
@@ -6847,6 +6856,7 @@ micra/S
 microcefalia/S
 microeconomía/s
 microelectrónica/S
+microestructura/S
 microfilmador/S
 microscopia/S
 microspora/S
@@ -8545,6 +8555,7 @@ profanación/S
 profanidad/S
 profecía/S
 profesionalidad/S
+profesionalización/S
 profesión/S
 profetisa/S
 profilaxis
@@ -9807,6 +9818,7 @@ supeditación/S
 superación/S
 superchería/S
 supererogación/S
+superestructura/S
 superficialidad/S
 superficie/S
 superfluidad/S
