@@ -990,6 +990,7 @@ anteojero/S
 antepasado/S
 ante/S
 anticipamiento/S
+anticolonialismo/S
 anticongelante/S
 anticorrosivo/S
 antidepresivo/S
@@ -3960,6 +3961,7 @@ cuerpo/cS
 cuervo/S
 cuesco/S
 cuestionario/S
+cuestionamiento/S
 cuestor/S
 cuévano/S
 cuevero/S
@@ -9335,6 +9337,7 @@ párrafo/S
 parral/S
 parrandista/S
 parricidio/S
+parrón/S
 párroco/S
 parteluz/S
 parterre/S
@@ -9392,6 +9395,7 @@ patatal/S
 patatar/S
 patatús/S
 pateamiento/S
+paternalismo/S
 paternóster/S
 patero/GS
 paté/S
@@ -9951,6 +9955,7 @@ podridero/S
 podrigorio/S
 podrimiento/S
 poema/S
+poemario/S
 poetastro/S
 polariscopio/S
 poleame/S
@@ -10925,6 +10930,7 @@ retal/S
 retamal/S
 retamar/S
 retardo/S
+retazo/S
 retejador/S
 retel/S
 retenimiento/S

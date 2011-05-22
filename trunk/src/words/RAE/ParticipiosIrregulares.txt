@@ -82,6 +82,7 @@ puesto/GS
 reabierto/GS
 recompuesto/GS
 recubierto/GS
+redescubierto/GS
 redicho/GS
 reelecto/GS
 reescrito/GS

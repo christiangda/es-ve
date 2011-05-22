@@ -808,6 +808,7 @@ andorrano/GS
 andosco/GS
 andrajoso/SG
 andujareño/GS
+anecdótico/GS
 anegadizo/SG
 anejo/GS
 anélido/SG
@@ -867,6 +868,7 @@ anómalo/GS
 anomuro/S
 anónimo/SG
 anopluro/S
+anoréxico/GS
 anotador/GS
 anquiseco/GS
 ansarino/GS
@@ -1307,6 +1309,7 @@ aticista/S
 ático/GS
 atigrado/GS
 atinente/S
+atingente/S
 atípico/GS
 atisbador/GS
 atizador/GS
@@ -2255,6 +2258,7 @@ castrado/GS
 castrense/S
 casual/S
 casuariforme/S
+casuístico/GS
 catafórico/GS
 catalán/GS
 catalanista/S
@@ -2554,6 +2558,7 @@ ciego/SG
 cienoso/GS
 cien/S
 científico/GS
+cientificista/S
 ciento/S
 cierta/k
 cierto/SGk
@@ -3541,6 +3546,7 @@ definitivo/GS
 definitorio/GS
 deflagrador/SG
 deformable/kS
+deformante/S
 deformatorio/GS
 deforme/S
 defraudador/GS
@@ -3589,6 +3595,7 @@ demandador/GS
 demanial/S
 demás
 demasiado/GS
+demenciado/GS
 demencial/S
 demente/GS
 demócrata/S
@@ -3896,6 +3903,7 @@ diablesco/GS
 diabólico/SG
 diaconal/S
 diacrítico/GS
+diacrónico/GS
 diadelfos
 diademado/GS
 diáfano/SG
@@ -5018,6 +5026,7 @@ estotro/GS
 estrábico/GS
 estrafalario/GS
 estragador/GS
+estrambótico/GS
 estrangulador/GS
 estratégico/GS
 estrecho/GS
@@ -5028,6 +5037,7 @@ estremecedor/SG
 estrenuo/GS
 estreñido/GS
 estrepitoso/SG
+estresado/GS
 estresante/S
 estriado/GS
 estricto/GS
@@ -5035,6 +5045,7 @@ estridente/S
 estrófico/GS
 estropajoso/GS
 estructural/S
+estructuralista/S
 estruendoso/SG
 estrujador/GS
 estudiador/GS
@@ -5059,6 +5070,7 @@ eterno/GS
 etimológico/SG
 etíope/S
 étnico/GS
+etnográfico/GS
 etolio/GS
 etológico/GS
 etrusco/GS
@@ -5070,6 +5082,7 @@ eufórico/GS
 eurasiático/SG
 euroasiático/GS
 europeo/GS
+europeizante/S
 euskera/S
 eusquera/S
 eutiquiano/GS
@@ -5425,6 +5438,7 @@ fiada/f
 fiado/fGS
 fiambre/S
 fibroso/GS
+ficcional/S
 ficticio/GS
 fidedigno/GS
 fideicomisario/GS
@@ -5473,7 +5487,7 @@ finisecular/S
 finita/k
 finito/kGS
 finolis
-fino/pSGjt
+fino/pSGjtx
 firmante/fS
 firme/SG
 fiscalizable/S
@@ -6870,6 +6884,7 @@ intensivo/GS
 intento/GS
 interceptor/GS
 intercesor/GS
+intercultural/S
 interesada/h
 interesado/hSG
 interesante/S
@@ -7129,8 +7144,8 @@ labial/eS
 labihendido/GS
 lábil/S
 labiodental/S
-laborable/S
-laboral/S
+laborable/Sx
+laboral/Sx
 laborante/S
 laborera/S
 laborioso/GS
@@ -7227,7 +7242,7 @@ lapón/GS
 lapso/GS
 lardero/GS
 lardoso/GS
-largo/GS
+largo/GSx
 largueado/GS
 larguero/GS
 larguirucho/GS
@@ -7411,6 +7426,8 @@ limícola/S
 limitable/S
 limitada/k
 limitado/GSk
+limitador/GS
+limitante/S
 limitativo/GS
 limítrofe/S
 limonado/GS
@@ -7891,6 +7908,7 @@ masticatorio/GS
 mastieno/GS
 mastoides
 mastuerzo/S
+masturbador/GS
 matador/GS
 matalón/SG
 matalote/S
@@ -7929,6 +7947,7 @@ mayúsculo/GS
 mazonado/GS
 mazorral/S
 mecánico/SG
+mecanicista/S
 mecanográfico/GS
 mecano/GS
 mecedor/GS
@@ -8140,6 +8159,7 @@ mimado/GS
 mimador/GS
 mimbreño/GS
 mimbroso/GS
+mimético/GS
 mímico/SG
 mimosáceo/GS
 mimoso/GS
@@ -8160,6 +8180,7 @@ minorista/S
 minoritario/GS
 minucioso/SG
 minúsculo/GS
+minusválido/GS
 minuta/S
 mioceno/GS
 miope/S
@@ -9646,7 +9667,7 @@ plaguicida/S
 planetaria/l
 planetario/lSG
 planificado/SG
-plano/SG
+plano/SGx
 plantador/GkSh
 plantagináceo/GS
 plantar/S
@@ -10119,6 +10140,7 @@ prusiano/GS
 psicoanalista/S
 psicoanalítico/SG
 psicofísico/GS
+psicolingüístico/GS
 psicológico/SG
 psicótico/GS
 psiquiátrico/GS
@@ -11188,6 +11210,7 @@ semiforme/S
 semiinconsciente/S
 seminal/S
 seminario/SG
+semiótica/GS
 semita/Sc
 semítico/GS
 semitransparente
@@ -11808,6 +11831,7 @@ teja/S
 tejedor/SGj
 telefónico/GS
 telegráfico/GS
+telemático/GS
 telendo/GS
 teleósteo/S
 telepático/GS
@@ -11947,6 +11971,7 @@ tetánico/SG
 tetona/S
 tetrabranquial/S
 tetragonal/S
+tetrapléjico/GS
 tetrágono/S
 tétrico/GS
 tetuda/S
@@ -12145,6 +12170,7 @@ transbordador/GS
 transcendental/S
 transcontinental/S
 transcriptor/GS
+transcultural/S
 transeúnte/S
 transferible/Sk
 transferidor/GS
