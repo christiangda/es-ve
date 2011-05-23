@@ -16,9 +16,9 @@
 ################################################################################
 # Las que no estan en RAE
 ################################################################################
-Hispanoamérica
-Latinoamérica
-Mesoamérica
-Norteamérica
-Sudamerica
-Centroamérica
+hispanoamérica
+latinoamérica
+mesoamérica
+norteamérica
+sudamerica
+centroamérica
