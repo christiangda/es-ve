@@ -104,6 +104,7 @@ cat $ROOT_DIR/src/words/toponyms/*.txt \
 	$ROOT_DIR/src/words/otros/*.txt \
 	| $ROOT_DIR/scripts/remove_useless.sh \
 	| $ROOT_DIR/scripts/order_remove_duplicates.sh \
+	| $ROOT_DIR/scripts/remove_useless.sh \
 	> $BUILD_DIR/'OTHERS_'${DICTIONARY_FILE_NAME}'.txt'
 
 #Creo el archivo que contiene las palabras RAE y NoRAE
@@ -118,12 +119,16 @@ touch $DICTIONARY_FILE
 
 cat $BUILD_DIR/'OTHERS_'${DICTIONARY_FILE_NAME}'.txt' \
 	$BUILD_DIR/'NoRAE_AND_RAE_'${DICTIONARY_FILE_NAME}'.txt' \
+	| $ROOT_DIR/scripts/remove_useless.sh \
 	| $ROOT_DIR/scripts/order_remove_duplicates.sh \
+	| $ROOT_DIR/scripts/remove_useless.sh \
 	| wc -l >> $DICTIONARY_FILE
 	
 cat $BUILD_DIR/'OTHERS_'${DICTIONARY_FILE_NAME}'.txt' \
 	$BUILD_DIR/'NoRAE_AND_RAE_'${DICTIONARY_FILE_NAME}'.txt' \
+	| $ROOT_DIR/scripts/remove_useless.sh \
 	| $ROOT_DIR/scripts/order_remove_duplicates.sh \
+	| $ROOT_DIR/scripts/remove_useless.sh \
 	>> $DICTIONARY_FILE
 
 #Si estoy dentro de un repositorio de Subversion, se deben exportar
