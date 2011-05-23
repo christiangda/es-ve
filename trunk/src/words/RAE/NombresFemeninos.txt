@@ -5101,6 +5101,7 @@ hada/S
 halconera/S
 haldada/S
 halda/S
+hallaca/S
 hallada/S
 hallulla/S
 halotecnia/S
@@ -5128,6 +5129,7 @@ hartura/S
 hataca/S
 hatería/S
 haya/S
+hayaca/S
 hazaleja/S
 hazana/S
 hazaña/S
