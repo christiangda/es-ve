@@ -12,11 +12,9 @@
 #
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
-
 ################################################################################
 # Tepuyes, Montañaas, Cuevas, etc.
 ################################################################################
-
 ################################################################################
 # Tepuyes y palabras relacionadas
 ################################################################################
@@ -31,11 +29,9 @@ Roraima-tepui
 Roraima
 Sarisariñama
 Macizo Guayanés
-
 ################################################################################
 # Montañas y palabras relacionadas
 ################################################################################
 Ávila
 Waraira Repano
 Warairarepano
-
