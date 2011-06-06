@@ -2901,7 +2901,7 @@ placear/RED
 plagiar/REDÀÂ
 planchar/REDÂÙ
 planchear/RED
-planificar/REDÀ
+planificar/REDÀp
 plantillar/RED
 plasmar/REDÀÄ
 plastecer/IRD
