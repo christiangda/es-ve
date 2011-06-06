@@ -932,7 +932,7 @@ antropomórfico/GS
 antropomorfita/S
 antropomorfo/GS
 antuerpiense/S
-anual/S
+anual/Sl
 anudador/GS
 anuente/S
 anulable/S
@@ -3921,7 +3921,7 @@ diametral/S
 diandro/GS
 dianense/S
 diapreado/GS
-diario/GS
+diario/GSl
 diarreico/GS
 diatónico/SG
 dibranquial/S
@@ -8050,7 +8050,7 @@ menstrual/S
 menstruante/S
 menstruo/GS
 menstruoso/GS
-mensual/eS
+mensual/eSl
 mensurable/Skf
 mensurador/GS
 mental/S
@@ -11198,7 +11198,7 @@ selenitoso/GS
 sellador/GS
 selvático/GS
 selvoso/GS
-semanal/eS
+semanal/eSl
 semanario/SG
 semanero/GS
 semántico/SG
