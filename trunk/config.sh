@@ -66,11 +66,15 @@ PKG_MOZ_TB_MAX_VER="7.0a1"
 
 # Mozilla Sunbird
 PKG_MOZ_SB_MIN_VER="0.4a1"
-PKG_MOZ_SB_MAX_VER="2.4a1"
+PKG_MOZ_SB_MAX_VER="5.0b2pre"
 
 # Mozilla SeaMonkey
 PKG_MOZ_SM_MIN_VER="2.0"
 PKG_MOZ_SM_MAX_VER="2.4a1"
+
+# Mozilla Mobile
+PKG_MOZ_MB_MIN_VER="0.1"
+PKG_MOZ_MB_MAX_VER="7.0a1"
 
 
 ###############################################################################

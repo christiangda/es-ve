@@ -18,167 +18,166 @@
 ################################################################################
 #Rios
 ################################################################################
-Albarregas
-Anauco
-Apón
-Aponwao
-Apure
-Aragua
-Arauca
-Asa
-Atabapo
-Autana
-Barima
-Botanamo
-Cabriales
-Capanaparo
-Caroní
-Cascada del Vino
-Casiquiare
-Casupo
-Cataniapo
-Catatumbo
-Caucagua
-Caura
-Chama
-Chaviripa
-Chiguao
-Chirgua
-Cinaruco
-Cojedes
-Copey
-Cuchivero
-Cunavichito
-Cuyuní
-Guaire
-Guamal
-Guanape
-Guaniamito
-Guanipa
-Guárico
-Guatire
-Güey
-Igués
-Ipire
-Manzanares
-Mapirito
-Mavaca
-Meta
-Mocotíes
-Morichal Largo
-Negro
-Neverí
-Norte
-Ocamo
-Orinoco
-Pacairigua
-Pao
-Paragua
-Pavoni
-Portuguesa
-Quebrada Honda
-Quinimarí
-Samariapo
-San Juan
-Socuy
-Táchira
-Tamanaco
-Tinaco
-Tiznados
-Tocuyo
-Torbes
-Trincheras
-Turbio
-Tuy
-Unare
-Upata
-Uracoa
-Ventuari
-Verde
-Yocoima
-Yuruari
-Zuata
-Zulia
-
+albarregas
+anauco
+apón
+aponwao
+apure
+aragua
+arauca
+asa
+atabapo
+autana
+barima
+botanamo
+cabriales
+capanaparo
+caroní
+cascada del Vino
+casiquiare
+casupo
+cataniapo
+catatumbo
+caucagua
+caura
+chama
+chaviripa
+chiguao
+chirgua
+cinaruco
+cojedes
+copey
+cuchivero
+cunavichito
+cuyuní
+guaire
+guamal
+guanape
+guaniamito
+guanipa
+guárico
+guatire
+güey
+igués
+ipire
+manzanares
+mapirito
+mavaca
+meta
+mocotíes
+morichal Largo
+negro
+neverí
+norte
+ocamo
+orinoco
+pacairigua
+pao
+paragua
+pavoni
+portuguesa
+quebrada Honda
+quinimarí
+samariapo
+san Juan
+socuy
+táchira
+tamanaco
+tinaco
+tiznados
+tocuyo
+torbes
+trincheras
+turbio
+tuy
+unare
+upata
+uracoa
+ventuari
+verde
+yocoima
+yuruari
+zuata
+zulia
 ################################################################################
 # Caños
 ################################################################################
-Pasa
-La Guardia
-La Pica
+pasa
+la guardia
+la pica
 
 ################################################################################
 # Lagos
 ################################################################################
-Valencia
-Maracaibo
+valencia
+maracaibo
 
 ################################################################################
 # Embalses
 ################################################################################
-Agua Viva
-Atarigua
-Bocono-Tucupido
-Cabuv
-Cachinche
-Camaripa
-Camburito-Caparo
-Caruachi
-Chavellinos
-Cruz Verde
-Cumaripa
-Dos Cerritos
-Durute
-El Andino
-El Cigarron
-El Cují
-El Ermitaño
-El Gaical
-El Guamo
-El Medano
-El Pueblito
-Guanapito
-Guaremal
-Guárico
-Guataparo
-Guri
-La becerra
-La Estancia
-Las Doradas
-Las Majaguas
-Los Quediches
-Macagua
-Machango
-Masparro
-Maticora
-Onia
-Pao
-Playa de Piedra
-Santo Domingo
-Socuy
-Taiguaiguai
-Tamanaco
-Taparito
-Tierra Blanca
-Tiznado
-Tiznados
-Tocoma
-Tocuyo de la Costa
-Tule
-Uribante
-Vista Alegre
-Zuata
+agua viva
+atarigua
+bocono-tucupido
+cabuv
+cachinche
+camaripa
+camburito-caparo
+caruachi
+chavellinos
+cruz verde
+cumaripa
+dos cerritos
+durute
+el andino
+el cigarron
+el cují
+el ermitaño
+el gaical
+el guamo
+el medano
+el pueblito
+guanapito
+guaremal
+guárico
+guataparo
+guri
+la becerra
+la estancia
+las doradas
+las majaguas
+los quediches
+macagua
+machango
+masparro
+maticora
+onia
+pao
+playa de piedra
+santo domingo
+socuy
+taiguaiguai
+tamanaco
+taparito
+tierra Blanca
+tiznado
+tiznados
+tocoma
+tocuyo de la costa
+tule
+uribante
+vista alegre
+zuata
 
 ################################################################################
 # Represas
 ################################################################################
-Caruachi
-El Cigarrón
-Guárico
-Guri
-Macagua
-La Becerra
-Tocoma
-Uribante Caparo
-Vista Alegre
+caruachi
+el cigarrón
+guárico
+guri
+macagua
+la becerra
+tocoma
+uribante caparo
+vista alegre
 
