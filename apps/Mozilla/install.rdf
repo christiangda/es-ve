@@ -66,5 +66,13 @@
 			<em:maxVersion>PKG_MOZ_SM_MAX_VER</em:maxVersion>
 		</Description>
 	</em:targetApplication>
+	<!-- Mozilla Mobile -->
+	<em:targetApplication>
+		<Description>
+			<em:id>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</em:id>
+			<em:minVersion>PKG_MOZ_MB_MIN_VER</em:minVersion>
+			<em:maxVersion>PKG_MOZ_MB_MAX_VER</em:maxVersion>
+		</Description>
+	</em:targetApplication>
   </Description>
 </RDF>
