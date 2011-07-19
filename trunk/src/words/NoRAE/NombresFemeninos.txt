@@ -22,23 +22,25 @@ autocompasión/S
 autoconciencia/S
 autoconfianza/S
 autodisciplina/S
-autoprotección/S		# Contribuida por César Romé
+autoprotección/S	# Contribuida por César Romé
 contabilización/S
 coquilla/S			# Contribuida por César Romé
 criolita/S
 cromita/S
 cumplimentación/S
 facturabilidad		# Contribuida por Christian González
+facturable/S		# Contribuida por Christian González
 ferroaleación/S
 fundamentación/S
-interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
+interoperatividad/S	# Contribuida por Gonzalo Higuera Díaz
+laborabilidad		# Contribuida por Christian González
 meritocracia/S
 microinformática/S
 Naturópata/S
 personalización/S
 plaquita/S
-posproducción/S			# Contribuida por Sergio Medina
-preproducción/S			# Contribuida por Sergio Medina
+posproducción/S		# Contribuida por Sergio Medina
+preproducción/S		# Contribuida por Sergio Medina
 reinvención/S
 resiliencia/S
 sandwichera/S
