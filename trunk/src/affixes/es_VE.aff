@@ -6907,3 +6907,13 @@ SFX ú cir       zcámonos   ucir
 SFX ú uir       úyanse     uir
 SFX ú uir       úyase      uir
 SFX ú ir        yámonos    uir
+
+# Sufijo -ada -ado: relacionado, relacionada
+# Agregado por Christian Gonzalez <christiangda@gmail.com>
+SFX ǘ Y 5
+SFX ǘ cion     ada	   ción    # relación -> relacionada
+SFX ǘ cion     ado         ción    # relación -> relacionado
+SFX ǘ 0        ada         [rnl]   # azul -> azulada
+SFX ǘ 0        ado         [rnl]   # azul -> azulado, profesor -> profesorado
+SFX ǘ 0        da          [a]     # canalla -> canallada
+
