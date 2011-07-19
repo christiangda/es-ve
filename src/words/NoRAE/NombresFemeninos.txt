@@ -28,6 +28,7 @@ coquilla/S			# Contribuida por César Romé
 criolita/S
 cromita/S
 cumplimentación/S
+facturabilidad		# Contribuida por Christian González
 ferroaleación/S
 fundamentación/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
