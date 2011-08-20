@@ -11685,7 +11685,7 @@ sisero/S
 sismo/S
 sis/O
 sisón/S
-sistema/S
+sistema/Ss
 sitacismo/S
 sitial/S
 sitio/S

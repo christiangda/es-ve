@@ -5672,6 +5672,7 @@ intermitencia/S
 internacional/S
 interpolación/S
 interpretación/S
+interrelación/S
 interrogación/S
 interrupción/S
 intervención/S
