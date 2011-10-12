@@ -57,11 +57,11 @@ PKG_MOZ_AFFIXES_FILE_NAME="es_VE.aff"
 
 # Mozilla Firefox
 PKG_MOZ_FF_MIN_VER="3.0"
-PKG_MOZ_FF_MAX_VER="8.0a1"
+PKG_MOZ_FF_MAX_VER="10.0a1"
 
 # Mozilla Thunderbird
 PKG_MOZ_TB_MIN_VER="3.0"
-PKG_MOZ_TB_MAX_VER="8.0a1"
+PKG_MOZ_TB_MAX_VER="10.0a1"
 
 # Mozilla Sunbird
 PKG_MOZ_SB_MIN_VER="0.4a1"
@@ -69,11 +69,11 @@ PKG_MOZ_SB_MAX_VER="5.0b2pre"
 
 # Mozilla SeaMonkey
 PKG_MOZ_SM_MIN_VER="2.0"
-PKG_MOZ_SM_MAX_VER="2.5a1"
+PKG_MOZ_SM_MAX_VER="2.7a1"
 
 # Mozilla Mobile
 PKG_MOZ_MB_MIN_VER="0.1"
-PKG_MOZ_MB_MAX_VER="8.0"
+PKG_MOZ_MB_MAX_VER="10.0a1"
 
 
 ###############################################################################
