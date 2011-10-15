@@ -1,4 +1,4 @@
-# Lista de lemas: NombresMasculinos.txt
+# Lista de lemas: VerbosTransitivosPronominales.txt
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
@@ -14,37 +14,5 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-alnico/S
-autodesarrollo/S
-causalismo/S
-cibercafé/S
-datáfono/S
-desembolso/S
-dimensionamiento/S
-direccionamiento/S
-fenólico/S
-flexómetro/S
-franquiciado/S
-hiperenlace/S
-hipervínculo/S
-interrelacionado/S
-iusnaturalismo
-kiosko/S
-máster/S
-microcirujano/GS
-neurofisiólogo/GS
-nutrólogo/GS
-optometrista/S
-paleobiólogo/GS
-paleobotánico/GS
-poliestireno/S
-polímetro/S
-portabroca/S
-punzonado/S
-prehistoriador/GS
-radioastrónomo/GS
-ranurado/S
-rebarbado/S
-refrentado/S
-renting
-tocoginecólogo/GS
+asignarse
+asignársele/S

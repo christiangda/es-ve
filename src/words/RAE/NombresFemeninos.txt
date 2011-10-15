@@ -5668,6 +5668,7 @@ interferencia/S
 interioridad/S
 interiorización/S
 interjección/S
+interlínea/S
 intermitencia/S
 internacional/S
 interpolación/S
@@ -8239,6 +8240,7 @@ planada/S
 plana/S
 plancha/S
 plancheta/S
+planeación
 planga/S
 planicie/S
 planificación/S
@@ -8505,7 +8507,9 @@ presión/kSpg
 prestamera/S
 presteza/S
 presunción/S
+presuposición/S
 presura/S
+presurización
 pretendienta/S
 pretina/N
 pretura/aS
