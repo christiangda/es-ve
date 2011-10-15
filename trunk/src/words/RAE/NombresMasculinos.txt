@@ -2627,7 +2627,7 @@ capitel/S
 capitolio/S
 capitulario/S
 capitular/S
-capítulo/S
+capítulo/sS
 capón/S
 caporalista/S
 caporal/S
@@ -4118,7 +4118,7 @@ deponente/S
 deportivo/S
 deprecativo/S
 depresor/S
-dequeísmo
+dequeísmo/S
 derechuelo/S
 dermatoesqueleto/S
 Dermatólogo/GS

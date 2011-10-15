@@ -10713,7 +10713,6 @@ dactilo
 dáctilo
 dactilografía
 dactilografiar
-dactilográfico
 dactilógrafo
 dactilograma
 dactilología
@@ -17883,7 +17882,6 @@ interiorismo
 interiorista
 interiorización
 interjectivamente
-interlínea
 interlineación
 interlocución
 interlocutoriamente
@@ -20070,7 +20068,6 @@ memeches
 memorialesco
 memoriógrafo
 memorión
-memorístico
 memoroso
 menarca
 menarquia
@@ -23932,10 +23929,6 @@ préstido
 prestímano
 prestimonio
 prestiño
-presuncioso
-presuposición
-presupuestal
-presurización
 pretemporada
 pretención
 pretenciosidad
@@ -25179,7 +25172,6 @@ rétor
 retorcijón
 retoricadamente
 retóricamente
-retornable
 retorromance
 retozón
 retraher
