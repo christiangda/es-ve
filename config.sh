@@ -33,7 +33,7 @@ THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
 PKG_MOZ_CREATE=1
 
 # Version
-PKG_MOZ_VERSION="1.1.8"
+PKG_MOZ_VERSION="1.1.9"
 
 #Datos del autor del paquete
 PKG_MOZ_AUTHOR_NAME="Christian González"
@@ -49,7 +49,7 @@ PKG_MOZ_NAME="Diccionario en Español para Venezuela"
 PKG_MOZ_DESCRIPTION="Habilita la revisión ortográfica en español para Venezuela, la separación silábica y los sinónimos"
 
 #Nombre que tendrá el archivo del paquete del diccionario para Mozilla
-PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.1.8-fx+tb+sb+sm.xpi"
+PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.1.9-fx+tb+sb+sm.xpi"
 
 #Nombre de los Diccionarios
 PKG_MOZ_DICTIONARY_FILE_NAME="es_VE.dic"
@@ -84,7 +84,7 @@ PKG_MOZ_MB_MAX_VER="10.0a1"
 PKG_oOo_CREATE=1
 
 # Version del diccionario
-PKG_oOo_VERSION="1.1.8"
+PKG_oOo_VERSION="1.1.9"
 
 #Datos del autor del paquete
 PKG_oOo_AUTHOR_NAME="Christian González"
@@ -103,4 +103,32 @@ PKG_oOo_AFFIXES_FILE_NAME="es_VE.aff"
 PKG_oOo_HYPHNATION_FILE_NAME="hyph_es_VE.dic"
 PKG_oOo_THESAURUS_DAT_FILE_NAME="th_es_VE.dat"
 PKG_oOo_THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
+
+###############################################################################
+# LibreOffice
+###############################################################################
+
+# ¿Crear este diccionario?, 1 si se quiere crear, 0 si no
+PKG_LO_CREATE=1
+
+# Version del diccionario
+PKG_LO_VERSION="1.1.9"
+
+#Datos del autor del paquete
+PKG_LO_AUTHOR_NAME="Christian González"
+PKG_LO_AUTHOR_EMAIL="christiangda@gmail.com"
+
+#Nombre que tendrá el paquete del diccionario para OpenOffice
+PKG_LO_NAME_FILE="dict-es_VE.oxt"
+#PKG_oOo_NAME_FILE="dict-es_VE.zip"
+
+#Versión mínima de OpenOffice soportada
+PKG_LO_APP_MIN_VERSION="3.2"
+
+#Nombre de los Diccionarios
+PKG_LO_DICTIONARY_FILE_NAME="es_VE.dic"
+PKG_LO_AFFIXES_FILE_NAME="es_VE.aff"
+PKG_LO_HYPHNATION_FILE_NAME="hyph_es_VE.dic"
+PKG_LO_THESAURUS_DAT_FILE_NAME="th_es_VE.dat"
+PKG_LO_THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
 

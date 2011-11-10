@@ -25,7 +25,7 @@ if [ -d ".svn" ]; then
 fi
 
 #Verificamos si se quieren crear los diccionarios
-if [ "$PKG_MOZ_CREATE" == "0" -a "$PKG_oOo_CREATE" == "0" ]; then
+if [ "$PKG_MOZ_CREATE" == "0" -a "$PKG_oOo_CREATE" == "0" -a "$PKG_LO_CREATE" == "0" ]; then
 	echo "No se ha colocado las variables necesarias en el archivo 'config-sh'"
 	echo 'se debe editar este achivo y colocar los valores necesarios en las variables'
 	echo 'que allí se encuentran'
@@ -82,7 +82,7 @@ if [ -d $BUILD_DIR ]; then
 	rm -rf $BUILD_DIR
 fi
 
-mkdir $ROOT_DIR/$TMP_DIR
+mkdir -p $ROOT_DIR/$TMP_DIR
 
 #Copio todos los archivos necesarios a esta nueva ruta y les remuevo los
 #comentarios y las lineas en blanco
@@ -169,7 +169,7 @@ if [ "$PKG_MOZ_CREATE" == "1" ]; then
 	OUT_DIR=$ROOT_DIR'/dictionaries/Mozilla/v'$OUT_VER
 	
 	if [ ! -d $OUT_DIR ]; then
-		mkdir $OUT_DIR
+		mkdir -p $OUT_DIR
 	else
 		echo -n '¡Alerta! '
 		echo "Será reemplazado el archivo $OUT_DIR/$PKG_MOZ_NAME_FILE"
@@ -209,13 +209,54 @@ if [ "$PKG_oOo_CREATE" == "1" ]; then
 	OUT_DIR=$ROOT_DIR'/dictionaries/OpenOffice/v'$OUT_VER
 	
 	if [ ! -d $OUT_DIR ]; then
-		mkdir $OUT_DIR
+		mkdir -p $OUT_DIR
 	else
 		echo -n '¡Alerta! '
 		echo "Será reemplazado el archivo $OUT_DIR/$PKG_oOo_NAME_FILE"
 	fi
 	
 	cp ./$PKG_oOo_NAME_FILE $OUT_DIR/
+	cd $ROOT_DIR
+	
+fi
+
+#Diccionario de LibreOffice
+if [ "$PKG_LO_CREATE" == "1" ]; then
+	echo "Creando diccionario para LibreOffice ..."
+
+	for PKG_VAR in `grep -e '^PKG_LO_.*' config.sh | sed 's/\ /\@@/g' | sed 's/\"//g'`
+	do
+		KEY=`echo ${PKG_VAR} | gawk -F= '{ print $1 }'`
+		VALUE=`echo ${PKG_VAR} | gawk -F= '{ print $2 }' | sed -e 's/\@@/\\\ /g'`
+
+		for APPS_FILE in `grep -R $KEY $BUILD_DIR/apps/LibreOffice/ | gawk -F: '{ print $1 }' | sort | uniq`
+		do
+			sed -i.bkup s/$KEY/"${VALUE}"/g $APPS_FILE
+			rm -rf $APPS_FILE'.bkup'
+		done
+	done
+	
+	#Coloco los diccionarios y demás cosas donde deben ir
+	cp $DICTIONARY_FILE $BUILD_DIR/apps/LibreOffice/dictionaries/
+	cp $AFFIXES_FILE $BUILD_DIR/apps/LibreOffice/dictionaries/
+	cp $HYPHNATION_FILE $BUILD_DIR/apps/LibreOffice/dictionaries/
+	cp $THESAURUS_DAT_FILE $BUILD_DIR/apps/LibreOffice/dictionaries/
+	cp $THESAURUS_IDX_FILE $BUILD_DIR/apps/LibreOffice/dictionaries/
+	
+	#Creo el archivo comprimido del diccionario
+	cd $BUILD_DIR/apps/LibreOffice/
+	zip -r -q $PKG_LO_NAME_FILE *
+	OUT_VER=`grep -e 'PKG_LO_VERSION' $ROOT_DIR/config.sh | gawk -F= '{ print $2 }' | sed -e 's/\"//g'`
+	OUT_DIR=$ROOT_DIR'/dictionaries/LibreOffice/v'$OUT_VER
+	
+	if [ ! -d $OUT_DIR ]; then
+		mkdir -p $OUT_DIR
+	else
+		echo -n '¡Alerta! '
+		echo "Será reemplazado el archivo $OUT_DIR/$PKG_LO_NAME_FILE"
+	fi
+	
+	cp ./$PKG_LO_NAME_FILE $OUT_DIR/
 	cd $ROOT_DIR
 	
 fi

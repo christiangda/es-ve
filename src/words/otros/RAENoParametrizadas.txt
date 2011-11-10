@@ -10293,7 +10293,6 @@ cualque
 cuamaño
 cuamil
 cuantidad
-cuantificable
 cuantificación
 cuantimás
 cuape
@@ -25206,7 +25205,6 @@ reumatólogo
 reundir
 reunificación
 reunificar
-reutilizable
 reutilización
 revacunación
 reválida

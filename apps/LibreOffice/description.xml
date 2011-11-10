@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
-	<version value="PKG_oOo_VERSION" />
-	<identifier value="org.openoffice.dictionaries.es.ve" />
+	<version value="PKG_LO_VERSION" />
+	<identifier value="org.libreoffice.dictionaries.es.ve" />
 	
 	<display-name>
 		<name lang="es">Diccionario de correción ortográfica en español para Venezuela</name>
@@ -15,7 +15,7 @@
 	For dictionary extensions that will be 'OpenOffice.org 3.0'
 	-->
 	<dependencies>
-		<OpenOffice.org-minimal-version value="PKG_oOo_APP_MIN_VERSION" d:name="OpenOffice.org PKG_oOo_APP_MIN_VERSION"/>
+		<OpenOffice.org-minimal-version value="PKG_LO_APP_MIN_VERSION" d:name="OpenOffice.org PKG_LO_APP_MIN_VERSION"/>
 	</dependencies>
 
 	<!--If you uploadet your extension to the repository (which should be the default!) 
