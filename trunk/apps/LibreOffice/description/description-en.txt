@@ -1,11 +1,11 @@
-Spanish (Venezuela) spell check dictionary
+Spanish Venezuela spell check dictionary
 
 This extension consists of:
    1. Spell Checker
    2. Thesaurus
    3. Hyphenation
 
-Made for: PKG_oOo_AUTHOR_NAME <PKG_oOo_AUTHOR_EMAIL>
+Made for: PKG_LO_AUTHOR_NAME <PKG_LO_AUTHOR_EMAIL>
 
 Remember to rate this dictionary in: 
 http://extensions.services.openoffice.org/en/project/dict-es_VE

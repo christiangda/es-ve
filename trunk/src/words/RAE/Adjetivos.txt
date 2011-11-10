@@ -3374,6 +3374,7 @@ cualquier
 cualquiera
 cual/S
 cuántico/GS
+cuantificable/S
 cuantioso/GS
 cuantitativo/GS
 cuarenta/S
@@ -10731,6 +10732,7 @@ reucliniano/GS
 reumática/c
 reumático/GcS
 reusense/S
+reutilizable/S
 revanchista/S
 revejido/GS
 revelable/S
