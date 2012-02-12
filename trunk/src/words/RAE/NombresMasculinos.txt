@@ -3879,6 +3879,7 @@ cuadradillo/S
 cuadral/S
 cuadrantal/S
 cuadrante/S
+cuadratín
 cuádriceps
 cuadrigato/S
 cuadriguero/S
@@ -10632,6 +10633,7 @@ recado/S
 recargador/S
 recatón/H
 recaudamiento/S
+recaudo/S
 recelador/S
 recelamiento/S
 recelo
@@ -11924,6 +11926,7 @@ sumulista/S
 superávit
 superiorato/S
 superior/S
+superíndice/S
 supermercado
 superyó/S
 supino/S

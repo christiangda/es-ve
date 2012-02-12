@@ -2786,7 +2786,9 @@ contumelia/S
 contundencia/S
 contusión/S
 convalecencia/S
+convalidación/S
 convención/pS
+convección
 conveniencia/hkS
 conventualidad/S
 convergencia/S
@@ -9102,6 +9104,7 @@ reutilización/S
 revancha/S
 revelación/S
 revaluación/S
+reválida/S
 revendedera/S
 reverberación/S
 reverencia/S

@@ -30,3 +30,8 @@ monitoreado/GS
 digitalización/S
 ortofotomapa/S
 satelitale/S
+publíquese
+americanismo/S
+fotostática/GS
+ortográficamente
+semánticamente
