@@ -9612,8 +9612,6 @@ conturbativo
 contutor
 conuquero
 conurbación
-convalidación
-convección
 convectivo
 convenencia
 convenenciero
@@ -10260,7 +10258,6 @@ cuadernario
 cuado
 cuadradamente
 cuadradura
-cuadratín
 cuadri
 cuádrica
 cuadricenal
@@ -11799,7 +11796,6 @@ diacatolicón
 diacitrón
 diacodión
 diaconía
-diacrítico
 diacronía
 diacrónico
 diacústica
@@ -22834,7 +22830,6 @@ pericráneo
 perifonía
 perífono
 perífrasi
-perifrástico
 perillán
 perimétrico
 perinatal
@@ -26752,7 +26747,6 @@ superestructura
 superferolítico
 superfetación
 superheterodino
-superíndice
 superlación
 supernova
 súpero
@@ -28556,7 +28550,6 @@ uñi
 uniata
 unicameral
 uñidura
-unificador
 unifoliado
 uniformizar
 uñilargo

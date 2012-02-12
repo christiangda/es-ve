@@ -33,7 +33,7 @@ THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
 PKG_MOZ_CREATE=1
 
 # Version
-PKG_MOZ_VERSION="1.1.9"
+PKG_MOZ_VERSION="1.1.10"
 
 #Datos del autor del paquete
 PKG_MOZ_AUTHOR_NAME="Christian González"
@@ -49,7 +49,7 @@ PKG_MOZ_NAME="Diccionario en Español para Venezuela"
 PKG_MOZ_DESCRIPTION="Habilita la revisión ortográfica en español para Venezuela, la separación silábica y los sinónimos"
 
 #Nombre que tendrá el archivo del paquete del diccionario para Mozilla
-PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.1.9-fx+tb+sb+sm.xpi"
+PKG_MOZ_NAME_FILE="diccionario_espa__ol_venezuela-1.1.10-fx+tb+sb+sm.xpi"
 
 #Nombre de los Diccionarios
 PKG_MOZ_DICTIONARY_FILE_NAME="es_VE.dic"
@@ -57,7 +57,7 @@ PKG_MOZ_AFFIXES_FILE_NAME="es_VE.aff"
 
 # Mozilla Firefox
 PKG_MOZ_FF_MIN_VER="3.0"
-PKG_MOZ_FF_MAX_VER="11.0a1"
+PKG_MOZ_FF_MAX_VER="13.0a1"
 
 # Mozilla Thunderbird
 PKG_MOZ_TB_MIN_VER="3.0"
@@ -69,11 +69,11 @@ PKG_MOZ_SB_MAX_VER="5.0b2pre"
 
 # Mozilla SeaMonkey
 PKG_MOZ_SM_MIN_VER="2.0"
-PKG_MOZ_SM_MAX_VER="2.8a1"
+PKG_MOZ_SM_MAX_VER="2.9.*"
 
 # Mozilla Mobile
 PKG_MOZ_MB_MIN_VER="0.1"
-PKG_MOZ_MB_MAX_VER="11.0a1"
+PKG_MOZ_MB_MAX_VER="13.0a1"
 
 
 ###############################################################################
@@ -84,7 +84,7 @@ PKG_MOZ_MB_MAX_VER="11.0a1"
 PKG_oOo_CREATE=1
 
 # Version del diccionario
-PKG_oOo_VERSION="1.1.9"
+PKG_oOo_VERSION="1.1.10"
 
 #Datos del autor del paquete
 PKG_oOo_AUTHOR_NAME="Christian González"
@@ -112,7 +112,7 @@ PKG_oOo_THESAURUS_IDX_FILE_NAME="th_es_VE.idx"
 PKG_LO_CREATE=1
 
 # Version del diccionario
-PKG_LO_VERSION="1.1.9"
+PKG_LO_VERSION="1.1.10"
 
 #Datos del autor del paquete
 PKG_LO_AUTHOR_NAME="Christian González"
