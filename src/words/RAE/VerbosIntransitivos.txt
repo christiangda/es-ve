@@ -346,6 +346,7 @@ desbarrar/RED
 desbeber/RED
 descaer/IRD
 descarrilar/RED
+desinstalar/RED
 descomer/RED
 desconfiar/IRD
 desconformar/RED
