@@ -69,7 +69,7 @@ PKG_MOZ_SB_MAX_VER="5.0b2pre"
 
 # Mozilla SeaMonkey
 PKG_MOZ_SM_MIN_VER="2.0"
-PKG_MOZ_SM_MAX_VER="2.11.a1"
+PKG_MOZ_SM_MAX_VER="2.11a1"
 
 # Mozilla Mobile
 PKG_MOZ_MB_MIN_VER="0.1"
