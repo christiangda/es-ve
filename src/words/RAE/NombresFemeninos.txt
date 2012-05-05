@@ -3337,7 +3337,7 @@ diartrosis
 diastasa/S
 diastrofia/S
 diatermia/S
-diátesis
+diátesisitera
 diatomea/S
 diatriba/S
 dicacidad/S
@@ -3448,7 +3448,7 @@ dispensa/S
 dispepsia/S
 dispersión/S
 displicencia/S
-disponibilidad/S
+disponibilidad/Sk
 disposición/Snk
 dispositiva/S
 disputa/S
@@ -5737,6 +5737,7 @@ isoterma/S
 isotropía/S
 isquemia/S
 itálica/S
+iteración/S
 itria/S
 iza/S
 izquierda/S
@@ -9670,6 +9671,7 @@ sirria/S
 sirte/S
 sirvienta/S
 sisa/S
+sistematización/S
 sistemática/S
 sístole/S
 sitacosis
