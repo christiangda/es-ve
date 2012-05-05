@@ -4117,7 +4117,7 @@ disperso/GS
 dispersor/GS
 displicente/S
 disponedor/GS
-disponible/S
+disponible/Sk
 dispositivo/GS
 dispuesta/k
 dispuesto/kGS
@@ -6897,6 +6897,7 @@ interceptor/GS
 intercesor/GS
 interconectado/GS
 intercultural/S
+interdisciplinario/GS
 interesada/h
 interesado/hSG
 interesante/S
@@ -11454,6 +11455,7 @@ sisador/GS
 sísmico/GS
 sisón/SG
 sistemático/GS
+sistémico/GS
 sitiado/GS
 sitiador/GS
 sitibundo/GS

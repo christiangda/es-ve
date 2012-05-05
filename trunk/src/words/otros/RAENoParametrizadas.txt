@@ -17856,7 +17856,6 @@ interdicción
 interdigital
 interdisciplinar
 interdisciplinariedad
-interdisciplinario
 interesable
 interesal
 interétnico
@@ -18092,7 +18091,6 @@ italo
 ítalo
 italorromance
 itapuense
-iteración
 itericia
 itis
 itivo
@@ -26304,8 +26302,6 @@ sismología
 sismológico
 sismólogo
 sismómetro
-sistematización
-sistémico
 sístilo
 sistólico
 sistro

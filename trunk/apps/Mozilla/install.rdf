@@ -50,14 +50,6 @@
 			<em:maxVersion>PKG_MOZ_TB_MAX_VER</em:maxVersion>
 		</Description>
 	</em:targetApplication>
-	<!-- Mozilla Sunbird -->
-	<em:targetApplication>
-		<Description>
-			<em:id>{718e30fb-e89b-41dd-9da7-e25a45638b28}</em:id>
-			<em:minVersion>PKG_MOZ_SB_MIN_VER</em:minVersion>
-			<em:maxVersion>PKG_MOZ_SB_MAX_VER</em:maxVersion>
-		</Description>
-	</em:targetApplication>
 	<!-- Mozilla SeaMonkey -->
 	<em:targetApplication>
 		<Description>
@@ -72,6 +64,14 @@
 			<em:id>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</em:id>
 			<em:minVersion>PKG_MOZ_MB_MIN_VER</em:minVersion>
 			<em:maxVersion>PKG_MOZ_MB_MAX_VER</em:maxVersion>
+		</Description>
+	</em:targetApplication>
+	<!-- Android -->
+	<em:targetApplication>
+		<Description>
+			<em:id>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</em:id>
+			<em:minVersion>PKG_MOZ_AD_MIN_VER</em:minVersion>
+			<em:maxVersion>PKG_MOZ_AD_MAX_VER</em:maxVersion>
 		</Description>
 	</em:targetApplication>
   </Description>

@@ -53,3 +53,6 @@ multipropósito/S
 evaluativo/GS
 contraparte/S
 postítulo/S
+gerenciar
+gerencial
+indisponibilidad
