@@ -65,4 +65,5 @@
 		<src xlink:href="description/description-en.txt" lang="en" />
 		<src xlink:href="description/description-es.txt" lang="es" />
 	</extension-description>
+	<platform value="all" />
 </description>
