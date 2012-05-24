@@ -226,8 +226,7 @@ acrisolador/GS
 acristalado/GS
 acrobático/GS
 actinomorfo/GS
-activa/flkp
-activo/pGSflk
+activo/opGSflk
 actualizador/SG
 actual/S
 actuante/S
@@ -9872,6 +9871,7 @@ postulante/S
 póstumo/GS
 potable/kS
 potásico/GS
+potenciador/pGS
 potencial/S
 potente/nSk
 potenzado/SG
