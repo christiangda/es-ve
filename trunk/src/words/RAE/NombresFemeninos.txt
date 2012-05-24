@@ -990,6 +990,7 @@ autarquía
 auténtica/S
 autenticación
 autenticidad/S
+autentificación/S
 autoafirmación/S
 autoclave/S
 autocopista/S
@@ -2629,6 +2630,7 @@ confiabilidad/S
 confianza/hS
 confidencia/kS
 confidencialidad/S
+configuración/pS
 confirmación/S
 confiscación/S
 confitería/S
@@ -8441,6 +8443,7 @@ potajera/LS
 potala/S
 potasa/S
 potencia/kSn
+potenciación/pS
 potencialidad/S
 potenza/S
 poterna/S
@@ -8966,7 +8969,7 @@ reelaboración/S
 reelección/S
 reencarnación/S
 refección/S
-referencia/S
+referencia/Syǘ
 refinación/S
 refinadera/S
 refinadura/S

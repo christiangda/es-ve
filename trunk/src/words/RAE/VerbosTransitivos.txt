@@ -779,7 +779,7 @@ coartar/REDÀÂ
 cobrear/RED
 cocar/RED
 codiciar/REDÀ
-codificar/REDÀ
+codificar/npREDÀ
 codirigir/RED
 cohechar/RED
 coheredar/RED

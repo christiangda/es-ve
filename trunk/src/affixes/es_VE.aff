@@ -17,7 +17,8 @@ SET UTF-8
 TRY aeroinsctldumpbgfvhzóíjáqéñxyúükwAEROINSCTLDUMPBGFVHZÓÍJÁQÉÑXYÚÜKW
 
 # Tabla de reemplazos
-REP 99
+REP 100
+REP almenos    al menos
 REP ás         az
 REP az         ás
 REP cc         x
@@ -298,6 +299,10 @@ PFX w 0         retro     .
 # Prefijo extra-: Prefijo que significa ‘fuera de’
 PFX x Y 1
 PFX x 0         extra     .
+
+# Prefijo geo-: Prefijo que significa ‘Tierra, Planeta’
+PFX y Y 1
+PFX y 0         geo     .
 
 #
 #

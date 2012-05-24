@@ -233,7 +233,7 @@ acrónimo/S
 actinismo/S
 actinomices
 activismo/S
-activo/pS
+activo/opSG
 actor/pS
 acto/Sj
 actuario/S
@@ -2336,6 +2336,7 @@ cabillero/S
 cabillo/S
 cablegrama/S
 cable/S
+cableado/pS
 cabotaje/S
 cabracho/S
 cabrahigar/S
@@ -6889,6 +6890,7 @@ imperio/S
 impermeable/S
 impertinente/S
 ímpetu
+implemento/GS
 impluvio/S
 imponderable/S
 impresionismo/S
@@ -9849,7 +9851,7 @@ piujar/S
 piulido/S
 piune/S
 pivote/S
-píxel
+píxel/S
 piyama/S
 pizarral/S
 pizarrero/S
